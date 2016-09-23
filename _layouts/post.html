@@ -1,0 +1,29 @@
+---
+
+---
+
+{% include head.html %}
+
+{% include nav.html %}
+
+    <div class="container">
+      <div class="row">
+        <div class="panel panel-info col-md-2 hidden-xs hidden-sm">
+          <div class="panel-body">
+            {% for post in site.posts %}
+            <p><a href="{{ post.url }}"> {{ post.title }}<small> / {{ post.type }}</small> </a></p>
+            {% endfor %}
+          </div>
+        </div>
+
+        <div class="col-md-9 col-xs-12 bcenter">
+          <div class="jumbotron">
+            <h2> {{ page.title }}<small> / {{ page.author }}</small> </h2>
+            <p> {{ page.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
+            {{ content }}
+          </div>
+      </div>
+      </div>
+      </div>
+
+{% include footer.html %}

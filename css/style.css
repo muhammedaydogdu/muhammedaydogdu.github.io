@@ -1,0 +1,39 @@
+body .bnavbar {
+  background-color: #D7BEE8;
+  padding: 20px 0;
+  margin-top: 20px;
+}
+.nav-texts {
+  font-size: 15px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+div .name {
+  font-size: 30px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.panel {
+  background-color: #CFD1CF;
+  border-radius: 10px;
+  margin: 10px;
+  margin-left: 20px;
+
+}
+.bcenter {
+  background-color: #B9BDFA;
+  border-radius: 10px;
+}
+.jumbotron {
+  margin: 10px -5px 0 -5px;
+  .font-size:
+}
+footer {
+  height: 60px;
+}
+.foot-texts {
+  display: inline;
+}
+body .jumbotron p {
+  font-size: 14px;
+}
