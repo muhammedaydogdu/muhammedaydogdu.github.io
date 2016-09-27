@@ -10,16 +10,20 @@
         <div class="panel panel-info col-md-2 hidden-xs hidden-sm">
           <div class="panel-heading">Son Eklenenler</div>
           <div class="panel-body">
-            {% for post in site.posts %}
+            <p><a href="/2016-09-27-baslarken">Başlarken..</a></p>
+            <!--{% for post in site.posts %}
             <p><a href="{{ post.url }}"> {{ post.title }}<small> / {{ post.type }}</small> </a></p>
-            {% endfor %}
+            {% endfor %}-->
           </div>
         </div>
         <div class="col-md-9 col-xs-12 bcenter">
+          <ol class="breadcrumb">
+            <li class="active">Yazılar</li>
+          </ol>
           {% for post in site.posts%}
           <div class="jumbotron">
             <h2>{{ post.title }}<small>/{{ post.author}}</small></h2>
-            {{ post.content | truncate: 200 }} <a href="{{ post.url }}">..Devamını oku</a>
+            {{ post.content | truncate: 200 }} <a href="{{ post.url }}">Devamını oku</a>
           </div>
           {% endfor %}
         </div>

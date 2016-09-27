@@ -1,4 +1,9 @@
 ---
+authors:
+  - name: "Berat Gönültaş"
+    url: "/berat-gonultas"
+  - name: "Muhammed Aydoğdu"
+    url: "/muhammed-aydogdu"
 ---
 
 {% include head.html %}
@@ -15,21 +20,17 @@
             <p><a href="{{ post.url }}"> {{ post.title }}<small> / {{ post.type }}</small> </a></p>
             {% endfor %}-->
           </div>
+        </div>
         <div class="col-md-9 col-xs-12 bcenter">
           <ol class="breadcrumb">
-            <li><a href="/tum-yazılar.html">Yazılar</a></li>
-            <li class="active">Deneme</li>
+            <li class="active">Yazarlar</li>
           </ol>
-          {% for post in site.posts %}
-            {% if post.type == "Deneme" %}
-              <div class="jumbotron">
-                <h2>{{ post.title }}<small>/{{ post.author}}</small></h2>
-                {{ post.content | truncate: 200 }} <a href="{{ post.url }}">Devamını oku</a>
-              </div>
-            {% endif %}
-          {% endfor %}
+          <div class="jumbotron">
+            {% for author in page.authors %}
+            <h4><a href="{{author.url}}">{{ author.name }}</a></h4>
+            {% endfor %}
+          </div>
         </div>
       </div>
-    </div>
 
 {% include footer.html %}
