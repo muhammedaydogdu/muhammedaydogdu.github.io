@@ -10,9 +10,6 @@ body .bnavbar {
   margin-top: 20px;
 }
 .nav-txt {
-  position: relative;
-  top: 30px;
-  right: 140px;
   font-family: 'Playfair Display', serif;
 }
 .nav-texts {
@@ -42,7 +39,6 @@ div #quote_ {
 }
 .jumbotron {
   margin: 10px -5px 0 -5px;
-  .font-size:
 }
 footer {
   height: 60px;
