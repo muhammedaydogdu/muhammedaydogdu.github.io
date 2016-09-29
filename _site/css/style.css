@@ -28,19 +28,18 @@ div #quote_ {
 }
 .panel {
   background-color: #CFD1CF;
-  border-radius: 10px;
   margin: 10px;
   margin-left: 20px;
 }
 .bcenter {
   background-color: #B9BDFA;
-  border-radius: 10px;
 }
 .jumbotron {
   margin: 10px -5px 0 -5px;
 }
 footer {
-  height: 60px;
+  background-color: #D7BEE8;
+  margin-top: 20px;
 }
 .foot-texts {
   display: inline;
