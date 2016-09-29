@@ -1,10 +1,19 @@
 * {
+  font-family: 'Lato', sans-serif;
+}
+nav {
   font-family: 'Playfair Display', serif;
 }
 body .bnavbar {
   background-color: #D7BEE8;
   padding: 20px 0;
   margin-top: 20px;
+}
+.nav-txt {
+  position: relative;
+  top: 30px;
+  right: 140px;
+  font-family: 'Playfair Display', serif;
 }
 .nav-texts {
   font-size: 15px;
@@ -15,6 +24,10 @@ div .name {
   font-size: 30px;
   margin-top: auto;
   margin-bottom: auto;
+  font-family: 'Playfair Display', serif;
+}
+div #quote_ {
+  font-family: 'Playfair Display', serif;
 }
 .panel {
   background-color: #CFD1CF;
