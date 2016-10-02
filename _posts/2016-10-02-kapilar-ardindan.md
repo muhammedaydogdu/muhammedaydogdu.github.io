@@ -6,7 +6,7 @@ type: /Deneme
 ---
 
 
-_"Lütfen tarzıma aldırmayın, iyi olabilir ya da olmayabilir. Ama sadece sözlerimin haklı olup olmadığını düşünün ve yalnızca bunu dikkate alın." (Sokrates)_
+_"Lütfen tarzıma aldırmayın, iyi olabilir ya da olmayabilir. Ama sadece sözlerimin haklı olup olmadığını düşünün ve yalnızca bunu dikkate alın." Sokrates_
 
 <br/>
 
