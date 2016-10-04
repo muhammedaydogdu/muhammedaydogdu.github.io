@@ -2,7 +2,7 @@
 layout: post
 title: Kapılar Ardında
 author: Muhammed Aydoğdu
-type: /Deneme
+type: Deneme/
 ---
 
 

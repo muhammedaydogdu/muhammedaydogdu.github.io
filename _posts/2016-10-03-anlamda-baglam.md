@@ -2,7 +2,7 @@
 layout: post
 title: Anlamda Bağlam ve İstiklâl Marşı Derneği
 author: Berat Gönültaş
-type: /Deneme
+type: Deneme/
 ---
 İki gün önce, 29 Zilhicce 1437’yi 1 Muharrem 1438’e bağlayan Hicri yılbaşı akşamında, Muhammed Aydoğdu’yla birlikte amaçlarından birini ve de ilkini “Dünyada ve Türkiye’de insana yaraşır şekilde yaşamak ve yaşatmak için gereken zemini tesis etmek” olarak dile getiren İstiklâl Marşı Derneği’nin tertip ettiği İstiklâl Takvimi Tanıtım Toplantısı’na katıldık. Toplantının yapıldığı Üsküdar’daki kültür merkezinde adı geçen takvim, İsmet Özel’in kitapları ve dernekle ilgili çeşitli ürünler de satışa sunulmuştu. Değindiğim çeşitli ürünler arasında üstünde dernek logosu bulunan ve Kuran alfabesiyle de olmak üzere “Türk’ün Sabrını Taşırma, Türküm Sabrımı Taşırma” yazılı çanta rozetleri de vardı. Bir tane de ben aldım, ve Muhammed’e “Normalde çantamı götürmem okula ama bundan sonra götüreceğim” dedim. Çünkü o an, o ortamda, o rozetin üstünde yazan şeyin tekabül ettiği anlam buna değerdi.
 

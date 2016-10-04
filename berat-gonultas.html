@@ -11,7 +11,7 @@
           <div class="panel-heading">Son Eklenenler</div>
           <div class="panel-body">
             {% for post in site.posts %}
-            <p><a href="{{ post.url }}"> {{ post.title }}<small>{{ post.type }}</small> </a></p>
+            <p><a href="{{ post.url }}"> <small>{{ post.type }}</small>{{ post.title }}</a></p>
             {% endfor %}
           </div>
         </div>
@@ -23,7 +23,7 @@
           {% for post in site.posts %}
             {% if post.author == "Berat Gönültaş" %}
               <div class="jumbotron">
-                <h2>{{ post.title }}<small> / {{ post.author }}</small></h2>
+                <h2><small>{{ post.type }}</small>{{ post.title }}</h2>
                 <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
                 {{ post.content | truncate: 200 }} <a href="{{ post.url }}">Devamını oku</a>
               </div>
