@@ -25,7 +25,7 @@
               <div class="jumbotron">
                 <h2><small>{{ post.type }}</small>{{ post.title }}</h2>
                 <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
-                {{ post.content | truncate: 200 }} <a href="{{ post.url }}">Devamını oku</a>
+                {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
               </div>
             {% endif %}
           {% endfor %}

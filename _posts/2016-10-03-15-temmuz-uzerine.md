@@ -3,6 +3,7 @@ layout: post
 title: 15 Temmuz Üzerine
 author: Berat Gönültaş
 type: Deneme/
+x: "200"
 ---
 (08/08/2016' da yazıldı.)
 

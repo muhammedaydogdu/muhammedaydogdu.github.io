@@ -2,6 +2,7 @@
 layout: post
 title: Başlarken..
 author: Berat Gönültaş
+x: "250"
 ---
 
 

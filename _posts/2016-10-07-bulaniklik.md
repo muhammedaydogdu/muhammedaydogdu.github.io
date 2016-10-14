@@ -3,7 +3,9 @@ layout: post
 author: Berat Gönültaş
 type: Öykü/
 title: Bulanıklık
+x: "200"
 ---
+<br/>
 İşlek sokaklardan geçiyordu genç kız. Arabalar, insanlar, binalar; etrafındaki her şey cinnet geçirtici şeylermiş gibi çarpıyordu beynine. O an tek amacı hızlı adımlarla uzaklaşmaktı bu uğursuzluktan. Sonunda kendini sahile atabildi. Adımlarını yavaşlattı. Durdu sonra, ışıl ışıl uzanan boğazda gezdirdi gözlerini bir süreliğine. Neden, diye sordu kendine, neden bazen bu denli rahatsızlık verici oluyordu? Hep olsa bu durum, bir anlam verebilirdi belki. Halbuki günü ne de güzel geçmişti, dersler her zamanki gibiydi, bir terslik yoktu. Arkadaşlarıyla oldukça hoş vakit geçirmişti ders aralarında. Ve şimdi neden bu haldeydi? Arkasında bıraktığı şehir, bugün arkadaşlarıyla fütursuzca attığı kahkahalar neden ona şimdi düşününce bu duyguyu yaşatıyordu? Hangi duyguyu mu? Bir bilse ya.. Tek bildiği, normalde bir parçası olduğu günlük hayatın ona şu an kirli bir şeymiş gibi göründüğü ve içinde nedenini bilmediği garip bir sıkıntı olduğuydu. Kötü şey, veya iyi şey, -o an hangisi olduğuna karar verebilecek halde değildi- bu hissi ilk defa tecrübe etmediği ve bunun son olmayacağını bilmesiydi. Güneş gökyüzünün batısına yaslanmış, ısıtma etkisini fazlasıyla kaybetmişti. Biraz oturup dinlendikten sonra bir bankta, aklına şu düşünceler düştü: Yıkmalı bütün düzenleri, insanı hapseden, esir eden: para ilişkileri, ahlak algısı, devlet kavramı.. Liste uzatılabilinirdi belki. Ama o an aklına bunlar geldi. Daha özgür, daha iyi bir hayatı hak etmiyor muydu insanlık? Muhakkak. Öyleyse bir şeyler yapılmalı ve yeryüzünde acıya neden olan ne varsa yok edilmeliydi. Ayağa kalktı, artık eve gitmesi gerektiği düşüncesiyle. Adımlarını atarken soruyordu kendine: Peki nereden başlamalı? Yerde gördüğü buruşturulmuş bir kağıdı alıp az ilerideki çöp kutusuna attı. İyi bir başlangıç, ha?
 
   ...<br/>
