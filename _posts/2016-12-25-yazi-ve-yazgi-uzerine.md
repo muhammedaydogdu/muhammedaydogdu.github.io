@@ -4,6 +4,7 @@ author: Berat Gönültaş
 type: Deneme/
 title: Yazı ve Yazgı Üzerine
 x: "200"
+published: No
 ---
 <br/>
 Eğer popülizm furyasına kendini kaptırmış biri olsaydım aralarındaki tek farkın bir ‘g’ harfinden ibaret olduğundan açardım bahsi. Neyse ki değilim. Başka şeyler hakkında anlatmak istediklerim. Aslında tek isteğim şu: başta kendimde, sonra da okuyucuda bir his oluşturabilmek yazı ve yazgı üzerine.
