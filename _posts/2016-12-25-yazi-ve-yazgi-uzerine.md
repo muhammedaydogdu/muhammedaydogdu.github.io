@@ -4,12 +4,12 @@ author: Berat Gönültaş
 type: Deneme/
 title: Yazı ve Yazgı Üzerine
 x: "200"
-published: No
+published: Yes
 ---
 <br/>
 Eğer popülizm furyasına kendini kaptırmış biri olsaydım aralarındaki tek farkın bir ‘g’ harfinden ibaret olduğundan açardım bahsi. Neyse ki değilim. Başka şeyler hakkında anlatmak istediklerim. Aslında tek isteğim şu: başta kendimde, sonra da okuyucuda bir his oluşturabilmek yazı ve yazgı üzerine.
 
-Yazı ve yazgı arasındaki ilişki her ne ise, şu an beni gecenin bu saatinde yatağımdan çıkarıp kalemi elime aldıran şeyden başka bir şey değildir. Kadercilik mi yapıyorum yoksa? İsteyen istediğini düşünebilir; isteyen istediği masalı uydurabilir hakkımda. Ne karışırım ne de karışabilirim. Bir yaprak bile dalından düşmez öyle yazılmamışsa, biz böyle biliriz. Düşüşüne vereceği tepki, buna karşı alacağı duruş, işte bunlardır yaprağın sorumlu olduğu şeyler. Bazı hadsizler cahilliklerinden ‘bu da adalet mi?’ diye sorabilir. Adle boyun eğen insanlar olarak içlerinde adalet duygusu yer etmemiş bizler bu tür şeylerden beriyizdir.*
+Yazı ve yazgı arasındaki ilişki her ne ise, şu an beni gecenin bu saatinde yatağımdan çıkarıp kalemi elime aldıran şeyden başka bir şey değildir. Kadercilik mi yapıyorum yoksa? İsteyen istediğini düşünebilir; isteyen istediği masalı uydurabilir hakkımda. Ne karışırım ne de karışabilirim. Bir yaprak bile dalından düşmez öyle yazılmamışsa, biz böyle biliriz. Düşüşüne vereceği tepki, buna karşı alacağı duruş, işte bunlardır yaprağın sorumlu olduğu şeyler. Bazı hadsizler cahilliklerinden ‘bu da adalet mi?’ diye sorabilir. Adle boyun eğen insanlar olarak içlerinde adalet duygusu yer etmemiş bizler bu tür şeylerden beriyizdir.(1)
 
 Sanılmasın ki yazı ve yazgı dediysek yazma eylemini gerçekleştirmenin bir yetenek gerektirdiğini belirtmek için dedik. İstidatsızların ve bu halleriyle işe girişerek tarihe ve istidatı olanlara saygısızlık edenlerin neler yaptığı ortada. Sığlıkları topluma da zarar vermese daha az üzücü olurdu durum. Bu da onların yazgısı tabi, bu duruma bir son verip vermemek de imtihanları olsa gerek.
 
@@ -23,17 +23,14 @@ Yazgının her şeyle bir ilişkisi olduğu gibi yazıyla da bir ilişkisi var k
 
 <br/>
 <br/>
+
+---
+
 <br/>
 <br/>
-
-*
-
-######Yer etmedi adalet duygusu
-
-######içimde benim
-
-######çünkü ben
-
-######ömrümce adle boyun eğdim
-
-######(İ.Özel/Sebeb-i Telif)
+(1)  
+Yer etmedi adalet duygusu  
+içimde benim  
+çünkü ben  
+ömrümce adle boyun eğdim.  
+(İ.Özel/Sebeb-i Telif)  
