@@ -5,8 +5,12 @@ type: Deneme/
 title: Üsküdar'da Bilmem Kaç Ay
 x: "200"
 ---
-<br/>
+
+
 _bir dosta cevaben_
+
+
+<br/>
 
 "Oralarda hayat nasıl?" diye sormuşsun. Sâhi ne çok merak edeni var bu sorunun. Bunun öncesinde de ziyâdesiyle muhatabı olduğum bu soruya bu kez kaçamak cevaplar vermeyeceğim. Sanırım bazı şeyleri anlatmanın vakti geldi artık, en başından itibâren.
 
