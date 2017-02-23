@@ -11,7 +11,6 @@ _bir dosta cevaben_
 
 
 <br/>
-
 "Oralarda hayat nasıl?" diye sormuşsun. Sâhi ne çok merak edeni var bu sorunun. Bunun öncesinde de ziyâdesiyle muhatabı olduğum bu soruya bu kez kaçamak cevaplar vermeyeceğim. Sanırım bazı şeyleri anlatmanın vakti geldi artık, en başından itibâren.
 
 İstanbul'daki ilk zamanlarım... Daha adını dâhi bilmediğim lâkin sonraları fazlasıyla âşina olacağım bir yokuştan çıkarken birkaç ipucu veriyordu aslında buradaki hayat, kendine dâir. Selamsız Yokuşu... Üsküdar'da -hatta İstanbul'da- beni ilk karşılayan yerlerden biridir bu yokuş. Daha sonraları ünsiyet peyda edecek olan birçok ayrıntı, o zamanlar bütün dikkatleri üzerine çekiyordu.
