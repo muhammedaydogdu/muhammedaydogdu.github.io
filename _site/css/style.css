@@ -1,13 +1,21 @@
 * {
   font-family: 'Times New Roman', serif;
 }
+div. panel-heading {
+  margin-top: 200px;
+}
+a {
+  color: black;
+}
 nav {
   font-family: 'Playfair Display', serif;
 }
 body .bnavbar {
-  background-color: #D7BEE8;
+  background-color: none;
   padding: 20px 0;
   margin-top: 20px;
+  border-color: rgb(231,231,231);
+  border-width: thin;;
 }
 .nav-txt {
   font-family: 'Playfair Display', serif;
@@ -27,15 +35,21 @@ div #quote_ {
   font-family: 'Playfair Display', serif;
 }
 .panel {
-  background-color: #CFD1CF;
+  background-color: none;
   margin: 10px;
   margin-left: 20px;
 }
 .bcenter {
-  background-color: #B9BDFA;
+  background-color: none;
 }
 .jumbotron {
   margin: 10px -5px 0 -5px;
+  background-color: white;
+  border: 5px;
+  border-style: solid;
+  border-color: rgb(170,170,250);
+  border-width: thin;
+
 }
 footer {
   margin-top: 20px;

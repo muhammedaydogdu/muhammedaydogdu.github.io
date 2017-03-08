@@ -6,7 +6,7 @@ type: Şiir/
 x: "230"
 ---
 
-_Muhammed Aydoğdu'nun 'Yitirilen, Yitirilmiş, Yitik'ine Nazire_
+_Muhammed Aydoğdu'nun "Yitirilen, Yitirilmiş, Yitik"ine Nazire_
 <br/>
 
 <br/>
