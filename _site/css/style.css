@@ -42,12 +42,12 @@ div #quote_ {
 .bcenter {
   background-color: none;
 }
-.jumbotron {
+div div .jumbotron {
   margin: 10px -5px 0 -5px;
   background-color: white;
   border: 5px;
   border-style: solid;
-  border-color: rgb(170,170,250);
+  border-color: #800080;
   border-width: thin;
 
 }
