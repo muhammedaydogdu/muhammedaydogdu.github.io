@@ -7,6 +7,9 @@ div .panel-heading {
 a {
   color: black;
 }
+.container-fluid .navbar-text{
+  margin-top:22px;
+}
 nav {
   font-family: 'Playfair Display', serif;
 }
