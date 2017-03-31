@@ -1,0 +1,4 @@
+paginate: 5
+paginate_path: "/sayfa-:num/"
+
+gems: ["jekyll-paginate"]
