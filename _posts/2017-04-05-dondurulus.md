@@ -15,10 +15,10 @@ _varlığından şüphe edilen insanlığa_
 sandığın kadar mühim değil    
 olması için uğraştığın  
 hiçbir şey  
-dertlenip kederlendiğin
-o kadar da mühim değil
+dertlenip kederlendiğin  
+o kadar da mühim değil  
 
-senin hatrına bile gelmeyen  
+senin hatrına bile gelmeyen   
 birilerinin aklından hiç çıkmıyor  
 hep onu bekleyerek  
 O'na kavuşacakları günü bekleyerek  
