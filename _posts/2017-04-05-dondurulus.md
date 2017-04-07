@@ -15,6 +15,8 @@ _varlığından şüphe edilen insanlığa_
 sandığın kadar mühim değil    
 olması için uğraştığın  
 hiçbir şey  
+dertlenip kederlendiğin
+o kadar da mühim değil
 
 senin hatrına bile gelmeyen  
 birilerinin aklından hiç çıkmıyor  
