@@ -1,4 +1,4 @@
-cd ---
+---
 layout: post
 author: Muhammed Aydoğdu
 type: Şiir/
