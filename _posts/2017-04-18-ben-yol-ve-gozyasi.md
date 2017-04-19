@@ -7,12 +7,12 @@ x: "200"
 ---
 
 
-_(Bu şiir üzülmemek için üzüp üzülenlere ithâf edilmiştir.)_  
+_Bu şiir üzülmemek için üzüp üzülenlere ithâf edilmiştir._  
 
 
 <br/>
 
-bin bir farklı şey kurcalar aklını  
+binbir farklı şey kurcalar aklını  
 düşünceler birbiri ardınca sıralanır  
 ve sen hep en doğru olanı yapmak istersin  
 istersin lâkin bilemezsin bir türlü  
