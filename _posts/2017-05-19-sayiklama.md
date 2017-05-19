@@ -16,7 +16,7 @@ pas tutmuş kulaklarım
 yığılmışım bir köşede vakitsizce  
 uyuyup kalmışım  
 
-bir uyanık hâlâ ismimi sayıklıyor  
+_bir uyanık hâlâ ismini sayıklıyor  
 boğuşmuş karanlık gecelerde yalnızlığıyla  
 yenik düşmüş mesâfelere  
 puslu bakıyor gözleri uzaklara  
@@ -26,7 +26,7 @@ yüzü bir hayli solmuş
 geceleri gündüz olmuş yokluğunda  
 belli ki sesini duymayalı  
 ve vurmayalı gözlerine güneş  
-çok olmuş  
+çok olmuş_  
 
 bir mezarlık sessizliği çökmüş evimin her köşesine  
 ki ben bir mezarlık ne kadar sessiz olur  
