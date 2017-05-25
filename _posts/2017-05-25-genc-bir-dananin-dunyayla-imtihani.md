@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Genç Bir Dananın Dünyayla İmtihanı 1
+title: Genç Bir Dananın Dünyayla İmtihanı
 author: Muhammed Aydoğdu
 type: Şiir/
 x: "200"
