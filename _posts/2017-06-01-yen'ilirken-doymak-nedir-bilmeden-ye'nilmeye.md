@@ -29,7 +29,7 @@ On dokuzuncu yüzyıl filozoflarından biri
 
 Betonu hisset  
 Betonun toprağa sokuluşunu  
-Civilization vs. Nature  
+Civilization vs Nature  
 Her şey bittiğinde medya kazanacak  
 Sanacaklar ilk anda  
 Doğayla bir olmuş bir  
