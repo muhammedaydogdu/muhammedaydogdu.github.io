@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mutluluklar Şehri; Omelas
+title: "Mutluluklar Şehri: Omelas"
 author: Berat Gönültaş
 type: Deneme/
 x: "200"
