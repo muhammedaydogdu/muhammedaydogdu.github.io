@@ -3,7 +3,7 @@ layout: post
 title: Hüznün Şehre Sirayeti
 author: Muhammed Aydoğdu
 type: Şiir/
-x: "200"
+x: "150"
 ---
 <br/>
 hüzün  
