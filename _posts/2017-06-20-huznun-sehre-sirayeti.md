@@ -24,7 +24,7 @@ her yere kasvetin çöktüğü bir haziran akşamında
 _>> >> >>_
 
 rahmetin tecellisi yağıyor usulca üstümüze  
-nihâhet bulutlar da ortak olmuş hüznümüze  
+nihâyet bulutlar da ortak olmuş hüznümüze  
 
 _<< << <<_
 
