@@ -1,0 +1,31 @@
+---
+---
+
+{% include head.html %}
+
+{% include nav.html %}
+
+    <div class="container">
+      <div class="row">
+        <div class="panel panel-info col-md-2 hidden-xs hidden-sm">
+          <div class="panel-heading">Son Eklenenler</div>
+          <div class="panel-body">
+            {% for post in site.posts %}
+            <p><a href="{{ post.url }}"> <small>{{ post.type }}</small>{{ post.title }}</a></p>
+            {% endfor %}
+          </div>
+        </div>
+
+                <div class="col-md-9 col-xs-12 bcenter">
+                  <div class="jumbotron">
+                    <h2>Nuri Pakdil ile Röportaj<small>/Soran: Berat Gönültaş</small> </h2>
+                    <p> 22 Haziran 2017</p>
+                    {{ content }}
+                  </div>
+
+                </div>
+
+              </div>
+            </div>
+
+            {% include footer.html %}
