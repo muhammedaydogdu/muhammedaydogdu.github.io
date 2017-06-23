@@ -54,7 +54,7 @@ _-Günümüz edebiyatı, genç şair ve yazarlar hakkında yorumlarınız nelerd
 
 _-Eserlerinizdeki Kudüs imgesi neyi simgelemektedir?_
 
-&nbsp;&nbsp;&nbsp;&nbsp;Kudüs, Ulu Önderimiz, Sevgili Peygamberimiz Hazreti Muhammed'e olan yoğun bağlılığımızı ve inancımızı simgelemektedir. Zaten Dünyanın neresinde olursa olsun Kudüs sevgisi her Müslüman için vazgeçilmez bir sevgidir. Kudüs'ü sevmek imandan ileri gelir.
+&nbsp;&nbsp;&nbsp;&nbsp;Kudüs, Ulu Önderimiz, Sevgili Peygamberimiz Hazreti Muhammed'e olan yoğun bağlılığımızı ve inancımızı simgelemektedir. Zaten dünyanın neresinde olursa olsun Kudüs sevgisi her Müslüman için vazgeçilmez bir sevgidir. Kudüs'ü sevmek imandan ileri gelir.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Biz Müslümanlar olarak Kudüs'ü niçin bu kadar çok seviyoruz? Çünkü Müslümanların ilk kıblesi Kudüs'tür. Kudüs Ulu Önderimiz, Sevgili Peygamberimiz Hazreti Muhammed'in Miraç'a çıkarken en son ayak bastığı yeryüzü parçasıdır. Peygamberimizin Miraç'a yükselirken Kudüs'te ayak bastığı taş (Hacer-i Muallak), şimdi Kudüs'te özel bir muhafaza içinde korunmaktadır. Peygamberimiz Miraç'a yükselirken bu taş da Miraç'a yükselmek ister, bunun üzerine Peygamberimiz taşa "Sen burda kal" buyurmuştur.
 
