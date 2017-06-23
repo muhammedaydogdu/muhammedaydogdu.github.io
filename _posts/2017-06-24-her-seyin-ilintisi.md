@@ -3,7 +3,7 @@ layout: post
 title: Her Şeyin Her Şeyle İlintisi
 author: Berat Gönültaş
 type: Deneme/
-x: "200"
+x: "250"
 ---
 
 
