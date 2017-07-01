@@ -12,7 +12,7 @@
           <div class="panel-heading">Son Eklenenler</div>
 
           <div class="panel-body">
-            {% for post in site.posts %}
+            {% for post in site.posts limit:10 %}
             <p><a href="{{ post.url }}"> <small>{{ post.type }}</small>{{ post.title }} </a></p>
             {% endfor %}
           </div>
