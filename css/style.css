@@ -63,3 +63,11 @@ footer {
 body .jumbotron p {
   font-size: 14px;
 }
+
+.hidden {
+  display: hidden;
+}
+
+#search-group {
+  margin-top: 8px;
+}
