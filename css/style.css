@@ -39,8 +39,6 @@ div #quote_ {
 }
 .panel {
   background-color: none;
-  margin: 10px;
-  margin-left: 20px;
 }
 .bcenter {
   background-color: none;
@@ -70,4 +68,8 @@ body .jumbotron p {
 
 #search-group {
   margin-top: 8px;
+}
+
+.post {
+  margin-top: 0 !important;
 }

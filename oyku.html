@@ -1,36 +1,19 @@
 ---
+layout: default
 ---
 
-{% include head.html %}
-
-{% include nav.html %}
-
-    <div class="container">
-      <div class="row">
-        <div class="panel panel-info col-md-2 hidden-xs hidden-sm">
-          <div class="panel-heading">Son Eklenenler</div>
-          <div class="panel-body">
-            {% for post in site.posts limit:10 %}
-            <p><a href="{{ post.url }}"> <small>{{ post.type }}</small>{{ post.title }}</a></p>
-            {% endfor %}
-          </div>
-        </div>
-        <div class="col-md-9 col-xs-12 bcenter">
-          <ol class="breadcrumb">
-            <li><a href="/tum-yazilar.html">Yazılar</a></li>
-            <li class="active">Öykü</li>
-          </ol>
-          {% for post in site.posts %}
-            {% if post.type == "Öykü/" %}
-              <div class="jumbotron">
-                <a href="{{ post.url }}"><h2>{{ post.title }}</a><small>/{{ post.author}}</small></h2>
-                <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
-                {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
-              </div>
-            {% endif %}
-          {% endfor %}
-        </div>
+<div class="col-md-10 col-xs-12 bcenter">
+  <ol class="breadcrumb">
+    <li><a href="/tum-yazilar.html">Yazılar</a></li>
+    <li class="active">Öykü</li>
+  </ol>
+  {% for post in site.posts %}
+    {% if post.type == "Öykü/" %}
+      <div class="jumbotron">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a><small>/{{ post.author}}</small></h2>
+        <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
+        {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
       </div>
-    </div>
-
-{% include footer.html %}
+    {% endif %}
+  {% endfor %}
+</div>

@@ -1,53 +1,33 @@
 ---
+layout: default
 ---
 
-{% include head.html %}
+<div class="col-md-10 col-xs-12 bcenter">
 
-{% include nav.html %}
-
-    <div class="container">
-      <div class="row">
-
-        <div class="panel panel-info col-md-2 hidden-xs hidden-sm">
-          <div class="panel-heading">Son Eklenenler</div>
-
-          <div class="panel-body">
-            {% for post in site.posts limit:10 %}
-            <p><a href="{{ post.url }}"> <small>{{ post.type }}</small>{{ post.title }}</a></p>
-            {% endfor %}
-          </div>
-        </div>
-
-        <div class="col-md-9 col-xs-12 bcenter">
-
-          <ol class="breadcrumb">
-            <li class="active">Anasayfa</a></li>
-          </ol>
+  <ol class="breadcrumb">
+    <li class="active">Anasayfa</a></li>
+  </ol>
 
 
-          {% for post in paginator.posts %}
-          <div class="jumbotron">
-            <h2><small>{{ post.type }}</small><a href="{{ post.url }}">{{ post.title }}</a><small>/{{ post.author}}</small></h2>
-            <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
-            {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
-          </div>
-          {% endfor %}
+  {% for post in paginator.posts %}
+  <div class="jumbotron">
+    <h2><small>{{ post.type }}</small><a href="{{ post.url }}">{{ post.title }}</a><small>/{{ post.author}}</small></h2>
+    <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
+    {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
+  </div>
+  {% endfor %}
 
-          <div class="pagination">
-            {% if paginator.previous_page %}
-              <a href="{{ paginator.previous_page_path }}" class="previous">Önceki</a>
-            {% else %}
-              <span class="previous">Önceki</span>
-            {% endif %}
-            <span class="page_number "> << {{ paginator.page }} / {{ paginator.total_pages }} >> </span>
-            {% if paginator.next_page %}
-              <a href="{{ paginator.next_page_path }}" class="next">Sonraki</a>
-            {% else %}
-              <span class="next ">Sonraki</span>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-
-{% include footer.html %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Önceki</a>
+    {% else %}
+      <span class="previous">Önceki</span>
+    {% endif %}
+    <span class="page_number "> << {{ paginator.page }} / {{ paginator.total_pages }} >> </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Sonraki</a>
+    {% else %}
+      <span class="next ">Sonraki</span>
+    {% endif %}
+  </div>
+</div>
