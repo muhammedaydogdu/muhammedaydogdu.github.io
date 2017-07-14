@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="col-md-10 col-xs-12 bcenter">
+  <ol class="breadcrumb">
+    <li class="active">Sonuçlar</li>
+  </ol>
+  <div id="not-found">
+    <p>Aranan metin hiçbir yazının başlığında bulunamadı.</p>
+  </div>
+  {% for post in site.posts%}
+  <div class="jumbotron hidden">
+    <h2><small>{{ post.type }}</small><a href="{{ post.url }}">{{ post.title }}</a><small>/{{ post.author}}</small></h2>
+    <p> {{ post.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
+    {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
+  </div>
+  {% endfor %}
+</div>
+
+
+<script src="/js/find.js"></script>

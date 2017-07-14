@@ -1,0 +1,23 @@
+---
+---
+
+{% include head.html %}
+
+{% include nav.html %}
+
+    <div class="container">
+      <div class="row">
+
+        {% include recent.html %}
+
+        <div class="col-md-10 col-xs-12 bcenter">
+          <div class="jumbotron post">
+            <h2><small>{{ page.type }}</small>{{ page.title }}<small>/{{ page.author }}</small> </h2>
+            <p> {{ page.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}</p>
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+
+{% include footer.html %}
