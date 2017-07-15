@@ -39,12 +39,14 @@ div #quote_ {
 }
 .panel {
   background-color: none;
+
+
 }
 .bcenter {
   background-color: none;
 }
 div div .jumbotron {
-  margin: 10px -5px 0 -5px;
+  margin: 10px 0 0 0;
   background-color: white;
   border: 5px;
   border-style: solid;
