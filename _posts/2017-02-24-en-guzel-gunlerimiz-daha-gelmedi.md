@@ -2,7 +2,7 @@
 layout: post
 title: En Güzel Günlerimiz Daha Gelmedi
 author: Berat Gönültaş
-type: Şiir/
+type: Şiir
 x: "230"
 ---
 

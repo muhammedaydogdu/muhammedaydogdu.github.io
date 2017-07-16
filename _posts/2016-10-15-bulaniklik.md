@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Berat Gönültaş
-type: Öykü/
+type: Öykü
 title: Bulanıklık
 x: "200"
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: İnsan ve Devinim
 author: Berat Gönültaş
-type: Deneme/
+type: Deneme
 x: "200"
 ---
 <br/>

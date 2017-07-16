@@ -1,79 +1,116 @@
 body {
   font-family: "Libre Baskerville", "Times New Roman", serif;
+  line-height: 1.5;
 }
 
-div .panel-heading {
-  margin-top: -7px;
-}
 a {
-  color: black;
+  color: rgba(128, 0, 128, .8);
 }
-.container-fluid .navbar-text{
-  margin-top:22px;
+
+a:hover {
+  color: rgba(128, 0, 128, .8);
+  text-decoration: none;
 }
-nav {
-  font-family: 'Playfair Display', serif;
+
+a:focus {
+  color: rgba(128, 0, 128, .8);
+  text-decoration: none;
 }
-body .bnavbar {
-  background-color: none;
-  padding: 20px 0;
-  margin-top: 20px;
-  border-color: rgb(231,231,231);
-  border-width: thin;;
+
+h2 {
+  color: rgba(128, 0, 128, .8);
 }
-.nav-txt {
-  font-family: 'Playfair Display', serif;
+
+.container .navbar {
+  margin-top: 25px;
+  font-family: "Playfair Display", "Times New Roman", serif;
+  padding: 15px 0 15px 0;
+  box-shadow: 1px 1px 2px grey;
+  font-size: 16px;
+  border-radius: 0;
 }
-.nav-texts {
-  font-size: 15px;
-  margin-top: auto;
-  margin-bottom: auto;
-}
-div .name {
+
+.navbar .navbar-brand {
+  color: #800080;
   font-size: 30px;
-  margin-top: auto;
-  margin-bottom: auto;
-  font-family: 'Playfair Display', serif;
-}
-div #quote_ {
-  font-family: 'Playfair Display', serif;
-}
-.panel {
-  background-color: none;
-
-
-}
-.bcenter {
-  background-color: none;
-}
-div div .jumbotron {
-  margin: 10px 0 0 0;
-  background-color: white;
-  border: 5px;
-  border-style: solid;
-  border-color: #c0e1f2;
-  border-width: thin;
-
-}
-footer {
-  margin-top: 20px;
-}
-.foot-texts {
-  display: inline;
 }
 
-body .jumbotron p {
+.navbar .navbar-brand:hover {
+  color: #800080;
+}
+
+.navbar .navbar-brand:focus {
+  color: #800080;
+}
+
+.navbar .navbar-text {
+  font-size: 14px;
+  margin-top: 21px;
+  margin-bottom: 15px;
+}
+
+.navbar .navbar-nav {
+  margin-top: 5px;
+}
+
+#top {
+  background-color: #f5f5f5;
+  padding: 5px;
+  margin-bottom: 15px;
+  box-shadow: 1px 1px 2px grey;
+  border-radius: 0;
+}
+
+#top .breadcrumb {
+  margin-bottom: 0;
+}
+
+.container .jumbotron {
+  background-color: rgba(0, 0, 0, 0);
+  box-shadow: 1px 1px 2px grey;
+  border-radius: 0;
+}
+
+.container .jumbotron p {
   font-size: 14px;
 }
 
-.hidden {
-  display: hidden;
+.data {
+  color: #999;
+  font-variant-caps: small-caps;
+  font-family: "Times New Roman", serif;
+  margin-bottom: 0;
 }
 
-#search-group {
-  margin-top: 8px;
+#share-buttons {
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 7px;
 }
 
-.post {
-  margin-top: 0 !important;
+#fb {
+  color: #3b5998;
+}
+
+#tw {
+  color: #1da1f2;
+}
+
+#wa {
+  color: #25dc66;
+}
+
+#em {
+  color: #898963;
+}
+
+footer {
+  margin-bottom: 25px;
+}
+
+nav li a.social {
+  display: inline-block;
+  font-size: 18px;
+  padding: 0;
+  margin-top: 15px;
 }

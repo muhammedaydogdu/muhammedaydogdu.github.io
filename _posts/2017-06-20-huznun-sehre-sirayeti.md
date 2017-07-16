@@ -2,7 +2,7 @@
 layout: post
 title: Hüznün Şehre Sirayeti
 author: Muhammed Aydoğdu
-type: Şiir/
+type: Şiir
 x: "150"
 ---
 <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: Yen'ilirken Doymak Nedir Bilmeden Ye'nilmeye
 author: Berat Gönültaş
-type: Şiir/
+type: Şiir
 x: "200"
 ---
 <br/>

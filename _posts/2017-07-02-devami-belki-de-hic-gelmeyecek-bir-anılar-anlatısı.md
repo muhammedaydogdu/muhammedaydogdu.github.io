@@ -2,7 +2,7 @@
 layout: post
 title: Devamı Belki de Hiç Gelmeyecek Bir Anılar Anlatısı
 author: Berat Gönültaş
-type: Deneme/
+type: Deneme
 x: "200"
 ---
 <br/>

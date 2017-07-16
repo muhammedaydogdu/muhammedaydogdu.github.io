@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Berat Gönültaş
-type: Deneme/
+type: Deneme
 title: Yazı ve Yazgı Üzerine
 x: "200"
 ---

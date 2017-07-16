@@ -2,7 +2,7 @@
 layout: post
 title: Menfur Bir Hâdisenin Ardından
 author: Muhammed Aydoğdu
-type: Şiir/
+type: Şiir
 x: "200"
 ---
 <br/>

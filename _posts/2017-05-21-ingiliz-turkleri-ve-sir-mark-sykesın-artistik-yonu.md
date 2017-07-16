@@ -2,7 +2,7 @@
 layout: post
 title: İngiliz Türkleri ve Sir Mark Sykes'ın Artistik Yönü
 author: Berat Gönültaş
-type: Deneme/
+type: Deneme
 x: "200"
 ---
 <br/>
