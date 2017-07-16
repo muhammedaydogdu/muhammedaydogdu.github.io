@@ -2,7 +2,7 @@
 layout: post
 title: Genç Bir Dananın Dünyayla İmtihanı
 author: Muhammed Aydoğdu
-type: Şiir/
+type: Şiir
 x: "200"
 ---
 <br/>

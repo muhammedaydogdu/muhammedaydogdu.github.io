@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Berat Gönültaş
-type: Şiir/
+type: Şiir
 title: Kahve Kokan Koridorlar
 x: "197"
 ---

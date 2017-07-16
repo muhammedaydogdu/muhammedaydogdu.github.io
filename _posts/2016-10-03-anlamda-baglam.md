@@ -2,7 +2,7 @@
 layout: post
 title: Anlamda Bağlam ve İstiklâl Marşı Derneği
 author: Berat Gönültaş
-type: Deneme/
+type: Deneme
 x: "200"
 ---
 <br/>

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Muhammed Aydoğdu
-type: Deneme/
+type: Deneme
 title: Üsküdar'da Bilmem Kaç Ay
 x: "200"
 ---

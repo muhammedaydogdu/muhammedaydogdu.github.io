@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Muhammed Aydoğdu
-type: Şiir/
+type: Şiir
 title: Döndürülüş
 x: "200"
 ---

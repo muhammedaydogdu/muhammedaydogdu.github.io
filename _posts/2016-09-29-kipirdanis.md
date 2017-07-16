@@ -2,7 +2,7 @@
 layout: post
 title: Kıpırdanış
 author: Berat Gönültaş
-type: Öykü/
+type: Öykü
 x: "200"
 ---
 <br/>
