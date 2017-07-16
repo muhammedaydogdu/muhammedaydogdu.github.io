@@ -113,4 +113,9 @@ nav li a.social {
   font-size: 18px;
   padding: 0;
   margin-top: 15px;
+  margin-left: 10px;
+}
+
+.social + .social {
+  margin-left: 0;
 }
