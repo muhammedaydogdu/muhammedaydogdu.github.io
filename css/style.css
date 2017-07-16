@@ -1,6 +1,7 @@
-* {
-  font-family: 'Times New Roman', serif;
+body {
+  font-family: "Libre Baskerville", "Times New Roman", serif;
 }
+
 div .panel-heading {
   margin-top: -7px;
 }
@@ -60,6 +61,7 @@ footer {
 .foot-texts {
   display: inline;
 }
+
 body .jumbotron p {
   font-size: 14px;
 }
