@@ -8,7 +8,7 @@ x: "200"
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Eğer popülizm furyasına kendini kaptırmış biri olsaydım aralarındaki tek farkın bir ‘g’ harfinden ibaret olduğundan açardım bahsi. Neyse ki değilim. Başka şeyler hakkında anlatmak istediklerim. Aslında tek isteğim şu: başta kendimde, sonra da okuyucuda bir his oluşturabilmek yazı ve yazgı üzerine.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Yazı ve yazgı arasındaki ilişki her ne ise, şu an beni gecenin bu saatinde yatağımdan çıkarıp kalemi elime aldıran şeyden başka bir şey değildir. Kadercilik mi yapıyorum yoksa? İsteyen istediğini düşünebilir; isteyen istediği masalı uydurabilir hakkımda. Ne karışırım ne de karışabilirim. Bir yaprak bile dalından düşmez öyle yazılmamışsa, biz böyle biliriz. Düşüşüne vereceği tepki, buna karşı alacağı duruş, işte bunlardır yaprağın sorumlu olduğu şeyler. Bazı hadsizler cahilliklerinden ‘bu da adalet mi?’ diye sorabilir. Adle boyun eğen insanlar olarak içlerinde adalet duygusu yer etmemiş bizler bu tür şeylerden beriyizdir.(1)
+&nbsp;&nbsp;&nbsp;&nbsp;Yazı ve yazgı arasındaki ilişki her ne ise, şu an beni gecenin bu saatinde yatağımdan çıkarıp kalemi elime aldıran şeyden başka bir şey değildir. Kadercilik mi yapıyorum yoksa? İsteyen istediğini düşünebilir; isteyen istediği masalı uydurabilir hakkımda. Ne karışırım ne de karışabilirim. Bir yaprak bile dalından düşmez öyle yazılmamışsa, biz böyle biliriz. Düşüşüne vereceği tepki, buna karşı alacağı duruş, işte bunlardır yaprağın sorumlu olduğu şeyler. Bazı hadsizler cahilliklerinden ‘bu da adalet mi?’ diye sorabilir. Adle boyun eğen insanlar olarak içlerinde adalet duygusu yer etmemiş bizler bu tür şeylerden beriyizdir.<sup>1</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Sanılmasın ki yazı ve yazgı dediysek yazma eylemini gerçekleştirmenin bir yetenek gerektirdiğini belirtmek için dedik. İstidatsızların ve bu halleriyle işe girişerek tarihe ve istidatı olanlara saygısızlık edenlerin neler yaptığı ortada. Sığlıkları topluma da zarar vermese daha az üzücü olurdu durum. Bu da onların yazgısı tabi, bu duruma bir son verip vermemek de imtihanları olsa gerek.
 
@@ -27,8 +27,8 @@ x: "200"
 
 <br/>
 <br/>
-(1)  
-Yer etmedi adalet duygusu  
+
+<sup>1</sup>Yer etmedi adalet duygusu  
 içimde benim  
 çünkü ben  
 ömrümce adle boyun eğdim.  
