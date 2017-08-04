@@ -16,6 +16,6 @@ x: "200"
 
 &nbsp;&nbsp;&nbsp;&nbsp;Olanca eşyayı zıddıyla bilinmesi yerine bilinememezliğe sürükleriz. Burada cam şeffaf değil mesela. Su ateşte yanabiliyor. Taş sert değil. Karmaşık ama anlamlı.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Müptezel derler bize. Sokaklara dağılıp serseri kafaları tespit ettiğimiz an; gün, günlükten çıkar. Görünmüyor gibiyiz. Ama gölgeden bir ilerisi suret olarak kalırız insanların yanında. Bacaları tutan biziz. Kapı eşinde biz.
+&nbsp;&nbsp;&nbsp;&nbsp;Müptezel derler bize. Sokaklara dağılıp serseri kafaları tespit ettiğimiz an; gün, günlükten çıkar. Görünmüyor gibiyiz. Ama gölgeden bir ilerisi suret olarak kalırız insanların yanında. Bacaları tutan biziz. Kapı eşiğinde biz.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Muvazzaf asker değiliz ama 'gibi' olmamız  bile daha fazla 'yüklü' yapıyor bizi. Göğün ne taraftan çatlayacağını seyreder dururuz. Ama yönlere  de var bi' düşmanlık... Geriye bakamayız. Gerilere, en arkaya düşmanlık bizde...
