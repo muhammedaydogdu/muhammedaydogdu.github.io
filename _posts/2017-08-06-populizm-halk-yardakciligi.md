@@ -6,7 +6,7 @@ type: Deneme
 x: "200"
 ---
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Önyargılarımız her şeyimizdir. Yılanın zehirli olduğunu farketmek için "dur bi ısırsın" demiyorsak önyargılarımız sayesinde. Hayatımda bir kez olsun İzdiham’a veya Fayrap’a para vermedim, elime alıp okumadım bile. Kendini ‘popülist edebiyat dergisi’ olarak tanımlayan Fayrap’ın müteşairlerinden Hakan Arslanbenzer geçenlerde bir tweet atmış:
+&nbsp;&nbsp;&nbsp;&nbsp;Önyargılarımız her şeyimizdir. Yılanın zehirli olduğunu akletmek için "dur bi ısırsın" demiyorsak önyargılarımız sayesinde. Hayatımda bir kez olsun İzdiham’a veya Fayrap’a para vermedim, elime alıp okumadım bile. Kendini ‘popülist edebiyat dergisi’ olarak tanımlayan Fayrap’ın müteşairlerinden Hakan Arslanbenzer geçenlerde bir tweet atmış:
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Genç şairlere: Çöp dergileri çöpe atın. Çöp yazarlardan kaçın. Çöp kitaplara vaktinizi vermeyin. Sadece en iyilerle meşgul olun.”
 
