@@ -19,6 +19,14 @@ layout: default
 {% for post in site.posts %}
   {% if post.type == "Kitaplar Üzerine" %}
     <div class="jumbotron">
+      <div class="row data">
+        <div class="col-xs-6">
+          <p>
+            {{ post.type }}<br>
+            {{ post.author }}<br>
+          </p>
+        </div>
+      </div>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
     </div>
