@@ -4,6 +4,7 @@ title: Yakışıklı Bir Domates Olmama Üzerine
 author: Berat Gönültaş
 type: Deneme
 x: "200"
+published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Öyle bir vakte erdik ki görünüşte en temiz aslında en kirli olan. En yakışıklı domateslerimiz GDO’lular, doğallık arayışında başvurulan ise kurtlu elmalar. Narsist, aslında zayıf bir karaktere sahip, zayıflığını örtmek için narsistliğe bulaşıyor. Gösteriş budalaları en yoksun olanlar.
