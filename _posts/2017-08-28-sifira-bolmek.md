@@ -157,7 +157,7 @@ x: "200"
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Perşembe sabahı. Dersin ortaları.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;-- Gençler, şimdi aklıma gelmişken söyleyeyim şunları. Sonra unutulmasın. Önünüzde koca bir tatil var. İyi geçirin. Dinlenin ama tembellik etmeyin. Mesela geçen dönem başladığınız kitabı bu dönem bitirdik. Baştan sona bi tekrar fena olmaz. Başka..
+&nbsp;&nbsp;&nbsp;&nbsp;-- Gençler, şimdi aklıma gelmişken söyleyeyim şunları, sonra unutulmasın. Önünüzde koca bir tatil var. İyi geçirin. Dinlenin ama tembellik etmeyin. Mesela geçen dönem başladığınız kitabı bu dönem bitirdik. Baştan sona bi tekrar fena olmaz. Başka..
 
 &nbsp;&nbsp;&nbsp;&nbsp;Duraksadı.  
 
