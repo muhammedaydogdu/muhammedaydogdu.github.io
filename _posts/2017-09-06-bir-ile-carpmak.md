@@ -3,7 +3,7 @@ layout: post
 author: Berat Gönültaş
 type: Öykü
 title: Bir ile Çarpmak
-x: "200"
+x: "250"
 ---
 
 
