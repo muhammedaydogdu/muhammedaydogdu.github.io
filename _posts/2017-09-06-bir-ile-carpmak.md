@@ -3,7 +3,9 @@ layout: post
 author: Berat Gönültaş
 type: Öykü
 title: Bir ile Çarpmak
+image: tools.jpg
 x: "250"
+desc: "Artık eve dönsem iyi olur. Epey geç oldu. Ben de fazlasıyla yorgun düştüm. İhtiyaçlarımı karşılamak dışında, bakayım.. saat şimdi 10, geldiğimde de öğlen 2 filandı; yani yaklaşık 8 saattir.."
 ---
 
 
