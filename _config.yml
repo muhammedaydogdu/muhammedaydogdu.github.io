@@ -2,3 +2,11 @@ paginate: 5
 paginate_path: "/sayfa-:num/"
 
 plugins: ["jekyll-paginate"]
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      image: "default.jpg"
+      desc: "Ceriha - Edebiyat, Düşünce ve Hayat"
