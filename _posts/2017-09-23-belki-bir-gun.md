@@ -40,8 +40,8 @@ _<a href="http://www.ceriha.com/2017/09/06/bir-ile-carpmak.html" target="_blank"
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Odadan çıktım. Merdivenleri iniyorum.
 
-&nbsp;&nbsp;&nbsp;&nbsp;-- Daha vakit varmış? Erkencisin.  
-&nbsp;&nbsp;&nbsp;&nbsp;-- Otururum biraz orada.  
+&nbsp;&nbsp;&nbsp;&nbsp;-- Daha vakit varmış. Erkencisin?  
+&nbsp;&nbsp;&nbsp;&nbsp;-- Otururum biraz orada.  
 &nbsp;&nbsp;&nbsp;&nbsp;-- İyimiş. İyi akşamlar.  
 &nbsp;&nbsp;&nbsp;&nbsp;-- Size de beyler.  
 
