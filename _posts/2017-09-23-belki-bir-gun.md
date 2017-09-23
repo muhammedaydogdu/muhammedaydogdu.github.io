@@ -11,7 +11,7 @@ _<a href="http://www.ceriha.com/2017/09/06/bir-ile-carpmak.html" target="_blank"
 
 
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Genellikle yaptığım gibi bugün de sigara içmek üzere binanın dışına çıktığımda arkamdan biri seslendi. Döndüğümde onla karşılaştım. Ders hakkında birkaç şey konuşmak istiyormuş. Binanın yanında kuytu bir köşede bir bank var. Sevdiğim bir mekan sigara içmek için. Oraya geçtik. Sigaramı yaktım. Konuşmaya başladık. Muhabbet başka konularla uzadı. Bir an duraksadık. Peşinden bir soru sordu. 
+&nbsp;&nbsp;&nbsp;&nbsp;Genellikle yaptığım gibi bugün de ders arasında sigara içmek üzere binanın dışına çıktığımda arkamdan biri seslendi. Döndüğümde onla karşılaştım. Ders hakkında birkaç şey konuşmak istiyormuş. Binanın yanında kuytu bir köşede bir bank var. Sevdiğim bir mekan sigara içmek için. Oraya geçtik. Sigaramı yaktım. Konuşmaya başladık. Muhabbet başka konularla uzadı. Bir an duraksadık. Peşinden bir soru sordu. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;-- Geçen dönemin.. geçen bahar döneminin son dersinde, 'size samimi bir şekilde şunu söyleyebilirim ki..' demiş ve sonra o şeyi söylememiştiniz. Neydi o? Hatırlıyor musunuz? İçimde kaldı da.  
 &nbsp;&nbsp;&nbsp;&nbsp;-- Hatırlayamadım. Neyle alakalıydı?  
