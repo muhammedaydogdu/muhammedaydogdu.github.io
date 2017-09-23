@@ -42,7 +42,7 @@ _<a href="http://www.ceriha.com/2017/09/06/bir-ile-carpmak.html" target="_blank"
 
 &nbsp;&nbsp;&nbsp;&nbsp;-- Daha vakit varmış. Erkencisin?  
 &nbsp;&nbsp;&nbsp;&nbsp;-- Otururum biraz orada.  
-&nbsp;&nbsp;&nbsp;&nbsp;-- İyimiş. İyi akşamlar.   
+&nbsp;&nbsp;&nbsp;&nbsp;-- İyimiş. İyi akşamlar.  
 &nbsp;&nbsp;&nbsp;&nbsp;-- Size de beyler.   
 
 &nbsp;&nbsp;&nbsp;&nbsp;Hava sıcak. Yurdun girişindeki kaldırımlarda insanlar oturmuş. Kulak kabarttım bir gruba. Oturanlardan biri ötekine "Anlattılar epey ama diğerinden çok da farkı yok. Sadece biraz daha hareketli dersleri."
