@@ -4,7 +4,6 @@ author: Berat Gönültaş
 type: Öykü
 title: Belki Bir Gün
 x: "238"
-published: no
 ---
 
 
