@@ -1,0 +1,27 @@
+---
+layout: post
+author: Muhammed Aydoğdu
+type: Şiir
+title: Lâmbaların Etraf Aydınlandığında Sönmesi Üzerine Küçük Bir Şiir Denemesi
+x: "180"
+published: no
+---
+
+_bu şiir masumca katledilen tüm sivrisineklere ithaf edilmiştir.._
+
+<br/>
+
+kendiliğinden  
+sönmüyorsa lâmbaların etraf aydınlandığında  
+güneş girdiğinde odana içinden geçip perdelerin  
+kaçıyorsa uykun/kapanmıyorsa gözlerin  
+ve duvarında  
+fosilleşmiş bir sivrisinek sürekli  
+göz kırpmıyorsa suskunluğuna  
+almamıştır demini yüreğin hasret adlı zehirden  
+vurmamıştır en esaslı tokadını hayat dediğin  
+eksikliğinden..  
+
+<br/>
+
+Küplüce, 5 Ekim 2017 / 03:47
