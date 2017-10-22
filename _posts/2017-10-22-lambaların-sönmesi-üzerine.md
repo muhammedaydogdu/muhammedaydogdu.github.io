@@ -25,3 +25,9 @@ eksikliğinden..
 <br/>
 
 Küplüce, 5 Ekim 2017 / 03:47
+
+<br/>
+<br/>
+<img src="http://ceriha.com/images/20171005_033330-01-01.jpeg" class="img-responsive" class="img-thumbnail">
+<br/>
+<br/>
