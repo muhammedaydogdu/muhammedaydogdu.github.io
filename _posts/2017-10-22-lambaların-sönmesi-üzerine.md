@@ -4,7 +4,6 @@ author: Muhammed Aydoğdu
 type: Şiir
 title: Lâmbaların Etraf Aydınlandığında Sönmesi Üzerine Küçük Bir Şiir Denemesi
 x: "180"
-published: no
 ---
 
 _bu şiir masumca katledilen tüm sivrisineklere ithaf edilmiştir.._
