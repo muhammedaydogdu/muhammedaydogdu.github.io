@@ -6,7 +6,9 @@ title: Lâmbaların Etraf Aydınlandığında Sönmesi Üzerine Küçük Bir Şi
 x: "180"
 ---
 
+
 _bu şiir masumca katledilen tüm sivrisineklere ithaf edilmiştir.._
+
 
 <br/>
 
