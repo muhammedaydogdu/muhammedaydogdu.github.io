@@ -4,6 +4,7 @@ title: Gözlerim Ararken Denizi
 author: Berat Gönültaş
 type: Şiir
 x: "200"
+image: andreea-chidu-234595.jpg
 ---
 <br/>
 Bir karınca iniyor merdivenden  
