@@ -4,6 +4,7 @@ title: Menfur Bir Hâdisenin Ardından
 author: Muhammed Aydoğdu
 type: Şiir
 x: "200"
+image: 20170411_194158.jpg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Elazığ Anadolu Lisesi sanat faaliyetlerinden nasibini az da olsa almış biriyseniz eğer, aşağıdaki vitray çalışmasını muhtemelen hatırlarsınız. Lâkin bu güzide çalışmanın akıbetinden çoğunuzun haberdar olmadığına eminim. Bu eserin, tam bir yıl evvel 20 Şaban 1437'de Elazığ'da ismi lâzım olmayan 3 katlı bir AVM'de yapılan EAL resim sergisinde kem gözlerin tesiriyle yerle yeksan olduğunu ve -takriben- yüz parçaya ayrıldığını siz de bilin öyleyse.

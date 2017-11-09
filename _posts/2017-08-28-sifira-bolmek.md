@@ -4,6 +4,7 @@ author: Berat Gönültaş
 type: Öykü
 title: Sıfıra Bölmek
 x: "200"
+image: roman-mager-59976.jpg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Sigarasını söndürüp binaya yöneldi. Öğrenci kalabalığının arasından geçerek amfiye girdi. Kapıyı kapattı. Masaya oturdu. Dört öğrenci daha girdi sınıfa o anda. Artlarında açık kalan kapıyı kalkıp kapattı ve masaya dönerken verilen aradan önce çözdüğü son soru hakkında birkaç ekleme yaptı. Öğrencilere herhangi bir soruları olup olmadığını sordu.

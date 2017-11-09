@@ -4,6 +4,7 @@ title: "Mutluluklar Şehri: Omelas"
 author: Berat Gönültaş
 type: Deneme
 x: "200"
+image: omelas.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Omelas, Ursula Le Guin’in “The Ones Who Walk Away From Omelas” başlıklı kısa öyküsünde anlatılan şehrin adıdır. Başlık “Omelas’tan Alıp Başını Gidenler” olarak çevrilebilir Türkçe’ye. Tabi ki, her çeviri gibi bu çeviri de eksik olmaya mahkum, ve “The Ones” kısmını okurken yayılan kasveti ve yalnızlık hissini vermekten oldukça uzak. İlk okuduğumda üstümde epey tesirli olmuştu bu hikaye. Hala olur. Özenle seçilmiştir kelimeler. Cümlelerin görüntüsü, kağıdın üstündeki duruşları dahi anlamın verdiği düşünceyi, duyguyu yansıtır haldedir, en azından ben öyle hissediyorum. Öyle sanıyorum ki unutulmazlar arasında yerini aldı benim için bu öykü. Biraz yorumla birlikte özet bir çevirisini sunma arzusundayım size. İngilizce bilenler kesinlikle aslından da okumalı. Hatta sırf bu hikayeyi ve benzerlerini aslından okuyabilmek için bile bir dil öğrenmeye değer.

@@ -4,6 +4,7 @@ author: Ramazan Tekin
 type: Şiir
 x: 180
 title: Ben Şahidim
+image: isabella-juskova-100364.jpg
 ---
 <br/>
 Bir yanımız yıkılıyorken  

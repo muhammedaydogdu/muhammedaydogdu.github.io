@@ -4,6 +4,7 @@ author: Ahmet Özçelik
 type: Deneme
 title: Kaybın Kaybettirdiği
 x: "200"
+image: kaybin.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;İstediğin atı istediğin yere sürebilmekle kendini kuşatan gerçekliğin dışına çıkarak gerçekten sıyrılmak mıdır mizah? Sanatçı pasif gerçeklik algısının taşıyıcısı değilse ya nedir? Rahatız orada, ne at ne de sürülen yer umurunda değil. Hepimiz olup bitenden memnunuz.

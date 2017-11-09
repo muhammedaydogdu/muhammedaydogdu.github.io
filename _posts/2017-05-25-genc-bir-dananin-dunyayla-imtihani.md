@@ -4,6 +4,7 @@ title: Genç Bir Dananın Dünyayla İmtihanı
 author: Muhammed Aydoğdu
 type: Şiir
 x: "200"
+image: DHRvgmkWsAA53fr.jpg:large.jpeg
 ---
 <br/>
 açık açık konuşun benimle  

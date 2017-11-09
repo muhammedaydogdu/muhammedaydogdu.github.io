@@ -3,6 +3,7 @@ layout: post
 title: Nuri Pakdil ile Röportaj
 author: "Soran: Berat Gönültaş"
 x: "200"
+image: nuripakdil.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Nuri Pakdil’i okuyan bilir; o statik kağıda kelimelerin nasıl dinamiklik kazandırabileceğini, bir dizenin en fazla kaçar defa yazılıp da son hal verilebileceğinin yüksek örneklerini, annenin bir çocuktan bir Kudüs yaptığını, adamın baba olunca içinde bir Kudüs canlandığını.

@@ -4,6 +4,7 @@ author: Hilâl Köroğlu
 type: Deneme
 title: Müptezellik
 x: "200"
+image: DHLyWy1WsAE3Yuo.jpg:large.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bir avuç tuz büsbütün ne kadar sevilmez ise işte o kadar biz bu çağa tat vermedik. Orucu bozmayan durumlar arasında akıl kârı görülmediğinden bahis konusu olmuş "bir avuç tuz yemekten" bahsediyorum. O kadar  hükümlü ama hükümsüz ki... Elini diline sürdüğünde fark edilmeden gelen tat kadar bile değeri yok. Bozmuyor. O kadar asık bir tat...
