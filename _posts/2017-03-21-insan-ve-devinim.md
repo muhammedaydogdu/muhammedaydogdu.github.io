@@ -4,7 +4,6 @@ title: İnsan ve Devinim
 author: Berat Gönültaş
 type: Deneme
 x: "200"
-published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Ne oldum dememeli, ne olacağım demeli. Her ne kadar çoğumuzun zihinlerinde bir yer etmiş olsa da bu söz, anlamına yeterince vakıf olabildik mi? Olduysak içinde bulunduğumuz bu hali nasıl açıklamalı?
