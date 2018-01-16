@@ -6,7 +6,7 @@ type: Öykü
 x: "200"
 ---
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;"Haydi kalk, peşinden koşmaya zorlandığımız her şeyi bırakıp bir uçurtmanın peşinden koşalım. Yorulacağız elbet, yere düşeceğiz belki bir taşa takılıp. Belki de damla damla terler akacak alnımızdan. Olsun. Ama her ne olacaksa sırf bu yüzden olsun, razıyım. Yeter ki yaşamanın, hayatın manasına yeniden varabileyim. Sırf bu yüzden şanslı hissedebileyim kendimi. Yeter ki yanımda elimden tutup kaldırabilecek bir dostum, dostlarım olsun; razıyım tüm olacaklara..."
+&nbsp;&nbsp;&nbsp;&nbsp;"Haydi kalk, peşinden koşmaya zorlandığımız her şeyi bırakıp bir uçurtmanın peşinden koşalım. Yorulacağız elbet, yere düşeceğiz belki bir taşa takılıp. Damla damla terler akacak alnımızdan. Olsun. Ama her ne olacaksa sırf bu yüzden olsun, razıyım. Yeter ki yaşamanın, hayatın manasına yeniden varabileyim. Sırf bu yüzden şanslı hissedebileyim kendimi. Yeter ki yanımda elimden tutup kaldırabilecek bir dostum, dostlarım olsun; razıyım tüm olacaklara..."
 
 &nbsp;&nbsp;&nbsp;&nbsp;Hayal; çoğu zaman hayatımızın gerçekleştirilebilir bir parçası değil. Biraz geç de olsa farkına vardım bunun. Yüksekçe bir tepeye oturup izlediğin manzaradan farksız her birisi benim için. Uzaktan güzel görünüyor etraf, baktıkça ferahlıyor için. Ama küçük bir ayrıntı: Sen uzaktasın. Uzatsan sanki elini değdirebileceğin o yerler çok uzakta. Ve sen aslında uzakta olduğun için böyle güzel görebiliyorsun oraları. Zaten ya hiç varamıyorsun oralara ya da vardığında hiçbir şeyin uzaktan göründüğü gibi olmadığını fark ediyorsun. Ve eskisi gibi olmadığını da. Bir şeylere hep geç kalıyoruz hep, bir şeylerden ötürü. Yazık ki zaman acımıyor geç kalanlara.
 
