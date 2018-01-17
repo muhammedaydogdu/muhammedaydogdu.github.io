@@ -21,3 +21,5 @@ x: "260"
 &nbsp;&nbsp;&nbsp;&nbsp;Yukarıda, her ay düzenli para almak için öğretmenlik yapan kimselerden bahsettik. Nurettin Topçu’ya baktığımızda ise tek gayesi millî ve dinî mizaca uygun nesiller yetiştirmek olan bir hoca görüyoruz. İmam Hatip liselerinde ders verirken bunun karşılığında para almayan, “Burası din mektebi, ben buraya ibadet için geliyorum, ibadetten para alınır mı? (…) din görevi hasbî olmalıdır. Buradan yetişenler din adamı olacaklar. Ben hasbî olmalıyım ki, onlar da hasbî olsunlar.” diyen bir hoca. Zaten, talebelerinin, onun derslerini uzunca okunmuş bir zamm-ı sûreye benzettiği de vâkîdir.
 
 &nbsp;&nbsp;&nbsp;&nbsp;“İrade üç âleme sığınma kuvvetidir: Hemcinsine, kendi samimiyetine ve Allah’a.” diyor Topçu. İrade gösterdiğimiz takdirde birbirimize ait insanlar olarak yaşayabilecek ve bu topraklar için ümitvâr olmaya devam edebileceğiz.  Ve ancak şu ilkeye uyduğumuz takdirde irade sahibi kimseler olabileceğiz: “Üç şeyden ayrılınca diğer üç şeye geçmede acele etmelidir: İnsanlardan ayrılınca ibadete, hareketten çıkınca huzura, dünyayla vedalaşınca uhrâya.”
+
+_(28.11.2017)_
