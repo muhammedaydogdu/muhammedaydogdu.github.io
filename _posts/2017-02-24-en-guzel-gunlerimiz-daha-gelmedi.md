@@ -7,7 +7,8 @@ x: "230"
 ---
 
 
-_Muhammed Aydoğdu'nun "Yitirilen, Yitirilmiş, Yitik"ine Nazire_
+
+_Muhammed Aydoğdu'nun <a href="http://www.ceriha.com/2017/02/23/yitirilen-yitirilmis-yitik.html" target="_blank">"Yitirilen, Yitirilmiş, Yitik"</a>'ine Nazire_
 
 
 <br/>
