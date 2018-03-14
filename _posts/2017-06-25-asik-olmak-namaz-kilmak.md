@@ -2,7 +2,7 @@
 layout: post
 title: Aşık Olmak, Namaz Kılmak ve Türklük
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "200"
 ---
 <br/>

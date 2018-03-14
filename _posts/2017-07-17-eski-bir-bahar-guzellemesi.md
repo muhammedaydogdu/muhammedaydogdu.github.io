@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Büşra Acar
-type: Deneme
+type: w
 title: Eski Bir Bahar Güzellemesi
 x: "196"
 image: eskibirbahar.jpeg

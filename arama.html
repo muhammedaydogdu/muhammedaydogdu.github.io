@@ -23,7 +23,9 @@ layout: default
   <div class="row data">
     <div class="col-xs-6">
       <p>
-        {{ post.type }}<br>
+        {% if post.type != "w" %}
+          {{ post.type }}<br>
+        {% endif %}
         {{ post.author }}<br>
       </p>
     </div>

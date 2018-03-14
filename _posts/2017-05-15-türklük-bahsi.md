@@ -2,7 +2,7 @@
 layout: post
 title: Türklük Bahsi
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "200"
 ---
 <br/>

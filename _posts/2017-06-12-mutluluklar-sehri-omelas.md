@@ -2,7 +2,7 @@
 layout: post
 title: "Mutluluklar Şehri: Omelas"
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "200"
 image: omelas.jpeg
 ---

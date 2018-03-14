@@ -2,7 +2,7 @@
 layout: post
 title: Bir Buluşma ve Söylenmemiş Şeylerden İkisi
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "250"
 ---
 

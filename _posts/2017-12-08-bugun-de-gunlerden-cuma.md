@@ -2,7 +2,7 @@
 layout: post
 title: Bugün de Günlerden Cuma
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "170"
 ---
 <br/>

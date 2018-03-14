@@ -2,7 +2,7 @@
 layout: post
 title: Sessiz Bir Protesto
 author: Berat Gönültaş
-type: Kitaplar Üzerine
+type: w
 x: "230"
 ---
 

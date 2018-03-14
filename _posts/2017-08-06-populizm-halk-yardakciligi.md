@@ -2,7 +2,7 @@
 layout: post
 title: "Popülizm: Halk Yardakçılığı"
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "200"
 ---
 <br/>

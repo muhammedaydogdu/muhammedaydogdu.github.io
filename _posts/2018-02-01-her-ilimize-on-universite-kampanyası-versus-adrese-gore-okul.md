@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Berat Gönültaş
-type: Deneme
+type: w
 title: "Her İlimize Bir -Hayır, On- Üniversite Kampanyası versus Adrese Göre Okul / Tüm Bunların Ardından: Size İşinizi Ben mi Öğreteceğim?"
 x: "250"
 ---

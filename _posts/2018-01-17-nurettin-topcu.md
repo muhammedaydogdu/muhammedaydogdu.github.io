@@ -2,7 +2,7 @@
 layout: post
 title: Nurettin Topçu
 author: Zeynep Aybüke
-type: Deneme
+type: w
 x: "260"
 ---
 <br/>

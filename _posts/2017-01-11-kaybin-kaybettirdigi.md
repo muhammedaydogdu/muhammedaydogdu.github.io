@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Ahmet Özçelik
-type: Deneme
+type: w
 title: Kaybın Kaybettirdiği
 x: "200"
 image: kaybin.jpeg

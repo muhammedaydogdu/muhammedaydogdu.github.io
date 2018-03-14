@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Hilâl Köroğlu
-type: Deneme
+type: w
 title: Müptezellik
 x: "200"
 image: DHLyWy1WsAE3Yuo.jpg:large.jpeg

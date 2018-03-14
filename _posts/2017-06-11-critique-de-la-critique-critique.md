@@ -2,7 +2,7 @@
 layout: post
 title: Critique de la Critique Critique veya Eleştireni Eleştirmeyi Unutmamak
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "200"
 ---
 <br/>

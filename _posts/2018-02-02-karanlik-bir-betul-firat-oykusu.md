@@ -2,7 +2,7 @@
 layout: post
 title: "Karanlık: Bir Betül Fırat Öyküsü"
 author: Berat Gönültaş
-type: Deneme
+type: w
 x: "200"
 ---
 <br/>

@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Berat Gönültaş
-type: Deneme
+type: w
 title: Is My Verse Alive? veya İtaatin Yolunda İtaat Yahut Bunalım
 x: "200"
 image: ismyverse.jpeg

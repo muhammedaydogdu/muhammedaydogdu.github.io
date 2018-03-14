@@ -7,7 +7,7 @@ layout: default
     <div class="col-md-6">
       <ol class="breadcrumb">
         <li><a href="/tum-yazilar.html">Yazılar</a></li>
-        <li class="active">Deneme</li>
+        <li class="active">Diğer Yazılar</li>
       </ol>
     </div>
     <div class="col-md-6">
@@ -17,12 +17,14 @@ layout: default
 </div>
 
 {% for post in site.posts %}
-  {% if post.type == "Deneme" %}
+  {% if post.type == "w" %}
     <div class="jumbotron">
       <div class="row data">
         <div class="col-xs-6">
           <p>
-            {{ post.type }}<br>
+            {% if post.type != "w" %}
+              {{ post.type }}<br>
+            {% endif %}
             {{ post.author }}<br>
           </p>
         </div>
