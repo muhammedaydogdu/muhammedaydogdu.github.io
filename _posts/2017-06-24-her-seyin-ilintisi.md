@@ -25,7 +25,7 @@ _Yazılara doğru dürüst başlık koymasını hiçbir zaman beceremedim. Hep z
 
 &nbsp;&nbsp;&nbsp;&nbsp;Her şeyin diğer her şeyle ilintisini idrak etmek..
 
-&nbsp;&nbsp;&nbsp;&nbsp;“Şu konuda net olmalıyız ki, atomlara geldiğinde, dil ancak şiirdeki gibi kullanılabilinir.” (Niels Bohr)
+&nbsp;&nbsp;&nbsp;&nbsp;“Şu konuda net olmalıyız ki, atomlara gelindiğinde, dil ancak şiirdeki gibi kullanılabilinir.” (Niels Bohr)
 
 &nbsp;&nbsp;&nbsp;&nbsp;Atomlar hakkında konuşmak: maddenin oluştuğu şey hakkında konuşmak: madde hakkında konuşmak.
 
