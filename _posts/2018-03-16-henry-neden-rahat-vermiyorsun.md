@@ -6,7 +6,7 @@ type: w
 x: "200"
 ---
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;(11 Şubat)
+&nbsp;&nbsp;&nbsp;&nbsp;_(11 Şubat)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;Camiden çıkıp kampüse doğru o tanıdık yolu yürüyorum. Tahrir Vazifeleri'nden birkaç sayfa okumak niyetiyle resmi tatiller dışında 7/24 açık olan kadim kokulu kütüphaneye yöneliyorum kampüse girince. Saat yedi buçuk. Kahvaltı sekiz buçukta verilmeye başlanacak yemekhanede; bir saatim var.
 
@@ -22,7 +22,7 @@ ya da beklemenin üstüne”
 
 <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;(16 Şubat)
+&nbsp;&nbsp;&nbsp;&nbsp;_(16 Şubat)_
 
 &nbsp;&nbsp;&nbsp;&nbsp;İstiklal Marşı Derneği'nin internet sayfasını açıyorum. Karşımdaki yeni yazı şu şekilde başlıyor:
 “Şöyleydi Ataol Behramoğlu ve benim bir dergi çıkarma hususunda fikir birliğine varmamızın gerekçesi: ..”
