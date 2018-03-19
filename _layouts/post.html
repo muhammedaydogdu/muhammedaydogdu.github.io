@@ -27,7 +27,7 @@
                 <p>
                   {% if page.type != "w" %}
                     {{ page.type }}<br>
-                  {% endif %}<br>
+                  {% endif %}
                   {{ page.author }}<br>
                   {{ page.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}
                 </p>
