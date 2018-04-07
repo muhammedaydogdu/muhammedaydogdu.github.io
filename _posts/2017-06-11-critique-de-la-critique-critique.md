@@ -6,7 +6,7 @@ type: w
 x: "200"
 ---
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Medya, her gün bizlere birilerini sevdirip birilerini nefret ettirmeye devam ediyor. Kimi iyi tanıtırlarsa onu iyi biliyoruz, kimi kötü adam diye sunarlarsa ona bileniyoruz. Ve bu sevip nefret ettiğimiz kişilerin birçoğunu ekranlar dışında ne gördük ne de göreceğiz. Politikacıların ağzından çıkanları simit bekleyen birer martı gibi havada kapmaya hazır kalabalıklar var etrafta. Öğretmenleri ne derse onu kanun kabul eden öğrenciler yetişiyor ilkokullarımızda.
+&nbsp;&nbsp;&nbsp;&nbsp;Medya, her gün bizlere birilerini sevdirip birilerinden nefret ettirmeye devam ediyor. Kimi iyi tanıtırlarsa onu iyi biliyoruz, kimi kötü adam diye sunarlarsa ona bileniyoruz. Ve bu sevip nefret ettiğimiz kişilerin birçoğunu ekranlar dışında ne gördük ne de göreceğiz. Politikacıların ağzından çıkanları simit bekleyen birer martı gibi havada kapmaya hazır kalabalıklar var etrafta. Öğretmenleri ne derse onu kanun kabul eden öğrenciler yetişiyor ilkokullarımızda.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Bazen de bir adım geri çekilmesini bilmiyoruz. Klişeleşmiştir; balık, içinde bulunduğu denizden habersizdir. Roman karakteri, yaşadığı olayların aslında bir romanda geçtiğinin farkında değildir; romanı elinde tutan kişi bilir onun bir roman olduğunu. Veya bir tabloda resmedilmiş insanlardan biri, bilmekten uzaktır tablonun güzelliğini, tablonun dışına çıkıp da seyretmesi gerekir. Bizim de, içinde bulunduğumuz durumların ne’liğini fark edebilmek için bir adım geri çekilmesini bilmemiz lazım.
 
