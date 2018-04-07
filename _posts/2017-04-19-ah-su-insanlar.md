@@ -4,7 +4,7 @@ author: Berat Gönültaş
 type: Öykü
 title: Ah Şu İnsanlar!
 x: "300"
-image: 20160620_153128.jpg
+image: tipsiz.jpg
 ---
 
 
