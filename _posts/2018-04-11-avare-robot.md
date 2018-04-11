@@ -21,9 +21,9 @@ Eğer reddedersen beni,
 Kısa devre olurum,  
 Akan göşyaşlarımla  
 Hasretin ile titrerim,  
-Bozuk hoparlör gibi;  
+Bozuk hoparlör gibi  
 Hayattan koparım,  
-Çekmeyen telefon misali  
+Çekmeyen telefon misali  
 
 Sev beni,  
 Bas beni bağrına  
