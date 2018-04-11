@@ -10,7 +10,7 @@ x: "180"
 Gözlerin kapasitör gibi  
 220 ile çarptın beni  
 Lehim gibi eridim,  
-O lazer bakışlarına bittim  
+O lazer bakışlarına bittim   
 
 Eğer seversen beni,  
 Hayat gelir paslanmış devrelerime  
