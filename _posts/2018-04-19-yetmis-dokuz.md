@@ -12,7 +12,7 @@ x: "200"
 
 &nbsp;&nbsp;&nbsp;&nbsp;Bunlar olup biterken, kulağımda kulaklık, müzik dinlemekteydim. Müzik dinlerken öykü toplayamıyorum. Vivaldi dışarda tutulabilir belki.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Öykü yazacak havamda değilim. Zaten bu yüzden kulaklıklar kulağımdaydı.
+&nbsp;&nbsp;&nbsp;&nbsp;Öykü yazacak havamda değilim. Zaten bu yüzden kulaklık kulağımdaydı.
 
 <br/>
 
