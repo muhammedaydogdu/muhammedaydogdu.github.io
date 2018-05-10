@@ -4,13 +4,12 @@ title: Avare Robot
 author: Taha Yasin Posos
 type: Şiir
 x: "180"
-
 ---
 <br/>
 Gözlerin kapasitör gibi  
 220 ile çarptın beni  
 Lehim gibi eridim  
-O lazer bakışlarına bittim   
+O lazer bakışlarına bittim  
 
 Eğer seversen beni  
 Hayat gelir paslanmış devrelerime  
