@@ -1,0 +1,55 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="tr">
+  {% include head.html %}
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          {% include nav-os.html %}
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2 col-xs-12">
+          <div id="top">
+            <div class="row">
+              <div class="col-md-6 col-md-offset-6">
+                {% include search.html %}
+              </div>
+            </div>
+          </div>
+          <div class="jumbotron post">
+            <div class="row data">
+              <div class="col-xs-6">
+                <p>
+                  {% if page.type != "w" %}
+                    {{ page.type }}<br>
+                  {% endif %}
+                  {{ page.author }}<br>
+                  {{ page.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}<br>
+                  <a id="lang" href="{{ page.link }}">Latin harfleri ile oku</a>
+                </p>
+              </div>
+              <div class="col-xs-6 text-right">
+                <p id="share-buttons">
+                  <a id="tw" target="_blank" href="https://twitter.com/intent/tweet?url=http://ceriha.com{{ page.url }}"><i class="fa fa-twitter"></i></a>&nbsp;
+                  <a id="fb" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http://ceriha.com{{ page.url }}"><i class="fa fa-facebook"></i></a>&nbsp;
+                  <a id="wa" target="_blank" class="hidden-md hidden-lg hidden-xl" href="whatsapp://send?text=Ceriha - {{ page.title }} http://ceriha.com{{ page.url }}" data-action="share/whatsapp/share"><i class="fa fa-whatsapp"></i></a>
+                </p>
+                <p>paylaş </p>
+              </div>
+            </div>
+            <h2 class="text-right os-text">{{ page.title }}</h2>
+            <div class="text-right os-text">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
