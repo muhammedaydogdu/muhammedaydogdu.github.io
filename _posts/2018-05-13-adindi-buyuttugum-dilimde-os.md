@@ -5,6 +5,7 @@ author: Muhammed Aydoğdu
 type: Şiir
 link: /2018/05/13/adindi-buyuttugum-dilimde.html
 x: "200"
+image: adindi.jpeg
 ---
 <br/>
 ایستەدڭ کیتمەیی  
