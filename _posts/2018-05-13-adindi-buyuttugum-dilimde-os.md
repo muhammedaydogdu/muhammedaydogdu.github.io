@@ -1,8 +1,8 @@
 ---
 layout: os
 title: آدڭدی بویوتدیگم دیلمدە
-author: Muhammed Aydoğdu
-type: Şiir
+author: محمد آی طوغدی
+type: شعر
 link: /2018/05/13/adindi-buyuttugum-dilimde.html
 x: "200"
 image: adindi.jpeg
