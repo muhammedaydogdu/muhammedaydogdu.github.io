@@ -4,7 +4,6 @@ title: Yetmiş Dokuz
 author: Berat Gönültaş
 type: w
 x: "200"
-lang: tr
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Karşıdan bir ilkokul arkadaşım geliyordu. Elinde sigara. Beni tanımaz. Bundan güzel öykü olur diye düşündüm. Şöyle başlarım:

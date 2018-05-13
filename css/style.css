@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Lateef;
+  src: url('../fonts/LateefRegOT.ttf');
+}
+
 body {
   font-family: "Libre Baskerville", "Times New Roman", serif;
   line-height: 1.5;
@@ -47,6 +52,7 @@ h2 {
   font-size: 14px;
   margin-top: 21px;
   margin-bottom: 15px;
+  font-family: 'Aref Ruqaa', serif;
 }
 
 .navbar .navbar-nav {
@@ -85,7 +91,6 @@ h2 {
 #share-buttons {
   font-size: 24px;
   margin-bottom: 0;
-  margin-top: 7px;
 }
 
 #fb {
@@ -118,4 +123,16 @@ nav li a.social {
 
 .social + .social {
   margin-left: 0;
+}
+
+.os-text {
+  font-family: Lateef, serif;
+}
+
+.container .jumbotron .os-text p {
+  font-size: 24px;
+}
+
+.container .jumbotron h2.os-text {
+  font-size: 40px;
 }

@@ -8,7 +8,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
-          {% include nav.html %}
+          {% include nav-os.html %}
         </div>
       </div>
 
@@ -29,7 +29,8 @@
                     {{ page.type }}<br>
                   {% endif %}
                   {{ page.author }}<br>
-                  {{ page.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}
+                  {{ page.date | date_to_long_string | replace: "January", "Ocak" | replace: "February", "Şubat" | replace: "March", "Mart" | replace: "April", "Nisan" | replace: "May","Mayıs" | replace: "June", "Haziran" | replace: "July", "Temmuz" | replace: "August", "Ağustos" | replace: "September", "Eylül" | replace: "October", "Ekim" | replace: "November", "Kasım" | replace: "December", "Aralık" }}<br>
+                  <a id="lang" href="{{ page.link }}">Latin harfleri ile oku</a>
                 </p>
               </div>
               <div class="col-xs-6 text-right">
@@ -41,8 +42,10 @@
                 <p>paylaş </p>
               </div>
             </div>
-            <h2>{{ page.title }}</h2>
-            {{ content }}
+            <h2 class="text-right os-text">{{ page.title }}</h2>
+            <div class="text-right os-text">
+              {{ content }}
+            </div>
           </div>
         </div>
       </div>
