@@ -52,7 +52,14 @@ h2 {
   font-size: 14px;
   margin-top: 21px;
   margin-bottom: 15px;
-  font-family: 'Aref Ruqaa', serif;
+  font-family: "Playfair Display", "Times New Roman", serif;
+}
+
+.navbar .navbar-text-os {
+  font-size: 18px;
+  margin-top: 21px;
+  margin-bottom: 15px;
+  font-family: "Playfair Display", serif;
 }
 
 .navbar .navbar-nav {
@@ -126,7 +133,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: Lateef, serif;
+  font-family: "Lateef", serif;
 }
 
 .container .jumbotron .os-text p {

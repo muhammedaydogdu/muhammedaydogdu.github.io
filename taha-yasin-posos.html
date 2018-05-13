@@ -17,6 +17,7 @@ layout: default
 </div>
 
 {% for post in site.posts %}
+{% if post.layout != "os" %}
   {% if post.author == "Taha Yasin Posos" %}
     <div class="jumbotron">
       <div class="row data">
@@ -33,4 +34,5 @@ layout: default
       {{ post.content | truncate: post.x }} <a href="{{ post.url }}">Devamını oku</a>
     </div>
   {% endif %}
+{% endif %}
 {% endfor %}
