@@ -4,6 +4,7 @@ title: Düşünmek İşte
 author: Berat Gönültaş
 type: Şiir
 x: "180"
+image: hanimeli.jpg
 ---
 <br/>
 Yaprakların türküsünü tutturdum bu gece  
