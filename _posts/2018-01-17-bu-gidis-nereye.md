@@ -4,6 +4,7 @@ title: Bu Gidiş Nereye?
 author: Muhammed Aydoğdu
 type: Öykü
 x: "200"
+image: nereye.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;"Haydi kalk, peşinden koşmaya zorlandığımız her şeyi bırakıp bir uçurtmanın peşinden koşalım. Yorulacağız elbet, yere düşeceğiz belki bir taşa takılıp. Damla damla terler akacak alnımızdan. Olsun. Ama her ne olacaksa sırf bu yüzden olsun, razıyım. Yeter ki yaşamanın, hayatın manasına yeniden varabileyim. Sırf bu yüzden şanslı hissedebileyim kendimi. Yeter ki yanımda elimden tutup kaldırabilecek bir dostum, dostlarım olsun; razıyım tüm olacaklara..."
