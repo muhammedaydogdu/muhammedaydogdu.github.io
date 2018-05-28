@@ -43,7 +43,7 @@ Derdim ki
 
 Bir ağacın altındadır şimdi bir başkası  
 Başını kaldırmış bakmaktadır  
-Pembe bir gelinlik içindedir  
+Pembe* bir gelinlik içindedir  
 Yalnız onu kıskanır boğazın mavisi  
 Çünkü gök bu denli  
 Bir ona bir de boğazın mavisine yükler dinginliği  
@@ -51,3 +51,8 @@ Bir ona bir de boğazın mavisine yükler dinginliği
 Bir masal yükseldi bu dinginlikten  
 Kedi yavruları titremeye başladı  
 Usul usul sokuldular birbirlerine  
+<br/>
+<br/>
+<br/>
+
+(*) düzelti: mavi değil; pudra
