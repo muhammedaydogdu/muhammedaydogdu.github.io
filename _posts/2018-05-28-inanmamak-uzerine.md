@@ -4,6 +4,7 @@ title: İnanmamak Üzerine
 author: Berat Gönültaş
 type: Şiir
 x: "180"
+iamge: inanmamak.jpeg
 ---
 <br/>
 Kuş sütüyle zehirlenmiş süvari  
