@@ -6,7 +6,7 @@ type: w
 x: "250"
 ---
 
-_“Rabbim! Benim göğsüme genişlik ver! Ve işimi bana kolaylaştır! Dilimden de düğümü çöz ki sözümü iyice anlasınlar!”_
+_“Rabbim! Benim göğsüme genişlik ver! Ve işimi bana kolaylaştır! Dilimden de düğümü çöz ki sözümü iyice anlasınlar!” (Tâhâ 25-28)_
 
 
 <br/>
