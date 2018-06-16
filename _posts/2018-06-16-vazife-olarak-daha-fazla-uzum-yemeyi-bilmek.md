@@ -4,6 +4,7 @@ author: Berat Gönültaş
 type: w
 title: Vazife Olarak Daha Fazla Üzüm Yemeyi Bilmek
 x: "298"
+image: vazife.jpeg
 ---
 
 
