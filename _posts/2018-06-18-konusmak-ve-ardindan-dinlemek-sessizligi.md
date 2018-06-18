@@ -9,7 +9,7 @@ image: dinlemek_sessizligimizi.jpeg
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Üzümü yemekle rahata erenler ve bağı sağlam olan üzümü dahi olsa yemekle tatmin olmayanlar arasındaki fark, onlarla bizim aramızdaki fark; Allah’ın insanların her birine ruhundan üfleyişi hakikatinin hissedilişidir. Kaşınan yaramız, kaşıdıkça daha da kaşınan yaramız bu değişmez hakikatin hissedilişindendir. His yoksunları da var ki bunlar üzümü yemekle rahata erenlerdir.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Yitiğimiz dünyada değil. Yitiğimizi bulmadan iyileşeceğimiz yok. Yitiği bulmaksızın yaramıza iyi gelen şey hemen ardından daha büyük bir kaşıntı bırakıyor. Böylece hayat devam ediyor tüm saçma sapanlığıyla. Hayatın saçmalı tüfeğiyle üstümüze ateş açışı hakikati hissetmemizle aynı ana tekabül eder. Yara, bu yaylım ateşinin açtığı yara. “Nasıl olsa çıkaramazsın saçmayı etinden” diyor şair, “Hiç deneme”.<sup>1</sup>
+&nbsp;&nbsp;&nbsp;&nbsp;Yitiğimiz dünyada değil. Yitiğimizi bulmadan iyileşeceğimiz yok. Yitiği bulmaksızın yaramıza iyi gelen şey hemen ardından daha büyük bir kaşıntı bırakıyor. Böylece hayat devam ediyor tüm saçma sapanlığıyla. Hayatın saçmalı tüfeğiyle üstümüze ateş açışı, hakikati hissetmemizle aynı ana tekabül eder. Yara, bu yaylım ateşinin açtığı yara. “Nasıl olsa çıkaramazsın saçmayı etinden” diyor şair, “Hiç deneme”.<sup>1</sup>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Vazifemizin üzüm yemek olamayacağı fikrinde olan bizler, vazifemizin ne olduğunu merak ediyoruz. Merak ettiğimiz tek şey bu değil. Bu saçma sapan hayatta kimlerle dost olacağımız da aklımızı kurcalıyor. “Bize Dostluk’tan söz et!” diyen gence cevaben Ermiş’in,
 
@@ -40,7 +40,7 @@ image: dinlemek_sessizligimizi.jpeg
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gönlünüzü birbirinize verin, ama  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;birbirinize tutsak olmayın.”<sup>3</sup>
 
-&nbsp;&nbsp;&nbsp;&nbsp;diyerek öğütler verdiği iki kişilik “biz”in “sen”i kim? İşte bu soru da oldukça merak uyandırıcı.
+diyerek öğütler verdiği iki kişilik “biz”in “sen”i kim? İşte bu soru da oldukça merak uyandırıcı.
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Şu şiirleri hangi kıza yazıyorsun?” diye sorsalar cevap veremem. Zira şimdiye kadar birçok veya birkaç -hangisi doğru kelime, bilemedim; kime göre birkaç, neye göre birçok?- kıza şiir yazdım. Fakat aslına bakarsanız tüm şiirler bir kıza yazıldı. Yokluğunda ona şiir yazdırtan şey, başkalarında gördüğüm ona benzeyen minik serpintilerdi. Kim bilir, belki hala serpintilere kanıyorum? Kim bilir, belki uzun bir süre daha serpintilere kanmaya devam edeceğim.
 
