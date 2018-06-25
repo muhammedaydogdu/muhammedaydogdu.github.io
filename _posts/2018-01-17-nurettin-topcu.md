@@ -4,6 +4,7 @@ title: Nurettin Topçu
 author: Zeynep Aybüke
 type: w
 x: "260"
+image: nurettin_topcu.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Bu hafta <a href="https://tahirpasacamiiokumalari.wordpress.com/" target="_blank">Tahir Paşa Camii okumaları</a>mızın onuncusunu gerçekleştirdik. Bu sefer okumamızda tek bir kitap üzerine eğilmek yerine Nurettin Topçu’nun muallim kişiliği üzerinde durduk. “Türk’ün düştüğü yer ahlâk ve iktisat sahasıdır. Kişi düştüğü yerden kalkar.” ve “Gençlik avare ve davasız, aileler otoritesizse bundan da muallim mesul olacaktır. Memurlar rüşvetçi, mesul makamlar iltimasçı iseler muallimin utanması icap eder. Din hayatı bir riya ve taklit merasimi hâline gelerek vicdanlar sahipsiz ve sultansız kalmışsa bunun da mesulü muallimlerdir. Yüreklerin merhametsizliğinden, hislerin bayağılığından ve iradelerin gevşekliğinden bir mesul aranırsa; o da muallimdir. Yalnız kaldığımız yerde yalnızlığımızın mesulü o, imanların zayıfladığı devirlerde bu gevşemenin mesulü yine onlardır.” diyen müellifi dinleyip, ahlâk sahasındaki düşüklükten kurtulmak için muallimin üzerine neler düştüğü hakkında konuştuk.
