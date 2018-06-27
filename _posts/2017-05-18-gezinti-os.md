@@ -4,6 +4,7 @@ author: برات كوڭل طاش
 type: شعر
 title: كزینتی
 x: "120"
+image: gezinti.jpeg
 link: /2017/05/18/gezinti.html
 ---
 <br/>
