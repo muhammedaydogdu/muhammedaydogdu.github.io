@@ -3,7 +3,8 @@ type: Şiir
 author: Büşra Acar
 title: Ölü Çocuklar İçin Şiir Denemesi
 x: 200
-layout: post
+layout: lt
+link: /2017/07/23/olu-cocuklar-icin-os.html
 ---
 <br/>
 Hep bir kelime eksik  
