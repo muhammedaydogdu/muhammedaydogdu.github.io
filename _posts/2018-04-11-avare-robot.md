@@ -4,6 +4,7 @@ title: Avare Robot
 author: Taha Yasin Posos
 type: Şiir
 x: "180"
+published: no
 ---
 <br/>
 Gözlerin kapasitör gibi  
