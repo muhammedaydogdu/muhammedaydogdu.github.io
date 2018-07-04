@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: lt
 author: Muhammed Aydoğdu
 type: Şiir
 title: Yitirilen, Yitirilmiş, Yitik
 x: "177"
+link: /2017/02/23/yitirilen-yitirilmis-yitik-os.html
 ---
 <br/>
 geçmişin  
