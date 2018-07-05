@@ -7,7 +7,9 @@ x: "200"
 image: andreea-chidu-234595.jpg
 link: /2017/10/30/gozlerim-ararken-denizi-os.html
 ---
+
 <br/>
+
 Bir karınca iniyor merdivenden  
 Siren sesleri altında  
 Karınca kararınca  
