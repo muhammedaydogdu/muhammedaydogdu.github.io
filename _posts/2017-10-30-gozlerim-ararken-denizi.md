@@ -1,5 +1,5 @@
 ---
-layout: It
+layout: lt
 title: Gözlerim Ararken Denizi
 author: Berat Gönültaş
 type: Şiir
