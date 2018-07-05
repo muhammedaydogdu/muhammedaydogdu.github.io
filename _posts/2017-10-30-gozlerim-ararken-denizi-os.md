@@ -3,6 +3,7 @@ type: شعر
 author: برات کوڭل طاش
 title: كوزلرم آراركن دڭزی
 x: 200
+image: andreea-chidu-234595.jpg
 layout: os
 link: /2017/10/30/gozlerim-ararken-denizi.html
 ---
