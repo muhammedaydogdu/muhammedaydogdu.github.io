@@ -9,8 +9,8 @@ image: 20171005_033330-01-01.jpeg
 ---
 <br/>
 
-_bu şiir masumca katledilen tüm_ 
-_sivrisineklere ithaf edilmiştir.._
+_bu şiir masumca katledilen tüm_   
+_sivrisineklere ithaf edilmiştir.._  
 
 
 <br/>
