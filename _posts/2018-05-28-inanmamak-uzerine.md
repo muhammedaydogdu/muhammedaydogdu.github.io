@@ -1,9 +1,10 @@
 ---
-layout: post
+layout: lt
 title: İnanmamak Üzerine
 author: Berat Gönültaş
 type: Şiir
 x: "180"
+link: /2018/05/28/inanmamak-uzerine-os.html
 image: inanmamak.jpeg
 ---
 <br/>
