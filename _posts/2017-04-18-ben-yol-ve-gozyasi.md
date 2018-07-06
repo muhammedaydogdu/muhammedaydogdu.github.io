@@ -41,7 +41,7 @@ değmiyor şu dünyada
 hiçbir şey hiçbir şeye  
 yine de hep hatırla o döktüğün yaşları toprağa  
 hatırla ki döktüğüne değsin  
-hatta hiç unutma  
+hiç unutma  
 
 ..............
 
