@@ -4,7 +4,7 @@ type: شعر
 author: برات کوڭل طاش
 title: اینانمامق أوزرینە
 x: 200
-image: 
+image: inanmamak.jpeg
 layout: os
 link: /2018/05/28/inanmamak-uzerine.html
 
