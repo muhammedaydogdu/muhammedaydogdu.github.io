@@ -7,7 +7,7 @@ x: "180"
 link: /2017/10/22/lambaların-sönmesi-üzerine-os.html
 image: 20171005_033330-01-01.jpeg
 ---
-
+<br/>
 
 _bu şiir masumca katledilen tüm sivrisineklere ithaf edilmiştir.._
 
