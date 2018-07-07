@@ -54,7 +54,7 @@ Aşklarımı kurşuna dizdiler
 Çiçek açmış bir erik ağacının  
 Altında buldu cesetleri  
 Evlerine dönen yorgun çiftçiler  
-Süzdüler daha sonra bir buluttan  
+Ve süzdüler daha sonra bir buluttan  
 
 İçim acıdı dönek karanlıklarla boğuşmaktan  
 Yoktu aynaya bakmaya niyeti gölgelerin  
