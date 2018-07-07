@@ -4,6 +4,7 @@ author: Berat Gönültaş
 type: Şiir
 title: İpek Kanatlı Kuşun Ezgisi
 x: "350"
+image: ipek_kanatli_kus.jpeg
 ---
 
 
