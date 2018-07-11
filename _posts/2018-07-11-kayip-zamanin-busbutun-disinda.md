@@ -4,7 +4,7 @@ title: Kayıp Zamanın Büsbütün Dışında
 layout: post
 x: 220
 author: İdâ Turan
-image: kayip_zaman.jpg
+image: kayip_zamanin.jpg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;“History is a nightmare from which I am trying to awake” demiş James Joyce. Kendince haklı sebepleri olabilir lakin yazıma başlarken belirtmek isterim ki kendisine katılmıyorum.
