@@ -29,13 +29,13 @@ Cümle eşkâl ağlarken, gözümde handan idün.
 Ne mümkün idi seni, çarçeveye sığdurmak.  
 Bir kem nazar yüzünden hâk ile yeksan idün.  
 
-Hatra gelür heybetün, boş bir divar görünce,  
+Hatra gelir heybetün, boş bir divar görünce,  
 Ecvef bî-can zann ider, sen serv-i revân idün.  
 
 Gıpta iderdi sana, tüm merdan-ı hünerment.  
 Ayı dirlerdi ama, bir esb-i devan idün.  
 
-Sual ider cümlesi, nedür esrar-ı kârı,  
+Sual ider cümlesi, nedir esrar-ı kârı,  
 Vâkıf olamaz kimse, takdire şâyan idün.  
 
 Hîvhêlat* bî-haberdi, böyle bir akıbetten.  
