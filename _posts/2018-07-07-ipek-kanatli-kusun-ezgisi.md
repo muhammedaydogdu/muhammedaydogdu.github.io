@@ -9,7 +9,7 @@ image: ipek_kanatli_kus.jpeg
 
 
 _"Sen de mi her şey olayım derken hiçbir şey olamayanlardansın?" dedi. "Hayır" dedim, "Hiçbir şey olayım derken hiçbir şey olanlardanım ben."
-<a href="https://twitter.com/alpaslancambaz" target="_blank">(@alpaslancambaz)</a>_  
+<a href="https://twitter.com/alpaslancambaz/status/1014912655713275904" target="_blank">(@alpaslancambaz)</a>_  
 
 
 <br/>
