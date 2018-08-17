@@ -4,7 +4,6 @@ title: Hissizlik
 author: Betül Fırat
 type: Öykü
 x: "196"
-published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;<em>Belki de yazmak, aradığını sandığı çıkışların var olduğu ve buluşmanın nasip olmayacağı bir eylemdir; muamma. Ulaşamadıklarına yürürken akıttığı terleri, hangi çamurlu su</em><em>yla yıkamıştı? Acımak mıydı kalan? Kime? Belini bükemeyen sancıları vardı, bilinmeyende paylaştığı karanlıkları, değemediği çokça anısı ve de ne yazık ki titremediği kışları...</em>
