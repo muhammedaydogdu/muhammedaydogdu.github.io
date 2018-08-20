@@ -5,6 +5,7 @@ author: Berat Gönültaş
 type: w
 x: "225"
 image: sacma.jpeg
+published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Fizikçiyim ben ve bu çok saçma. Hayatın saçma sapan oluşu gibi. Hayat neden saçma sapansa fizikçi oluşum da aynı nedenden ötürü saçma sapan.
@@ -26,7 +27,7 @@ image: sacma.jpeg
 
 &nbsp;&nbsp;&nbsp;&nbsp;İşte bir zamanlar okulsuz bir topluma olan özlemle hergün okula bu kitapla gidip gelen ben, 14 Mart 2018 sabahı, “Başınız sağolsun. Umarım tiz vakitte bir baş daha bulursunuz kendinize.” diye bir mesajla karşılaştım uyanır uyanmaz. O an olaydan bihaber ve uyku sersemi bir biçimde diyorum “acaba kim öldü?”. Gerilmişim bir miktar. Çok geçmeden öğreniyorum ki “fizikçi” Stephen Hawking ölmüş. Taziye mesajı bunun için. Yanıtım şu oldu bu baş sağlığı mesajına: “Hayırlısı. Lakin ben şahsen kendilerini baş olarak görmüyordum. Benim başlar öleli çok olmuş, kalan sağlar haindir.”
 
-&nbsp;&nbsp;&nbsp;&nbsp;İstiklal Marşı Derneği’ndeki serüvenim üyelik başvurum sonuçlanana kadar bile süremedi. İletişim kopukluğunu bir arayı açış, uzaklaşış olarak görmem ben. Kendisiyle her geçen gün daha da yakınlaştığımı hissettiğim şair, benim de sofrada bulunduğum, derneğin İstanbul şubesindeki, menüsü çorba ve bulgur pilavı olan akşam yemeklerinden birinin ardından şunları demişti:
+<!--&nbsp;&nbsp;&nbsp;&nbsp;İstiklal Marşı Derneği’ndeki serüvenim üyelik başvurum sonuçlanana kadar bile süremedi. İletişim kopukluğunu bir arayı açış, uzaklaşış olarak görmem ben. Kendisiyle her geçen gün daha da yakınlaştığımı hissettiğim şair, benim de sofrada bulunduğum, derneğin İstanbul şubesindeki, menüsü çorba ve bulgur pilavı olan akşam yemeklerinden birinin ardından şunları demişti:
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Ümmi, yani okuma yazma bilmeyen, Arapça kökenli bu kelime, Arapça’da ‘ana’ kelimesinin yerini tutan kelimeyle aynı kökten gelir. Yani anadan doğmuş gibi, o saflıkta, tertemiz.”
 
@@ -47,4 +48,4 @@ Beraber 'Uyumsuzlar' öyküsünü okuduk.."
 
 &nbsp;&nbsp;&nbsp;&nbsp;yazıyor...
 
-&nbsp;&nbsp;&nbsp;&nbsp;“Hayat saçma sapandır.”
+&nbsp;&nbsp;&nbsp;&nbsp;“Hayat saçma sapandır.”-->
