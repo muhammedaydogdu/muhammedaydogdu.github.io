@@ -4,6 +4,7 @@ title: "Karanlık: Bir Betül Fırat Öyküsü"
 author: Berat Gönültaş
 type: w
 x: "200"
+published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;"Karanlığın içinde bir ses sağır edici."

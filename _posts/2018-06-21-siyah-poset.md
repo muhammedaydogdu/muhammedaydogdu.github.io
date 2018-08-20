@@ -5,6 +5,7 @@ type: w
 title: Siyah Poşet
 x: "200"
 image: siyah_poset.jpeg
+published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;“Uzun bir süre bir şey yazmayacağım. Hislerim bu yönde. Yazacak bir şeyim kalmamış gibi. Hem zaten işlerim var.”
