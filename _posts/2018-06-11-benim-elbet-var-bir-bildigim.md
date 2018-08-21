@@ -5,7 +5,6 @@ author: Berat Gönültaş
 type: w
 x: "225"
 image: sacma.jpeg
-published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Fizikçiyim ben ve bu çok saçma. Hayatın saçma sapan oluşu gibi. Hayat neden saçma sapansa fizikçi oluşum da aynı nedenden ötürü saçma sapan.
