@@ -31,7 +31,7 @@ published: no
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Ümmi, yani okuma yazma bilmeyen, Arapça kökenli bu kelime, Arapça’da ‘ana’ kelimesinin yerini tutan kelimeyle aynı kökten gelir. Yani anadan doğmuş gibi, o saflıkta, tertemiz.”
 
-&nbsp;&nbsp;&nbsp;&nbsp;Kitaplara attığım tarihler bazen bir tarihten fazlası oluyor. Rasim Özdenören'in Uyumsuzlar isimli öykü kitabını kitap çıkar çıkmaz satın almıştım. Okumaya da başlamıştım. Satın aldığımda veya okumaya başladığımda tarih atmayı unuttuğum bir kitap daha. Daha sonradan, geçenlerde tarih attım, bir notla birlikte.  
+<!--&nbsp;&nbsp;&nbsp;&nbsp;Kitaplara attığım tarihler bazen bir tarihten fazlası oluyor. Rasim Özdenören'in Uyumsuzlar isimli öykü kitabını kitap çıkar çıkmaz satın almıştım. Okumaya da başlamıştım. Satın aldığımda veya okumaya başladığımda tarih atmayı unuttuğum bir kitap daha. Daha sonradan, geçenlerde tarih attım, bir notla birlikte.  
 "30-31 Mayıs 2018 gecesi  
 Beraber 'Uyumsuzlar' öyküsünü okuduk.."
 
