@@ -17,7 +17,7 @@ published: no
 &nbsp;&nbsp;&nbsp;&nbsp;25 Zilhicce 1439.  
 &nbsp;&nbsp;&nbsp;&nbsp;Bugün ikinci yılını dolduruyor Ceriha. Ve ben bu iki koca yılın gölgesinde oturmuş soluklanıyorum.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Zaman, rüzgâr kanatlı bir atlı misali esip duruyor yarınlara. Yaşamımızda dünden bugüne değişen birçok şey var. Farklı sûretlere bürünüp duran, yerini bir başkasına bırakan fotoğraf karelerinin süratli bir deveranından ibaret aslında bütün hikâyemiz. Hepsi birer zaman kalıntısı. Tortulanıp duruyoruz yıllandıkça. Esen bir rüzgâr, süpürüyor ansızın kopan birkaç kalıntıyı. Bir dalga vuruyor benliğimizin kıyısına, aşınıyor zayıf yanlarımız. Üstünü köpürtülerin kapladığı o dalga giderken fazlalığımızı da alıp götürüyor yanında. Ardında bıraktığı manzara, ve büründüğümüz, asıl şeklimiz. Her kıvrımında zamana direnişimizin izleri saklı.  
+&nbsp;&nbsp;&nbsp;&nbsp;Zaman, rüzgâr kanatlı bir atlı misali esip duruyor yarınlara. Yaşamımızda dünden bugüne değişen birçok şey var. Farklı sûretlere bürünüp duran, yerini bir başkasına bırakan fotoğraf karelerinin süratli bir deveranından ibaret aslında bütün hikâyemiz. Hepsi birer zaman kalıntısı. Tortulanıp duruyoruz yıllandıkça. Esen bir rüzgâr, süpürüyor ansızın bizden kopan birkaç kalıntıyı. Bir dalga vuruyor benliğimizin kıyısına, aşınıyor zayıf yanlarımız. Üstünü köpürtülerin kapladığı o dalga giderken fazlalığımızı da alıp götürüyor yanında. Ardında bıraktığı manzara, ve büründüğümüz, asıl şeklimiz. Her kıvrımında zamana direnişimizin izleri saklı.  
 &nbsp;&nbsp;&nbsp;&nbsp;Hayatın peşinde bıraktığı gürültü yavaş yavaş diniyor. Ve atlılar kayboluyor, güneşin battığı yerde..  
 
 &nbsp;&nbsp;&nbsp;&nbsp;"Atlılar atlılar kızıl atlılar,  
