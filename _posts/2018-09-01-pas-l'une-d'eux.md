@@ -8,9 +8,9 @@ image: pas-eux.jpeg
 ---
 <br/>
 Yağmurun  
-Toprağı derinden yaralayan  
-Şehvetli bir değişi vardı  
 Onun karanfil saçlarına  
+Toprağı derinden yaralayan  
+Şehvetli bir değişi vardı    
 Yaralı toprak ıslak saçlar  
 Kucağa uzanış  
 Bir kerecik de olsa paklar dünyayı  
