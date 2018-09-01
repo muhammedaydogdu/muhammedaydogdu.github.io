@@ -17,8 +17,8 @@ Bir kerecik de olsa paklar dünyayı
 Bu şehrin yerlileri  
 Öğrenemediler  
 Ustaca su içmesini bir pınardan  
-Ustaca mı?  
-Mümkün müydü bu?  
+Ustaca mı  
+Mümkün müydü bu  
 Ne münasebet  
 Acemilik bu işin kendisi  
 Ustalaşmak mümkün değil  
