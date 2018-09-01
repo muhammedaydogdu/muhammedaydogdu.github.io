@@ -4,6 +4,7 @@ title: Pas L'une D'eux
 author: Berat Gönültaş
 type: Şiir
 x: "200"
+image: pas-eux.jpeg
 ---
 <br/>
 Yağmurun  
