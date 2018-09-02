@@ -4,6 +4,7 @@ title: İki Koca Yılın Gölgesinde
 author: Muhammed Aydoğdu
 type: w
 x: "200"
+image: 2_koca_yılın_gölgesinde.jpg
 published: no
 ---
 
