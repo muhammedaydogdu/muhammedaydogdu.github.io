@@ -12,7 +12,7 @@ published: no
 &nbsp;&nbsp;&nbsp;&nbsp;Yıl 1437. Aylardan Zilhicce. Takvimler yirmi beşinci gününü gösteriyorken bu ayın.. İşte o gün yayımlanmıştı ilk yazı Ceriha'da. Şimdiye dek süregelen bu serüven, o gün başlamıştı.  
 
 &nbsp;&nbsp;&nbsp;"Nal sesleri sönüyor perde perde,  
-&nbsp;&nbsp;&nbsp;&nbsp;Atlılar kayboluyor güneşin battığı yerde!  
+&nbsp;&nbsp;&nbsp;&nbsp;Atlılar kayboluyor güneşin battığı yerde!"  
 
 &nbsp;&nbsp;&nbsp;&nbsp;25 Zilhicce 1439.  
 &nbsp;&nbsp;&nbsp;&nbsp;Bugün ikinci yılını dolduruyor Ceriha. Ve ben bu iki koca yılın gölgesinde oturmuş soluklanıyorum.  
