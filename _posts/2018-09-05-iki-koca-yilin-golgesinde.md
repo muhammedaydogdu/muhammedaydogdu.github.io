@@ -9,10 +9,8 @@ image: 2_koca_yılın_gölgesinde.jpg
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Yıl: Bin dört yüz otuz yedi. Aylardan Zilhicce. Takvimler, yirmi beşinci gününü gösteriyorken bu ayın.. İşte o gün yayımlanmıştı ilk yazı Ceriha'da. Şimdiye dek süregelen bu serüven, o gün başlamıştı.  
 
-<br/>
-&nbsp;&nbsp;&nbsp;"Nal sesleri sönüyor perde perde,   
+&nbsp;&nbsp;&nbsp;"Nal sesleri sönüyor perde perde,  
 &nbsp;&nbsp;&nbsp;&nbsp;Atlılar kayboluyor güneşin battığı yerde!"  
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;25 Zilhicce 1439.  
 &nbsp;&nbsp;&nbsp;&nbsp;Bugün ikinci yılını dolduruyor Ceriha. Ve ben bu iki koca yılın gölgesinde oturmuş soluklanıyorum.  
