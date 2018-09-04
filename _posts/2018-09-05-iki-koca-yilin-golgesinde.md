@@ -5,7 +5,6 @@ author: Muhammed Aydoğdu
 type: w
 x: "200"
 image: 2_koca_yılın_gölgesinde.jpg
-published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Yıl: Bin dört yüz otuz yedi. Aylardan Zilhicce. Takvimler, yirmi beşinci gününü gösteriyorken bu ayın.. İşte o gün yayımlanmıştı ilk yazı Ceriha'da. Şimdiye dek süregelen bu serüven, o gün başlamıştı.  
