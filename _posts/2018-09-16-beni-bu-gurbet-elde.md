@@ -18,20 +18,21 @@ beni bu gurbet elde böyle sensiz bırakma__
 
 <br/>
 
-zâlim hicran yelinde savrulan bir bahtsızım  
-bedevî bir seyyahım, bir çöl kadar yalnızım  
-kayboldu gökyüzünde yol gösteren yıldızım  
-
-__bir de aşk cellâdını, tutup peşime takma  
-beni bu gurbet elde böyle sensiz bırakma__  
-
-<br/>
 
 kendi yoksulluğumdan sanadır göçmenliğim  
 bir katre suya muhtaç sensiz kalan benliğim  
 yetmiyor anlatmaya aczimi içtenliğim  
 
 __bir el uzat, yardım et, öylece durup bakma  
+beni bu gurbet elde böyle sensiz bırakma__  
+
+<br/>
+
+zâlim hicran yelinde savrulan bir bahtsızım  
+bedevî bir seyyahım, bir çöl kadar yalnızım  
+kayboldu gökyüzünde yol gösteren yıldızım  
+
+__bir de aşk cellâdını, tutup peşime takma  
 beni bu gurbet elde böyle sensiz bırakma__  
 
 <br/>
