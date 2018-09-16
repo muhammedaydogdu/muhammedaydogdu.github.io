@@ -59,5 +59,5 @@ gündüz gün yüzü görmem gecem bir kara zindan
 dünü bugünden çaldım bugünüyse yarından  
 tam seni buldum derken bunca vaktin ardından  
 
-__sen de bir ırmak olup, benden ırağa akma  
+__sen de bir ırmak olup benden ırağa akma  
 beni bu gurbet elde böyle sensiz bırakma__  
