@@ -5,7 +5,6 @@ author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
 image: beni-bu-gurbet-elde.jpg
-published: no
 ---
 
 <br/>
