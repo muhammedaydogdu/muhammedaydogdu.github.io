@@ -7,7 +7,7 @@ x: "165"
 ---
 
 
-_<a href="http://www.ceriha.com/2018/09/18/dokunus.html" target="_blank">Dokunuş</a>'un devamı.._
+_<a href="http://www.ceriha.com/2018/09/18/dokunus.html" target="_blank">Dokunuş</a>’un devamı.._
 
 
 <br/>
