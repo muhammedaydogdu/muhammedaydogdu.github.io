@@ -3,7 +3,7 @@ layout: post
 title: Beni Bu Gurbet Elde Böyle Sensiz Bırakma
 author: Muhammed Aydoğdu
 type: Şiir
-x: "180"
+x: "150"
 image: beni-bu-gurbet-elde.jpg
 ---
 
