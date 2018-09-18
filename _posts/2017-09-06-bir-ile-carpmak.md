@@ -8,7 +8,7 @@ desc: "Artık eve dönsem iyi olur. Epey geç oldu. Ben de fazlasıyla yorgun d�
 ---
 
 
-_<a href="http://www.ceriha.com/2017/08/28/sifira-bolmek.html" target="_blank">Sıfıra Bölmek</a>'in devamı.._
+_<a href="http://www.ceriha.com/2017/08/28/sifira-bolmek.html" target="_blank">Sıfıra Bölmek</a>’in devamı.._
 
 
 <br/>
