@@ -3,7 +3,7 @@ layout: post
 author: Berat Gönültaş
 type: Öykü
 title: Kelimeler
-x: "120"
+x: "150"
 ---
 
 
