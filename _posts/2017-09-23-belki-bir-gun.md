@@ -7,7 +7,7 @@ x: "300"
 ---
 
 
-_<a href="http://www.ceriha.com/2017/09/06/bir-ile-carpmak.html" target="_blank">Bir ile Çarpmak</a>'ın devamı.._
+_<a href="http://www.ceriha.com/2017/09/06/bir-ile-carpmak.html" target="_blank">Bir ile Çarpmak</a>’ın devamı.._
 
 
 <br/>
