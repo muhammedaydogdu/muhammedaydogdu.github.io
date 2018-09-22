@@ -4,7 +4,7 @@ title: Kierkegaard ve "Kaygı Kavramı"
 author: Berat Gönültaş
 type: w
 x: "200"
-image: arp299.jpg
+image: arp.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;“..Ancak bu küçük sorunu çözerken, sevgili dostum, dünyadaki karışıklıklara yol açan şeyin, kurnazlık ve kötü niyetten öte, belki de yanlış anlamalar ve atalet olduğunu bir kez daha saptadım. En azından ilk ikisine daha az rastlanıyor.”<sup>1</sup>
