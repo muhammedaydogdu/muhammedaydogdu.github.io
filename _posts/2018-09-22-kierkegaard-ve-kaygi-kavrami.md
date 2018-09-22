@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kierkegaard ve "Kaygı Kavramı"
+title: Kierkegaard ve Kaygı Kavramı
 author: Berat Gönültaş
 type: w
 x: "200"
