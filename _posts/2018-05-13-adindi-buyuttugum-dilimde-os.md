@@ -5,7 +5,7 @@ author: محمد آی طوغدی
 type: شعر
 link: /2018/05/13/adindi-buyuttugum-dilimde.html
 x: "200"
-image: adindi.jpeg
+image: adindi-buyuttugum-dilimde.jpg
 ---
 <br/>
 ایستەدڭ کیتمەیی  
