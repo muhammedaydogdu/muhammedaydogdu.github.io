@@ -1,5 +1,5 @@
 ---
-layout: lt
+layout: post
 title: İnanmamak Üzerine
 author: Berat Gönültaş
 type: Şiir
