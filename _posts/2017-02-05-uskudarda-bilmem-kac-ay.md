@@ -13,7 +13,7 @@ _bir dosta cevaben_
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;"Oralarda hayat nasıl?" diye sormuşsun. Sâhi, ne çok merak edeni var bu sorunun. Bunun öncesinde de ziyâdesiyle muhatabı olduğum bu soruya bu kez kaçamak cevaplar vermeyeceğim. Bazı şeyleri anlatmanın vakti geldi artık, en başından itibâren.
 
-&nbsp;&nbsp;&nbsp;&nbsp;İstanbul'daki ilk zamanlarım.. Daha adını dâhi bilmediğim lâkin sonraları fazlasıyla âşina olacağım o yokuştan çıkarken birkaç ipucu veriyordu aslında buradaki hayat kendine dâir: Selamsız Yokuşu.. Üsküdar'da, hatta İstanbul'da beni ilk karşılayan yerlerden birisidir bu yokuş. Şimdi fark ediyorum; bu yokuşta olduğu gibi -başka yerlerde de- dikkatimi celbeden ne kadar ayrıntı varsa, ünsiyet peyda ettiğinde artık kendini nazara vermiyordu sanki.
+&nbsp;&nbsp;&nbsp;&nbsp;İstanbul'daki ilk zamanlarım.. Daha adını dâhi bilmediğim lâkin sonraları fazlasıyla âşina olacağım o yokuştan çıkarken birkaç ipucu veriyordu aslında buradaki hayat kendine dâir: Selamsız Yokuşu.. Üsküdar'da, hatta İstanbul'da beni ilk karşılayan yerlerden birisidir bu yokuş. Şimdi fark ediyorum; bu yokuşta olduğu gibi -başka yerlerde de- dikkatimi celbeden ne kadar ayrıntı varsa, ünsiyet peyda ettiğinde artık kendini kolay kolay nazara vermiyordu sanki.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Zaman geçtikçe yıllardır buradaymışım gibi bir nazarla bakmaya başladım görmeye alıştığım şeylere. Zîra buralarda hayat; insanı farklı koşuşturmacalar içinde tüketiyor, zamanla onların çevrelerine duyarlı bakabilme yetisini tükettiği gibi...
 
