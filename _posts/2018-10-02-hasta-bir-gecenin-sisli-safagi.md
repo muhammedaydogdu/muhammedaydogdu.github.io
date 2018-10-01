@@ -56,4 +56,4 @@ Kilyos, Mart 2016
 Nerede okumuştum hatırlamıyorum, biri şunu yazmıştı: Bir gün gelir de belli anlarda aklınıza büyük şairlerin dizeleri değil de kendi dizeleriniz gelirse işte o zaman şair olmuşsunuz demektir. Eğer bu yargı doğruysa uzun zamandır şairim ben. Hoş, şairliğimden elalemin ne dediğine bakarak emin olacak adam da değilim. 
 Kendi şiirlerimi, özellikle de son şiirlerimi okumaktan büyük keyif duyuyorum. Yine nerede okuduğumu hatırlamıyorum fakat Cahit Zarifoğlu'nun kendi şiirlerini hiç okumadığına dair bir şeyler kalmış aklımda. 
 Yukarıdaki şiirim Hatır Kahvesi'nin altıncı sayısında yayımlandı. Derginin baskıya gitmeden önceki son halini editörle olan hukukumuz dolayısıyla görme fırsatı elde etmiştim. Şiirde geçen "küfür" kelimesinin yerine "sövgü" kelimesi gelmiş, "bir viski bardağının" kısmı ise "bir bardağın" olarak değiştirilmişti. Ya bu kısımların düzeltilmesini ya da şiirin yayımlanmamasını istedim. Şiir yayımlandı.
-Şiir yayımlandı da ne oldu? C'est le question.
+Şiir yayımlandı da ne oldu?
