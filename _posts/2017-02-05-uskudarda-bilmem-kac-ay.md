@@ -4,6 +4,7 @@ author: Muhammed Aydoğdu
 type: w
 title: Üsküdar'da Bilmem Kaç Ay
 x: "200"
+image: uskudarda-bilmem-kac-ay.jpg
 ---
 
 <br/>
