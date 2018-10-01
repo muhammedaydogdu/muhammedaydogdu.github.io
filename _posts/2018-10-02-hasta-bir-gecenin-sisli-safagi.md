@@ -9,47 +9,47 @@ published: no
 ---
 <br/>
 
-istedim ki tut elimden
-beraber yürüyelim, arayalım beraber
-küfürler yankılanan hasta gecelerin
-tutmayan uykularında
-istedim ki tut elimden
+istedim ki tut elimden  
+beraber yürüyelim, arayalım beraber  
+küfürler yankılanan hasta gecelerin  
+tutmayan uykularında  
+istedim ki tut elimden  
 
-bir kadının önce kelimeleri sevilir
-ve sonra gözleri
-ki o gözler
-karanlık gecedeki tek yıldızın ışıltısı
-kalabalığın arasında yalnız senin duyduğun
-minik kuşun cıvıltısı
+bir kadının önce kelimeleri sevilir  
+ve sonra gözleri  
+ki o gözler  
+karanlık gecedeki tek yıldızın ışıltısı  
+kalabalığın arasında yalnız senin duyduğun  
+minik kuşun cıvıltısı  
 
-sigara dumanları arasında
-bir viski bardağının diğerine anlattığı
-en adi bir alışverişten daha adi
-dediklerine göre aşk
-masalları dinledim
+sigara dumanları arasında  
+bir viski bardağının diğerine anlattığı  
+en adi bir alışverişten daha adi  
+dediklerine göre aşk  
+masalları dinledim  
 
-dökülen alevler söndü önce denizdeki
-ve bulutlardakiler sonra
-bir gün daha çekti gitti ardına bakmadan
-kaldık bir ben ve deniz
-ve bahar çiçekleri
+dökülen alevler söndü önce denizdeki  
+ve bulutlardakiler sonra  
+bir gün daha çekti gitti ardına bakmadan  
+kaldık bir ben ve deniz  
+ve bahar çiçekleri  
 
-yiten vicdandır
-vicdanınızın sesini dinleyin
-hala duyuluyorsa
+yiten vicdandır  
+vicdanınızın sesini dinleyin  
+hala duyuluyorsa  
 
-bir dayanağı olmadan nasıl yaşar insan
-öylesi yaşam, yaşam mıdır
-bu yaşanılan yaşam mıdır
-hiç mi sormazlar
+bir dayanağı olmadan nasıl yaşar insan  
+öylesi yaşam, yaşam mıdır  
+bu yaşanılan yaşam mıdır  
+hiç mi sormazlar  
 
-istedim ki tut elimden
-beraber yürüyelim, arayalım beraber
-küfürler yankılanan hasta gecelerin
-tutmayan uykularında
-istedim ki tut elimden
+istedim ki tut elimden  
+beraber yürüyelim, arayalım beraber  
+küfürler yankılanan hasta gecelerin  
+tutmayan uykularında  
+istedim ki tut elimden  
 
-Kilyos, Mart 2016
+Kilyos, Mart 2016  
 
 --
 
