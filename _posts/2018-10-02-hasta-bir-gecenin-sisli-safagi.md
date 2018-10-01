@@ -4,8 +4,7 @@ title: Hasta Bir Gecenin Sisli Şafağı
 author: Berat Gönültaş
 type: Şiir
 x: "200"
-image:
-published: no
+image: hasta-bir-gecenin-sisli-safagi.jpg
 ---
 <br/>
 
