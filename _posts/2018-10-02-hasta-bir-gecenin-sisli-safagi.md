@@ -53,7 +53,7 @@ Kilyos, Mart 2016
 <br/>
 
 ---
-<br/>
+
 
 Nerede okumuştum hatırlamıyorum, biri şunu yazmıştı: Bir gün gelir de belli anlarda aklınıza büyük şairlerin dizeleri değil de kendi dizeleriniz gelirse işte o zaman şair olmuşsunuz demektir. Eğer bu yargı doğruysa uzun zamandır şairim ben. Hoş, şairliğimden elalemin ne dediğine bakarak emin olacak adam da değilim. 
 
