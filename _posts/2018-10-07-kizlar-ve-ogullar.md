@@ -4,7 +4,7 @@ title: Kızlar ve Oğullar
 author: Berat Gönültaş
 type: w
 x: "200"
-image: lantern-1864627.jpg
+image: kizlarveogullar.jpeg
 ---
 
 
