@@ -7,6 +7,7 @@ x: 200
 image: inanmamak.jpeg
 layout: os
 link: /2018/05/28/inanmamak-uzerine.html
+published: no
 
 ---
 

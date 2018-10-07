@@ -10,15 +10,15 @@ bir mezarlık sessizliği çökmüş evimin her köşesine
 ki ben bir mezarlık ne kadar sessiz olur  
 iyi bilirim  
 öylesine ıssız  
-öylesine tenha her yer  
+öylesine tenhâ her yer  
 karanlık damlıyor gözlerimden  
 pas tutmuş kulaklarım  
-yığılmışım bir köşede vakitsizce  
+yığılıp bir köşede vakitsizce  
 uyuyup kalmışım  
 
 bir uyanık hâlâ ismini sayıklıyor    
 boğuşmuş karanlık gecelerde yalnızlığıyla  
-yenik düşmüş mesâfelere  
+yine de yenik düşmüş mesâfelere  
 puslu bakıyor gözleri uzaklara  
 hafif dalgın  
 yorgun, üzgün ve kırgın  
@@ -32,7 +32,8 @@ bir mezarlık sessizliği çökmüş evimin her köşesine
 ki ben bir mezarlık ne kadar sessiz olur  
 iyi bilirim  
 öylesine ıssız  
-öylesine tenha  
-kimilerine gündüz olmuş gecelerin ürkütücü karanlığında  
+öylesine tenhâ  
+kimilerine gündüz olmuş gecelerin  
+ürkütücü karanlığında  
 bir gece selâsıyla bölünür uykum  
 ansızın irkilir bedenim  
