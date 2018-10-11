@@ -37,10 +37,10 @@ x: "200"
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;-(fısıldayarak)Günaydın.
-&nbsp;&nbsp;&nbsp;&nbsp;-Günaydın.
-&nbsp;&nbsp;&nbsp;&nbsp;-Abi, nasıl bir aşkla kitap okuyorsun sen?
-&nbsp;&nbsp;&nbsp;&nbsp;(gülümseyiş)
+&nbsp;&nbsp;&nbsp;&nbsp;-(fısıldayarak)Günaydın.  
+&nbsp;&nbsp;&nbsp;&nbsp;-Günaydın.  
+&nbsp;&nbsp;&nbsp;&nbsp;-Abi, nasıl bir aşkla kitap okuyorsun sen?  
+&nbsp;&nbsp;&nbsp;&nbsp;(gülümseyiş)  
 
 ---
 
