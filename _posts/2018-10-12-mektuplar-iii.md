@@ -3,16 +3,16 @@ layout: post
 title: Mektuplar III
 author: Berat Gönültaş
 type: Öykü
-x: "200"
+x: 200
 ---
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Kimseyi kurtarmaya kimsenin gücünün yetmeyeceği gibi benim gücüm de yetmez. Yetmedi de. Başkasının kurtuluşundan bana ne? Kurtuluşum başkasının kurtuluşuna bağlı. Kurtuluşumun kendisine bağlı olduğu kişi başka olmaktan çıkıyor. Geçmiş günahlarımıza kefaret arıyoruz beraber. Sahici bir hayatın peşinden koşturma cesaretine eriyor ve çelişkilerimizi söküp atmaya azmediyoruz. Dünya ayaklarımızın altında. 
+&nbsp;&nbsp;&nbsp;&nbsp;Kimseyi kurtarmaya kimsenin gücünün yetmeyeceği gibi benim gücüm de yetmez. Yetmedi de. Başkasının kurtuluşundan bana ne? Kurtuluşum başkasının kurtuluşuna bağlı. Kurtuluşumun kendisine bağlı olduğu kişi başka olmaktan çıkıyor. Geçmiş günahlarımıza kefaret arıyoruz beraber. Sahici bir hayatın peşinden koşturma cesaretine eriyor ve çelişkilerimizi söküp atmaya azmediyoruz. Dünya ayaklarımızın altında.
 
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;"You and I are human beings, most people are snobs." veya "İnsanlar ölür, gerisi telef olur."
 
-&nbsp;&nbsp;&nbsp;&nbsp;Kierkegaard ve acı çekmek üzerine, Heidegger ve insan olmak üzerine, ölümün ağırlığı üzerine, sicim kuramı üzerine, stokastik SIR model üzerine, tatlı uyku ve zaman üzerine yazılmış bu kelimeler.. 
+&nbsp;&nbsp;&nbsp;&nbsp;Kierkegaard ve acı çekmek üzerine, Heidegger ve insan olmak üzerine, ölümün ağırlığı üzerine, sicim kuramı üzerine, stokastik SIR model üzerine, tatlı uyku ve zaman üzerine yazılmış bu kelimeler..
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: Kızlar ve Oğullar
 author: Berat Gönültaş
 type: w
-x: "300"
+x: 300
 image: kizlarveogullar.jpeg
 ---
 

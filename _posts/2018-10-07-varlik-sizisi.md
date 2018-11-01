@@ -3,7 +3,7 @@ layout: post
 title: Varlık Sızısı
 author: Hilâl Köroğlu
 type: w
-x: "200"
+x: 200
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Geçen gün yolda yürürken gördüğüm biri için “Bu adam yaşamak zorunda mı?!” diye sorarken buldum kendimi. Ama taş gibi balyoz gibi sertçe söyledim. Benim orada yürümem kadar haklı bir soruydu. Çok doğruydu. Çok haklıydım.
