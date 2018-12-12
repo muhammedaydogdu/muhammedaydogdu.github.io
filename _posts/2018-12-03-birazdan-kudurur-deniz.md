@@ -4,6 +4,7 @@ title: Birazdan Kudurur Deniz
 author: Berat Gönültaş
 type: w
 x: "200"
+image: birazdan.jpeg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;“Ahlâk hakikatinden korkmamalıyız; daha kuvvetle, bilim hakikatinden de çekinmemeliyiz. Bir kere o, ahlâkla savaş halinde olamaz. Ahlâk ile bilimden her birinin kendine mahsus alanı vardır, bunlar birbirine dokunur fakat içiçe nüfuz etmez. Biri hangi hedefi göz önünde bulundurmamız gerektiğini bize gösterir, öteki, hedef verilmişken, buna erişmek için lâzımgelen vasıtaları bildirir. Onlar karşılaşamadıklarına göre, hiçbir zaman birbirine aykırı düşmezler, ahlâkdışı bir bilim olamaz, nasıl ki bilimsel bir ahlâk da yoktur.” demiş Poincaré, “Bilimin Değeri” adlı kitabında. (Bilimin Değeri, Henri Poincaré, MEB Yayınları, Çeviren: Fethi Yücel, İstanbul, 1997) Ben bu kitabı ve “Bilim ve Hipotez”i lisedeyken okumuştum. Sanıyorum lise birinci sınıfta. Okulumuzun kütüphanesinde bulunuyordu bu kitaplar. Benim bunları okuduğum sıralarda abim ise Roger Penrose’un ünlü kitabını okuyordu. Çünkü hatırlıyorum, “Kralın Yeni Usu”nda benim okuduğum kitabın yazarının yani Poincaré’nin anıldığını söylemişti abim. O mühendis, bense fizikçiyim.
