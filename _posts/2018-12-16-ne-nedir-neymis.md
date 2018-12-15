@@ -8,8 +8,7 @@ image: ne_nedir_neymis.jpg
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; Merhaba İnsanlar..
-
-İnsanlar diyorum; çünkü aklı başında olan her varlık, muhatabımdır. Ve en temelde, söyleyeceklerim insanlıkla ilgili. Basit bir soru soracağım önce, nasıl insan olunur? Dilim döndüğünce anlatayım. İnsan olmak öncelikli olarak kulluğu esas alır. Şuur, sorumluluğu gerektirir. Sorumluluk bilinciyse insanın, insan olma yolunda elinde bulundurduğu belki en büyük kozdur. Fakat bu bilinci elde bulunduruyor olmak yeterli midir insan olunabilmesi için? Gelmez. Bunun için tamlamadaki "bilinç" kelimesinin hakkının da verilmesi gerekir. Peki bizler bu kelimenin hakkını ne kadar verebiliyoruz, veremiyorsak nasıl verebiliriz? Biraz da bu soruların yanıtlarını aramak gerek..
+&nbsp;&nbsp;&nbsp;&nbsp; İnsanlar diyorum; çünkü aklı başında olan her varlık, muhatabımdır. Ve en temelde, söyleyeceklerim insanlıkla ilgili. Basit bir soru soracağım önce, nasıl insan olunur? Dilim döndüğünce anlatayım. İnsan olmak öncelikli olarak kulluğu esas alır. Şuur, sorumluluğu gerektirir. Sorumluluk bilinciyse insanın, insan olma yolunda elinde bulundurduğu belki en büyük kozdur. Fakat bu bilinci elde bulunduruyor olmak yeterli midir insan olunabilmesi için? Gelmez. Bunun için tamlamadaki "bilinç" kelimesinin hakkının da verilmesi gerekir. Peki bizler bu kelimenin hakkını ne kadar verebiliyoruz, veremiyorsak nasıl verebiliriz? Biraz da bu soruların yanıtlarını aramak gerek..
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Başta insanlar dedik. Sonra da sorumluluktan bahsettik. Peki ya insani sorumluluk? Bu kavramları seküler bir düzlemde ele alma niyetindeyim. Ama buna ne derece muvaffak olurum, bilmiyorum. 
