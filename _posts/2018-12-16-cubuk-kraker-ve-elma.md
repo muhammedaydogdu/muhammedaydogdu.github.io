@@ -26,7 +26,7 @@ Elleri bundandır
 Hep leylak kokar  
 
 Ölümün sesini söküp atan  
-Gözlerinin ışıltısını anlatmak isterdim  
+Gözlerinin ışıltısını anlatmak isterdim yarin  
 
 İspanya sokakları  
 Gözler  
