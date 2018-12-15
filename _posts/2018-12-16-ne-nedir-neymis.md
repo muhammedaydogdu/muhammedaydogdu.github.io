@@ -5,11 +5,11 @@ author: Muhammed Aydoğdu
 type: w
 x: "200"
 image: ne_nedir_neymis.jpg
-published: no
 ---
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp; Merhaba İnsanlar..
 İnsanlar diyorum; çünkü aklı başında olan her varlık, muhatabımdır. Ve en temelde, söyleyeceklerim insanlıkla ilgili. Basit bir soru soracağım önce, nasıl insan olunur? Dilim döndüğünce anlatayım. İnsan olmak öncelikli olarak kulluğu esas alır. Şuur, sorumluluğu gerektirir. Sorumluluk bilinciyse insanın, insan olma yolunda elinde bulundurduğu belki en büyük kozdur. Fakat bu bilinci elde bulunduruyor olmak yeterli midir insan olunabilmesi için? Gelmez. Bunun için tamlamadaki "bilinç" kelimesinin hakkının da verilmesi gerekir. Peki bizler bu kelimenin hakkını ne kadar verebiliyoruz, veremiyorsak nasıl verebiliriz? Biraz da bu soruların yanıtlarını aramak gerek..
+
 
 &nbsp;&nbsp;&nbsp;&nbsp; Başta insanlar dedik. Sonra da sorumluluktan bahsettik. Peki ya insani sorumluluk? Bu kavramları seküler bir düzlemde ele alma niyetindeyim. Ama buna ne derece muvaffak olurum, bilmiyorum. 
 
@@ -29,4 +29,5 @@ published: no
 
 &nbsp;&nbsp;&nbsp;&nbsp; Değinilebilecek çok sebep var. Lakin benim son olarak bahsedeceğim ve belki de bu husustaki en önemli sorumsuzluğumuz, başkasını anlamaktan büsbütün yoksun olduğumuz gerçeği. Ve daha da mühim olanı bu yönde bir çabamızın olmayışı. Oysa karşımızdaki insanı anlamaya çalışsak, onun his dünyasına hitap edebilmenin farklı yollarını arasak, kendi içimizde ona has bir duygusal mantık geliştirsek aramızdaki sorunlar büyük ölçüde çözülecek ve dalgalanmaların sıklığı da bu şekilde kolaylıkla optimize edilebilecek belki. Eğer "tefani*" sırrına erebilirsek, bir başkasında hayat bulmak da bizler için imkan dairesine girecek. Başkasında bulduğumuz hayat, ancak böylelikle kendi hayatımız kadar önem arz edebilir bizim için. Başta bir soru sormuştuk, "nasıl insan olunur?" diye. İnsan, işte böyle 'insan' olur; kendi dünyasından sıyrılıp başkalarının dünyasında da fâni olarak, veyahut kendi hayat dairemize dahil etmekle onları.. Ama bizler, -her ne kadar insanlığın tanımını unutmuş da olsak- önemli 'insan'larız; yoğunuz, yorgunuz, meşgalelerimiz çok. Birbirimiz için ayıracak öyle pek vaktimiz yok. "Hayırlısı" diyerek yolumuza devam edişimiz de bundan; başkalarına aldırış etmeden, suhuletle.. En ufak bir motivasyon kaybına uğramadan hatta. Zirâ kendi yolumuz, kendi kazancımız; en değerlimiz. Tabii ki, başkalarının bizim için neleri feda ettiği umrumuzda olmayacak. İnsani sorumlulukların bizlere öğütlediği şeyler elbette önemsiz. Bir başkasının mevcut kaybı, bizim potansiyel kazancımızdan daha mühim değil ya!..
 
+<br/>
 &nbsp;&nbsp;&nbsp;&nbsp; *Birbirinde fâni olma
