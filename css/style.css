@@ -6,24 +6,25 @@
 body {
   font-family: "Libre Baskerville", "Times New Roman", serif;
   line-height: 1.5;
-  background: url("../images/nice_snow.png");
+  background: url("../images/
+    topography.png");
 }
 
 a {
-  color: rgba(128, 0, 128, .8);
+  color: ;
 }
 
 a:hover {
-  color: rgba(128, 0, 128, .8);
+  color: ;
 }
 
 a:focus {
-  color: rgba(128, 0, 128, .8);
+  color: ;
   text-decoration: none;
 }
 
 h2 {
-  color: rgba(128, 0, 128, .8);
+  color: ;
 }
 
 .container .navbar {
@@ -36,16 +37,16 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #800080;
+  color: #021884;
   font-size: 30px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #800080;
+  color: #021884;
 }
 
 .navbar .navbar-brand:focus {
-  color: #800080;
+  color: #021884;
 }
 
 .navbar .navbar-text {
