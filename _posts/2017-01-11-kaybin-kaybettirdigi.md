@@ -15,11 +15,11 @@ image: kaybin.jpeg
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aktüaliteye başkaldıran sanat, özgür olandır. Onun özgürlüğü, beklentisiz oluşundan kaynaklanır. Beklentisi olan sanat, sanat değil; kültürel bir üründür. Ürünler modalarını tamamladıkları anda pazardan çekilirler ve yerine yenisi üretilir. Sanatçı da artık, Pazar için kültürel ürün üreten işçiye dönüşür. Halbuki sanatçının bu gün ürettiği bir eserin muhatabı-alıcısı- bundan 500 yıl önce yaşamış olabileceği gibi; bundan 1000 yıl sonra yaşayacak da olabilir. Zira modası geçmeyen tek şey, insanın bizzat kendisidir. Sanatın yerelliği de zaman ve mekanın kesiştiği noktada değil; insanın kendisiyle kesiştiği, kendini aradığı andadır.
 
-“Çeşme var kurnası murdar  
- yazgım  
- kendi avucumda seyretmek kırgın aksimi”  
+ “Çeşme var kurnası murdar  
+  yazgım  
+  kendi avucumda seyretmek kırgın aksimi”  
  
- (İ.Özel)  
+  (İ.Özel)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Kırgın aksini avucunda izleyen… Neyi yitirdiğini bilmeyen, kurnası murdar ettiği çeşmeden su içmeyen… Yitirdiklerinin yerine, hakikat rolünü kusursuz olmayan, göz boyacı simülasyonlarını geçirmiş insan…
 
