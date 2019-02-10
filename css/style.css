@@ -31,13 +31,13 @@ h2 {
   font-family: "Khand", "Times New Roman", serif;
   padding: 15px 0 15px 0;
   box-shadow: 1px 1px 2px grey;
-  font-size: 16px;
+  font-size: 14px;
   border-radius: 8px;
 }
 
 .navbar .navbar-brand {
   color: #021884;
-  font-size: 28px;
+  font-size: 30px;
 }
 
 .navbar .navbar-brand:hover {
@@ -49,7 +49,7 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 14px;
+  font-size: 12px;
   margin-top: 21px;
   margin-bottom: 15px;
   font-family: "Quicksand", "Times New Roman", serif;
@@ -114,7 +114,7 @@ footer {
 
 nav li a.social {
   display: inline-block;
-  font-size: 18px;
+  font-size: 16px;
   padding: 0;
   margin-top: 15px;
   margin-left: 10px;
