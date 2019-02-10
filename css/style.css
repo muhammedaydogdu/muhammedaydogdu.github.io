@@ -28,10 +28,10 @@ h2 {
 
 .container .navbar {
   margin-top: 26px;
-  font-family: "Khand", "Times New Roman", serif;
+  font-family: "Poiret One", "Times New Roman", serif;
   padding: 15px 0 15px 0;
   box-shadow: 1px 1px 2px grey;
-  font-size: 14px;
+  font-size: 16px;
   border-radius: 8px;
 }
 
@@ -49,7 +49,7 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 21px;
   margin-bottom: 15px;
   font-family: "Quicksand", "Times New Roman", serif;
