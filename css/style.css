@@ -10,20 +10,20 @@ body {
 }
 
 a {
-  color: #581845;
+  color: #1F618D;
 }
 
 a:hover {
-  color: #581845;
+  color: #1F618D;
 }
 
 a:focus {
-  color: #581845;
+  color: #1F618D;
   text-decoration: none;
 }
 
 h2 {
-  color: #581845;
+  color: #1F618D;
 }
 
 .container .navbar {
@@ -36,16 +36,16 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #581845;
+  color: #1F618D;
   font-size: 28px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #581845;
+  color: #1F618D;
 }
 
 .navbar .navbar-brand:focus {
-  color: #581845;
+  color: #1F618D;
 }
 
 .navbar .navbar-text {
