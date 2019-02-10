@@ -6,25 +6,24 @@
 body {
   font-family: "Libre Baskerville", "Times New Roman", serif;
   line-height: 1.5;
-  background: url("../images/
-    topography.png");
+  background: url("../images/topography.png");
 }
 
 a {
-  color: ;
+  color: #021884;
 }
 
 a:hover {
-  color: ;
+  color: #021884;
 }
 
 a:focus {
-  color: ;
+  color: #021884;
   text-decoration: none;
 }
 
 h2 {
-  color: ;
+  color: #021884;
 }
 
 .container .navbar {
@@ -75,7 +74,7 @@ h2 {
 .container .jumbotron {
   background-color: #ffffff;
   box-shadow: 1px 1px 2px grey;
-  border-radius: 0;
+  border-radius: 10px;
 }
 
 .container .jumbotron p {
