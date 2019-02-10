@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Josefin Slab", "Times New Roman", serif;
+  font-family: "Quicksand", "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/stripes-light.png");
 }
@@ -28,7 +28,7 @@ h2 {
 
 .container .navbar {
   margin-top: 25px;
-  font-family: "Josefin Slab", "Times New Roman", serif;
+  font-family: "Quicksand", "Times New Roman", serif;
   padding: 15px 0 15px 0;
   box-shadow: 1px 1px 2px grey;
   font-size: 16px;
@@ -52,7 +52,7 @@ h2 {
   font-size: 14px;
   margin-top: 21px;
   margin-bottom: 15px;
-  font-family: "Josefin Slab", "Times New Roman", serif;
+  font-family: "Quicksand", "Times New Roman", serif;
 }
 
 .navbar .navbar-nav {
@@ -84,7 +84,7 @@ h2 {
 .data {
   color: #999;
   font-variant-caps: small-caps;
-  font-family: "Times New Roman", serif;
+  font-family: "Quicksand", "Times New Roman", serif;
   margin-bottom: 0;
 }
 
