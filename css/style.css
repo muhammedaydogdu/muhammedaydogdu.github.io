@@ -37,7 +37,7 @@ h2 {
 
 .navbar .navbar-brand {
   color: #021884;
-  font-size: 30px;
+  font-size: 28px;
 }
 
 .navbar .navbar-brand:hover {
@@ -49,7 +49,7 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 16px;
+  font-size: 14px;
   margin-top: 21px;
   margin-bottom: 15px;
   font-family: "Quicksand", "Times New Roman", serif;
