@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Lateef;
-  src: url('../fonts/LateefRegOT.ttf');
+  font-family: Husrev Hatti;
+  src: url('../fonts/HusrevHattiArapca.ttf');
 }
 
 body {
@@ -126,7 +126,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Katibeh', cursive;
+  font-family: Husrev Hatti;
 }
 
 .container .jumbotron .os-text p {
