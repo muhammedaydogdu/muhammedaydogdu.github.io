@@ -1,6 +1,9 @@
 @font-face {
   font-family: Husrev Hatti;
   src: url('../fonts/HusrevHattiArapca.ttf');
+  
+  font-family: Divani;
+  src: url('../fonts/UKIJDi.ttf');
 }
 
 body {
@@ -126,7 +129,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: Husrev Hatti;
+  font-family: Divani;
 }
 
 .container .jumbotron .os-text p {
