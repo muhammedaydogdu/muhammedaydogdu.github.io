@@ -5,8 +5,8 @@
   font-family: 'Divani';
   src: url('../fonts/UKIJDi.ttf');
   
-  font-family: 'Farsi Simple';
-  src: url('../fonts/Frsspout.ttf');
+  font-family: 'Riwaj';
+  src: url('../fonts/Riwaj.ttf');
 }
 
 body {
@@ -132,7 +132,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Farsi Simple';
+  font-family: 'Riwaj';
 }
 
 .container .jumbotron .os-text p {
