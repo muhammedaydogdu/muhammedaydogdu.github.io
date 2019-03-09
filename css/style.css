@@ -8,8 +8,8 @@
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
   
-  font-family: Tawfiq;
-  src: url('../fonts/Far_TawfigO.ttf');
+  font-family: K Farsi;
+  src: url('../fonts/KacstFarsi.ttf');
 }
 
 body {
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Tawfiq';
+  font-family: 'K Farsi';
 }
 
 .container .jumbotron .os-text p {
