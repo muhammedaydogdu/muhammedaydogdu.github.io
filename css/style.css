@@ -7,6 +7,9 @@
   
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
+  
+  font-family: Tahrir Old;
+  src: url('../fonts/mashitahriroldstyle.ttf');
 }
 
 body {
@@ -132,11 +135,11 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Husrev Hatti';
+  font-family: 'Tahrir Old';
 }
 
 .container .jumbotron .os-text p {
-  font-size: 36px;
+  font-size: 28px;
 }
 
 .container .jumbotron h2.os-text {
@@ -144,5 +147,5 @@ nav li a.social {
 }
 
 #os-baslik {
-  font-size: 52px;
+  font-size: 42px;
 }  
