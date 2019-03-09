@@ -8,8 +8,8 @@
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
   
-  font-family: Ketab;
-  src: url('../fonts/ketab.ttf');
+  font-family: Tawfiq;
+  src: url('../fonts/Far_TawfigO.ttf');
 }
 
 body {
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Ketab';
+  font-family: 'Tawfiq';
 }
 
 .container .jumbotron .os-text p {
