@@ -19,20 +19,20 @@ body {
 }
 
 a {
-  color: #c7bd7d;
+  color: #c9be5e;
 }
 
 a:hover {
-  color: #c7bd7d;
+  color: #c9be5e;
 }
 
 a:focus {
-  color: #c7bd7d;
+  color: #c9be5e;
   text-decoration: none;
 }
 
 h2 {
-  color: #c7bd7d;
+  color: #c9be5e;
 }
 
 .container .navbar {
@@ -45,17 +45,17 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #c7bd7d;
+  color: #c9be5e;
   margin-top: 2px;
   font-size: 29px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #c7bd7d;
+  color: #c9be5e;
 }
 
 .navbar .navbar-brand:focus {
-  color: #c7bd7d;
+  color: #c9be5e;
 }
 
 .navbar .navbar-text {
