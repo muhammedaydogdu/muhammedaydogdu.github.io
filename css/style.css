@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: 'Farsan', "Times New Roman", cursive;
+  font-family: 'Quicksand', "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/grey.png");
 }
@@ -93,7 +93,7 @@ h2 {
 
 .data {
   color: #999;
-  font-family: "Poiret One", "Times New Roman", serif;
+  font-family: "Farsan", "Times New Roman", cursive;
   margin-bottom: 0;
 }
 
