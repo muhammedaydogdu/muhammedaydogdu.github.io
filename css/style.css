@@ -19,20 +19,20 @@ body {
 }
 
 a {
-  color: #61004b;
+  color: #710041;
 }
 
 a:hover {
-  color: #61004b;
+  color: #710041;
 }
 
 a:focus {
-  color: #61004b;
+  color: #710041;
   text-decoration: none;
 }
 
 h2 {
-  color: #61004b;
+  color: #710041;
 }
 
 .container .navbar {
@@ -45,17 +45,17 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #61004b;
+  color: #710041;
   margin-top: 2px;
   font-size: 29px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #61004b;
+  color: #710041;
 }
 
 .navbar .navbar-brand:focus {
-  color: #61004b;
+  color: #710041;
 }
 
 .navbar .navbar-text {
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Lateef', cursive;
+  font-family: 'Aref Ruqaa', serif;
 }
 
 .container .jumbotron .os-text p {
