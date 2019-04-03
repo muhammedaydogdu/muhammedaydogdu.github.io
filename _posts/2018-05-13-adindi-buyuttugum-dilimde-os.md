@@ -1,6 +1,6 @@
 ---
 layout: os
-title:آدڭدی بویوتدیگم دیلمده
+title: آدڭدی بویوتدیگم دیلمده
 author: محمد آی طوغدی
 type: شعر
 link: /2018/05/13/adindi-buyuttugum-dilimde.html
