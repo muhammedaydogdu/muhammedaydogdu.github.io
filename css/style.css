@@ -2,8 +2,8 @@
   font-family: Husrev Hatti;
   src: url('../fonts/HusrevHattiArapca.ttf');
   
-  font-family: Divani;
-  src: url('../fonts/UKIJDi.ttf');
+  font-family: Lateef;
+  src: url('../fonts/LateefRegOT.ttf');
   
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Lateef', cursive;
+  font-family: 'Lateef';
 }
 
 .container .jumbotron .os-text p {
