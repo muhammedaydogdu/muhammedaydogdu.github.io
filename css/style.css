@@ -8,8 +8,8 @@
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
   
-  font-family: Layla Ruqaa;
-  src: url('../fonts/LaylaRuqaa.ttf');
+  font-family: Tawfig;
+  src: url('../fonts/Far_TawfigO.ttf');
 }
 
 body {
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: Layla Ruqaa;
+  font-family: Tawfig;
 }
 
 .container .jumbotron .os-text p {
