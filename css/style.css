@@ -8,8 +8,8 @@
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
   
-  font-family: K Farsi;
-  src: url('../fonts/KacstFarsi.ttf');
+  font-family: Layla Ruqaa;
+  src: url('../fonts/LaylaRuqaa.ttf');
 }
 
 body {
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Aref Ruqaa', serif;
+  font-family: Layla Ruqaa;
 }
 
 .container .jumbotron .os-text p {
