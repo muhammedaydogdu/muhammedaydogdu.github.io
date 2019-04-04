@@ -79,8 +79,8 @@ image: adindi-buyuttugum-dilimde.jpg
 
 <br/>
 ..دیلمده بویوتدیگم آدكدی، گیده مه دك 
+<br/>
+<br/>
 
-<br/>
-<br/>
 ،نیسان ٢٠١٨  
 اسكدار  
