@@ -82,6 +82,5 @@ image: adindi-buyuttugum-dilimde.jpg
 
 <br/>
 <br/>
-
 ،نیسان ٢٠١٨  
 اسكدار  
