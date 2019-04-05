@@ -4,6 +4,7 @@ author: Muhammed Aydoğdu
 title: Yazgıya Çizilen Çizgi
 x: 200
 layout: post
+image: yazgiya_cizilen-cizgi.jpg
 ---
 <br/>
 bilmiştim kaybedenin kim olacağını  
