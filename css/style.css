@@ -15,7 +15,7 @@
 body {
   font-family: 'Quicksand', "Times New Roman", serif;
   line-height: 1.5;
-  font-size: 16px;
+  font-size: 12px;
   background: url("../images/confectionary.png");
 }
 
@@ -95,7 +95,7 @@ h2 {
 .data {
   color: #999;
   font-family: "Poiret One", "Times New Roman", serif;
-  font-size: 16px;
+  font-size: 12px;
   margin-bottom: 0;
 }
 
