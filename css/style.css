@@ -8,8 +8,8 @@
   font-family: Riwaj;
   src: url('../fonts/Riwaj.ttf');
   
-  font-family: Tawfig;
-  src: url('../fonts/Far_TawfigO.ttf');
+  font-family: B Arabic;
+  src: url('../fonts/BArabics.ttf');
 }
 
 body {
@@ -135,7 +135,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Aref Ruqaa', serif;
+  font-family: 'B Arabic';
 }
 
 .container .jumbotron .os-text p {
