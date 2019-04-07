@@ -15,7 +15,6 @@
 body {
   font-family: 'Quicksand', "Times New Roman", serif;
   line-height: 1.5;
-  font-size: 12px;
   background: url("../images/confectionary.png");
 }
 
@@ -41,7 +40,6 @@ h2 {
   font-family: "Cardo", "Times New Roman", serif;
   padding: 15px 0 15px 0;
   box-shadow: 1px 1px 2px grey;
-  font-size: 16px;
   border-radius: 8px;
 }
 
@@ -89,7 +87,7 @@ h2 {
 }
 
 .container .jumbotron p {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .data {
