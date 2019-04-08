@@ -19,20 +19,20 @@ body {
 }
 
 a {
-  color: #E498B6;
+  color: #4E21A2;
 }
 
 a:hover {
-  color: #E498B6;
+  color: #4E21A2;
 }
 
 a:focus {
-  color: #E498B6;
+  color: #4E21A2;
   text-decoration: none;
 }
 
 h2 {
-  color: #E498B6;
+  color: #4E21A2;
 }
 
 .container .navbar {
@@ -44,17 +44,17 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #E498B6;
+  color: #4E21A2;
   margin-top: 2px;
   font-size: 29px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #E498B6;
+  color: #4E21A2;
 }
 
 .navbar .navbar-brand:focus {
-  color: #E498B6;
+  color: #4E21A2;
 }
 
 .navbar .navbar-text {
