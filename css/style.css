@@ -15,6 +15,8 @@
 body {
   font-family: 'Quicksand', "Times New Roman", serif;
   line-height: 1.5;
+  margin-top: 10px;
+  margin-bottom: 10px;
   background: url("../images/confectionary.png");
 }
 
