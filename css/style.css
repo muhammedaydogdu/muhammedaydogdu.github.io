@@ -32,7 +32,7 @@ a:focus {
 }
 
 h2 {
-  color: #490F8B;
+  color: #4E21A2;
 }
 
 .container .navbar {
@@ -44,7 +44,7 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #4E21A2;
+  color: #490F8B;
   margin-top: 2px;
   font-size: 29px;
 }
@@ -143,11 +143,11 @@ nav li a.social {
 }
 
 .container .jumbotron h2.os-text {
-  font-size: 40px;
+  font-size: 38px;
 }
 
 #os-baslik {
-  font-size: 36px;
+  font-size: 40px;
 }  
 
 #foot-os {
