@@ -15,8 +15,6 @@
 body {
   font-family: 'Quicksand', "Times New Roman", serif;
   line-height: 1.5;
-  margin-top: 5px;
-  margin-bottom: 5px;
   background: url("../images/confectionary.png");
 }
 
@@ -61,8 +59,8 @@ h2 {
 
 .navbar .navbar-text {
   font-size: 18px;
-  margin-top: 17px;
-  margin-bottom: 14px;
+  margin-top: 16px;
+  margin-bottom: 15px;
   font-family: "Dancing Script", "Times New Roman", serif;
 }
 
