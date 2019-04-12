@@ -36,9 +36,9 @@ h2 {
 }
 
 .container .navbar {
-  margin-top: 15px;
+  margin-top: 17px;
   font-family: "Cardo", "Times New Roman", serif;
-  padding: 12px 0 5px 0;
+  padding: 13px 0 2px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
 }
@@ -60,7 +60,7 @@ h2 {
 .navbar .navbar-text {
   font-size: 16px;
   margin-top: 19px;
-  margin-bottom: 19px;
+  margin-bottom: 15px;
   font-family: "Dancing Script", "Times New Roman", serif;
 }
 
