@@ -58,8 +58,8 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 16px;
-  margin-top: 19px;
+  font-size: 17px;
+  margin-top: 15px;
   margin-bottom: 15px;
   font-family: "Dancing Script", "Times New Roman", serif;
 }
@@ -126,7 +126,7 @@ nav li a.social {
   display: inline-block;
   font-size: 14px;
   padding: 0;
-  margin-top: 15px;
+  margin-top: 10px;
   margin-left: 10px;
 }
 
