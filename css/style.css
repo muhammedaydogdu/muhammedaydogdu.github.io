@@ -19,7 +19,7 @@ body {
 }
 
 a {
-  color: #490F8B;
+  color: #4E21A2;
 }
 
 a:hover {
@@ -36,11 +36,11 @@ h2 {
 }
 
 .container .navbar {
-  margin-top: 25px;
+  margin-top: 15px;
   font-family: "Cardo", "Times New Roman", serif;
-  padding: 15px 0 5px 0;
+  padding: 10px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 .navbar .navbar-brand {
