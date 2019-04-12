@@ -40,14 +40,14 @@ h2 {
 .container .navbar {
   margin-top: 20px;
   font-family: "Cardo", "Times New Roman", serif;
-  padding: 15px 0 15px 0;
+  padding: 15px 0 17px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
 }
 
 .navbar .navbar-brand {
   color: #4E21A2;
-  margin-top: 2px;
+  margin-top: 1px;
   font-size: 29px;
 }
 
@@ -61,8 +61,8 @@ h2 {
 
 .navbar .navbar-text {
   font-size: 18px;
-  margin-top: 18px;
-  margin-bottom: 15px;
+  margin-top: 17px;
+  margin-bottom: 14px;
   font-family: "Dancing Script", "Times New Roman", serif;
 }
 
@@ -126,9 +126,9 @@ footer {
 
 nav li a.social {
   display: inline-block;
-  font-size: 14px;
+  font-size: 15px;
   padding: 0;
-  margin-top: 15px;
+  margin-top: 14px;
   margin-left: 10px;
 }
 
