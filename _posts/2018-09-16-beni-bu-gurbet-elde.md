@@ -4,6 +4,7 @@ title: Beni Bu Gurbet Elde Böyle Sensiz Bırakma
 author: Muhammed Aydoğdu
 type: Şiir
 x: "150"
+image: beni-bu-gurbet-elde.jpg
 ---
 
 <br/>
