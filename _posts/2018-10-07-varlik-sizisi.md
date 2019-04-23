@@ -12,7 +12,7 @@ x: 200
 
 &nbsp;&nbsp;&nbsp;&nbsp;Filozofların bir şeye anlam yükleme çabalarını saygıyla karşılamakla yetinebilirim. Ne güzel bir işin ucundan tutmuşlar, dünyanın bir ucundan. Biri, atomla evrendeki hareketler arasındaki benzerliği hayretle dile getiriyordu. Ben de hayret etmiştim. Öyle ya... Tanrı için nasıl da denk getirmiş diye şaşılacak şeyler listesi hazırdı zihnimde. Ucu ucuna ekliyordum. Az önceki yaprak gibi, işe yaramaz adam gibi vs. Ama anlam arayışı tamlamasını kullanmasak artık? Çünkü hiçbir şeyi tamamlamıyor. Belki tamamlamamak için var.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sartre şey diyor: "Varoluşuyorum", o kadar. Bir anda uyanıp etrafında olan insanlara bakıyor ve "Hepsi varlığının farkında olmadan yaşıyor, hepsi fazlalık ancak onların dünyasında bu uyanıklığımla ben fazlalığım." demek istiyor.
+&nbsp;&nbsp;&nbsp;&nbsp;Sartre şey diyor: "Varoluşuyorum.", o kadar. Bir anda uyanıp etrafında olan insanlara bakıyor ve "Hepsi varlığının farkında olmadan yaşıyor, hepsi fazlalık ancak onların dünyasında bu uyanıklığımla ben fazlalığım." demek istiyor.
 
 &nbsp;&nbsp;&nbsp;&nbsp;"Varoluş nedensizdir. Nedensiz olduğu için güçsüzdür, güçsüz olduğundan kendi kendini sonlandıramaz, öldüremez, dışsal bir kuvvete ihtiyaç duyar."<sup>*</sup>
 
