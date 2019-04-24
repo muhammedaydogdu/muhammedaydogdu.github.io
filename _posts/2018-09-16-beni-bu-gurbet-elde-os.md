@@ -2,8 +2,7 @@
 layout: os
 author: محمد آی طوغدی
 type: شعر
-title: بنی بو غربت ایلده
-بویله سنسز بيراقما  
+title: بنی بو غربت ایلده بویله سنسز بيراقما  
 x: "180"
 link: /2018/09/16/beni-bu-gurbet-elde.html
 image: boyle-sensiz_birakma.jpg
