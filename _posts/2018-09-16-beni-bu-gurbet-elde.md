@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lt
 title: Beni Bu Gurbet Elde Böyle Sensiz Bırakma
 author: Muhammed Aydoğdu
 type: Şiir
