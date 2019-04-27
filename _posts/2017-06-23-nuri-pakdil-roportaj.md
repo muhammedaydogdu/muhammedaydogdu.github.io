@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Nuri Pakdil ile Röportaj
-author: "Soran: Berat Gönültaş"
 x: "200"
 image: nuripakdil.jpeg
 ---
@@ -10,8 +9,7 @@ image: nuripakdil.jpeg
 
 &nbsp;&nbsp;&nbsp;&nbsp;E-posta aracılığıyla yazılı olarak bundan yaklaşık bir buçuk sene önce gerçekleştirilmiş bu röportajı yayımlamak şu an nasip oldu. Üzerinde durulan belirli bir konu yok. Klasik sayılabilecek sorular da var, görece daha özel sorular da. Nihayetinde, önemli ve değerli bir röportaj olduğu kesin. Nuri Pakdil; kendisinden herkesin kendi nasibi miktarınca bir şeyler öğrenebileceği, günümüzün önemli şahsiyetlerinden biri.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Sözü çok uzatmak gibi bir niyetim yok. Nuri Pakdil’e bana zaman ayırıp sorularımı cevaplandırdığı için teşekkür ederim. Necip Evlice’ye de bu süreçteki yardımlarından dolayı teşekkürü bir borç bilirim.
-
+&nbsp;&nbsp;&nbsp;&nbsp;Nuri Pakdil’e zaman ayırıp sorularımızı cevaplandırdığı için, Necip Evlice’ye de bu süreçteki yardımlarından ötürü teşekkür ettikten sonra lafı daha fazla uzatmadan sizleri röportajla başbaşa bırakalım.
 
 <br/>
 
