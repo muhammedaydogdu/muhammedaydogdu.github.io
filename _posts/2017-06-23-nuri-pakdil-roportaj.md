@@ -9,7 +9,7 @@ image: nuripakdil.jpeg
 
 &nbsp;&nbsp;&nbsp;&nbsp;E-posta aracılığıyla yazılı olarak bundan yaklaşık bir buçuk sene önce gerçekleştirilmiş bu röportajı yayımlamak şu an nasip oldu. Üzerinde durulan belirli bir konu yok. Klasik sayılabilecek sorular da var, görece daha özel sorular da. Nihayetinde, önemli ve değerli bir röportaj olduğu kesin. Nuri Pakdil; kendisinden herkesin kendi nasibi miktarınca bir şeyler öğrenebileceği, günümüzün önemli şahsiyetlerinden biri.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Nuri Pakdil’e zaman ayırıp sorularımızı cevaplandırdığı için, Necip Evlice’ye de bu süreçteki yardımlarından ötürü teşekkür ettikten sonra lafı daha fazla uzatmadan sizleri röportajla başbaşa bırakalım.
+&nbsp;&nbsp;&nbsp;&nbsp;Nuri Pakdil’e zaman ayırıp sorularımızı cevaplandırdığı için, Necip Evlice’ye de bu sürece katkılarından ötürü teşekkür ettikten sonra lafı daha fazla uzatmadan sizleri röportajla başbaşa bırakalım.
 
 <br/>
 
