@@ -5,15 +5,15 @@
   font-family: Lateef;
   src: url('../fonts/LateefRegOT.ttf');
   
-  font-family: Riwaj;
-  src: url('../fonts/Riwaj.ttf');
+  font-family: Samsung One UI;
+  src: url('../fonts/SamsungOne-400.ttf');
   
   font-family: B Arabic;
   src: url('../fonts/BArabics.ttf');
 }
 
 body {
-  font-family: 'Quicksand', "Times New Roman", serif;
+  font-family: 'Samsung One UI', "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
