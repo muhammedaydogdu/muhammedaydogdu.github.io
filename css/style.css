@@ -5,7 +5,7 @@
   font-family: Lateef;
   src: url('../fonts/LateefRegOT.ttf');
   
-  font-family: Samsung One UI;
+  font-family: SamsungOneUI;
   src: url('../fonts/SamsungOne-400.ttf');
   
   font-family: B Arabic;
@@ -13,7 +13,7 @@
 }
 
 body {
-  font-family: 'Samsung One UI', "Times New Roman", serif;
+  font-family: 'SamsungOneUI', "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
