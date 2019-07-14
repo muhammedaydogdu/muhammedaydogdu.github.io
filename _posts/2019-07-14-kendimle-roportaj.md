@@ -3,6 +3,7 @@ layout: post
 title: Kendimle Röportaj
 author: Muhammed Aydoğdu
 x: "200"
+type: w
 image: kendimle-roportaj.jpg
 ---
 
