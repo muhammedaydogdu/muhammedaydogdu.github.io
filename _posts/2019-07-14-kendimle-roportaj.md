@@ -10,9 +10,9 @@ image: kendimle-roportaj.jpg
 
 &nbsp;&nbsp;&nbsp;&nbsp;Geçtiğimiz günlerde aklıma uçuk ve belki de -ismi lazım olmayan bir arkadaşın ifadesiyle- gereksiz bir fikir geldi: Kendimle röportaj yapmak. Kanımca bu işin beni pek fazla yoran bir tarafı olmayacaktı. Fakat gerçeği itiraf etmek gerekirse biraz yanılmışım. Fikir aşamasındayken bu işin tamamen benle ilgili olduğunu ve semeresinin de sadece benim çabama baktığını düşünmüştüm. Temel bir eksiklik olduğunun farkına ise, ancak işe girişmeye ciddi manada kanaat getirdiğim anda varabildim; bu fikri gerçekleştirebilmek için öncelikle şahsıma yöneltilmiş birkaç suale ihtiyacım olacaktı. Bir anlık da olsa ümitsizliğe kapıldım; ne yani, bu zoraki röportajın sorularını da mı ben hazırlayacaktım? Fazla gülünç olurdu bu. Neyse ki çok geçmeden daha güzel bir çözüm yolu buldum. Gerekli soruların temini için elbette ki ‘yakın çevrem’ olarak nitelendirdiğim insanlara başvuracaktım. Hepsinden birer soru rica ettim. Bu çabayı anlamsız bulanlar da oldu, olan biteni fazlaca sorgulamayıp kendisinden talep edilen bir adet suali çabucak gönderenler de. Yine de hepsine teşekkür etmek gerek, çekincesiz müracaat edilebilecek samimi birer merci olmalarına karşılık. Gelen soruların hepsi farklı dünyalardandı, genel metinde bir bütünsellik sağlanamadı belki ama, soruların bütünü de beni ayrı ayrı memnun etmeye yetti. Röportajda yanıtı kolay olan soruların yanı sıra cevaplandırırken beni zorlayan sorular da oldu. Her şeye rağmen güzel bir uğraştı, soruların tamamını keyifle yanıtladığımı söylemeliyim. Tabi umarım, sorularda nelerin kast edildiğini doğru anlamış, merak edilen hususlardaki soru işaretlerini de ortadan kaldırmayı başarmışımdır. Bir kez daha, bu iş için kapısını çaldıklarıma teşekkür ettikten sonra lafı daha fazla uzatmayıp soru-cevap kısmına geçiş yapıyorum.
 
----
-
 <br/>
+
+---
 
 __-Seni herhangi bir kitabı okumaya sevk eden ana unsur nedir?__
 
@@ -23,6 +23,8 @@ __-Seni herhangi bir kitabı okumaya sevk eden ana unsur nedir?__
 &nbsp;&nbsp;&nbsp;&nbsp;Aslında tüm bunlar benim okumak üzere alacağım bir kitabı seçerkenki kriterlerimdi. Soruda geçen ‘seni herhangi bir kitabı okumaya sevk eden’ ibaresine en uygun cevabın bu bağlamda olacağını düşündüm. Bunların dışında ekleyebileceğim birkaç şey daha var. Kitabın içeriğinde kendi yaşam hikâyeme dair bir şeyler görebilmem, bir başka söyleyişle kitabın belli kısımlarında kendimi bulabilmem veya kitabın benim his dünyama hitap ediyor olması gibi faktörler, özellikle okuma safhasında kitaba olan bağlılığımı artırıyor. Tabi bu durumları kitabı almadan evvel teşhis edebilmek güç, belki birçoğu için mümkün de değil. Bu sebeple bunu, beni herhangi bir kitabı okumaya sevk eden unsurlardan biri olarak değerlendirmedim. Fakat şunu da belirtmek gerek; insanın, bir kitabı zevkle okumasındaki, hatta o kitabı okuyup bitirdikten sonra bile belli zamanlarda kapağını tekrardan açmayı gereksinmesindeki en ehemmiyetli sebeplerden biridir bu.
 
 <br/>
+
+---
 
 __-Geçtiğimiz günlerde Türkiye'deki hatırı sayılır yazarlardan birisi bir televizyon programında şu ifadeleri kullanmıştı: “15 Temmuz’un dini, manevi yorumları falan yapıldı mı hiç? Tamamen seküler bir öykü olarak kaldı ve kalacak. Bunu yapacak bir tane adam yok ki. Şiirini bile yazamazlar. Akif Çanakkale’yi, İstiklâl şiirini yazdı. Şairin olacak ki siyasal olayların üzerinde konuşulmaya değer öyküler çıksın. Kudüs ile ilgili çıkıyor ama işte birkaç tane şiir.”__
 
@@ -42,6 +44,8 @@ __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, 
 
 <br/>
 
+---
+
 __-Kutularda seni bekleyen defter yaprakları sararmadan o sayfaları yaralayacak kadar yaşamadın mı hâlâ Muhammed Efendi?__
 
 __(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamaya başla. Ardından bir ton boş eski defter bıraktı, ne istifçi adammış demeyelim; valla ben derim. Dilime düşme.)_
@@ -56,6 +60,8 @@ __(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamay
 
 <br/>
 
+---
+
 __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 
 ---
@@ -68,6 +74,8 @@ __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 
 <br/>
 
+---
+
 __-Hayatın realitesi ve edebiyatın ütopyasını bir çizgi üzerinde birleştirebiliyor musun?__
 
 ---
@@ -78,6 +86,8 @@ __-Hayatın realitesi ve edebiyatın ütopyasını bir çizgi üzerinde birleşt
 
 <br/>
 
+---
+
 __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak yaşamak isterdin?__
 
 ---
@@ -87,6 +97,8 @@ __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak ya�
 &nbsp;&nbsp;&nbsp;&nbsp;Öncelikle şunu söylemeliyim ki, mümkün olsaydı bu hayali yolculukta, herkesçe tanındık, bilindik bir şahsın yerinde olmaktansa olan bitene gözlemci kalabileceğim sıradan bir insan olmayı yeğlerdim. Zaman ve mekân içinse elbette her Müslümanın aklına ilk olarak gelmesi icap eden yolculuk; Asr-ı Saadet’e, Ceziretü'l-Arab’a gitmek ve Peygamber Efendimizi vazife başında görüp ziyaret etmek yolculuğudur. Hürmeten ve yeni bir hayali seyahatin, bu mevzubahis yolculuğa alternatifmiş gibi görülmesi ihtimaline binaen, bu soruya burada ikinci bir yanıt vermeyeceğim. 
 
 <br/>
+
+---
 
 __-Kurtuluşunu nerde görüyorsun? Kur’an’da sana en fazla ümit aşılayan ayet hangisi?__
 
@@ -103,6 +115,8 @@ __-Kurtuluşunu nerde görüyorsun? Kur’an’da sana en fazla ümit aşılayan
 __فَاِنَّ مَعَ الْعُسْرِ يُسْرًا، اِنَّ مَعَ الْعُسْرِ يُسْرًا__
 
 <br/>
+
+---
 
 __-Bazılarının, kendi söylemlerine ve düşüncelerine baktığımızda yaşamaktan uzak, ona yabancı olduğunu görüyoruz ama aslında ben, onların kendi içlerinde bu uyumsuzluktan veya yabancılık gibi algıladıkları halden hoşnut olduklarını düşünüyorum. Sen ‘yaşamak’ı nasıl değerlendirir kendini onun neresine koyarsın?__
 
