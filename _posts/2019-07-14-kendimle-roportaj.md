@@ -50,13 +50,13 @@ __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, 
 
 ---
 
-<br/>
-
 __-Kutularda seni bekleyen defter yaprakları sararmadan o sayfaları yaralayacak kadar yaşamadın mı hâlâ Muhammed Efendi?__
 
 __(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamaya başla. Ardından bir ton boş eski defter bıraktı, ne istifçi adammış demeyelim; valla ben derim. Dilime düşme.)_
 
 ---
+
+<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Bilmeyenler için kısa bir önanlatı: Sualde sözü edilen şeyler, kullanmaya kıyamayıp sakladığım ajandalarım, defterlerim üzerinedir. Her defasında, ‘sayfalarına ilerde daha güzel şeyler yazabilmek’ gibi aşırı iyimser (!) ve bir o kadar da anlamsız bir tutum sergilememin neticesi olarak; ekseriyeti -belki de hepsi- fazla bekletilmişlik yaftası yemekten kurtulamadı.
 
