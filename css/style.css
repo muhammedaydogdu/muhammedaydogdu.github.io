@@ -88,9 +88,8 @@ h2 {
 
 .container .jumbotron p {
   font-size: 15px;
+  text-align: justify;
 }
-
-p { text-align: justify; }
 
 .data {
   color: #999;
