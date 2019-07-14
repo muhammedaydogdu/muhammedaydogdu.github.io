@@ -23,6 +23,10 @@ __-Seni herhangi bir kitabı okumaya sevk eden ana unsur nedir?__
 
 <br/>
 
+---
+
+<br/>
+
 __-Geçtiğimiz günlerde Türkiye'deki hatırı sayılır yazarlardan birisi bir televizyon programında şu ifadeleri kullanmıştı: “15 Temmuz’un dini, manevi yorumları falan yapıldı mı hiç? Tamamen seküler bir öykü olarak kaldı ve kalacak. Bunu yapacak bir tane adam yok ki. Şiirini bile yazamazlar. Akif Çanakkale’yi, İstiklâl şiirini yazdı. Şairin olacak ki siyasal olayların üzerinde konuşulmaya değer öyküler çıksın. Kudüs ile ilgili çıkıyor ama işte birkaç tane şiir.”__
 
 __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, onları "destanlaştırabilmek" veya topluma mâl edebilmek için üzerine şiir yazılması ve şairlerin bunun üzerine konuşması mı gereklidir?__
@@ -34,7 +38,11 @@ __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, 
 &nbsp;&nbsp;&nbsp;&nbsp;İçimizden topluma mâl olmuş bu olayları destanlaştıracak şairlerin ve uzun soluklu, konuşulmaya değer anlatıların çıkmayışını; bu manidar olayların da toplum tarafından konuşulmaya değer görülmeyeceği, bu doğrultuda kısa bir süre içerisinde unutulup gideceği gibi yanlış bir çıkarıma dayanak yapmak aklıselim bir yaklaşım olmayacaktır. Şiirler ve destanlar, zaferlerin hatırda kalıcılığını arttırıp gelecek nesiller için değerli birer belge olma görevini üstlense de; hatırlamak isteyenler, kendi tarihlerini bu kaynakların yokluğunda da unutmayacak ve dahi unutturmayacaklardır. Aslında burada cevaplanması gereken daha mühim bir soru var; günümüzdeki ruhu muhafaza edilememiş şu tarih bilinci, şu kuru hatırlayış bizi şimdiye değin bir yere vardırmış mıdır? Vardırdıysa da nereye vardırmıştır? Asıl buna kafa yorulmalı..
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;*İşin kendisini değil neticesini Allah’a havale etmek
+&nbsp;__*İşin kendisini değil neticesini Allah’a havale etmek__
+
+<br/>
+
+---
 
 <br/>
 
@@ -50,6 +58,10 @@ __(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamay
 
 <br/>
 
+---
+
+<br/>
+
 __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ağır felsefe içeren bu soruya, birtakım tecrübelerim doğrultusunda yanıt vereceğim. Yakın zaman önce hayatımın, insanoğlunun aciz bir mahlûk olduğu bilgisini hatrıma getirmediğim ya da tamamen hatrımdan çıkardığım evrelerinde, hiçbir işimin yolunda gitmediğini fark ettim. Sanıyorum ki hepimizin zaman zaman düştüğü bir varta bu, herhangi bir meşgaleye karşı, kendini eyleminde bir başına hissetmek. Öyle farz edip hareketini, bu minvalde şekillendirmek. İşte bu hal, yeri geliyor insanın en basit bir edimini bile yerine getirilmez kılıyor. Bu çaresizlik hissinin doğurduğu ağırlığı bizler, ruhumuzda hissediyoruz. Bana kalırsa bu bir ağırlıktan çok, hayatın bütünüyle insana yüklediği kaygı birikmişliğinin, yaşamak hissimizi manipüle etmesidir. Ve bu olayın bağıntılı olduğu, başkaca noktalar da var: Sabır ve tahammül.. 
@@ -57,6 +69,10 @@ __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 &nbsp;&nbsp;&nbsp;&nbsp;İnsanın sabır kuvveti sınırlıdır. Bu kuvveti biz, bilinçsizce tüketip yanlış yerlere sarf ettiğimizde en ufak şeye bile tahammül edemez hale geliyoruz. Gün içinde bizi sabır cihetinden sınayan olayların ardı ardına vuku bulması; bir yerde, genellikle de kendimizi en rahat hissettiğimiz ve bu yönüyle belki de en olmadık denebilecek bir yerde, ölçüsüz bir dışavurumun gerçekleşmesine yol açıyor; ve sırf bardağı taşıran son damla gibi keyfiyetçe küçük ama bizdeki etkisi büyük yükleri taşıyamadığımız için.. Taşıyabilmek, aciz bir varlık olduğumuzun bilincini her dem diri tutup sabır kuvvetimizi doğru yerlere sarf edebilmemizle mümkün. En azından ben, çözümü burada görüyorum. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;İnsanı manevi açıdan yoran bu ağırlığın, süreklilik kazandığı durumlar da yok değil. Toplumu oluşturan bir birey olarak ben, bu hususta toplumumuza karşı bir eleştiri -ya da özeleştiri, hangisi daha yerindeyse- yöneltmek istiyorum. Çoğu zaman yükte hafif ama pahada ağır bazı manevi değerleri her nedense üstümüzde taşımaktan imtina ediyoruz. Örneğin pek çok zaman, kendi derdimizden fırsat bulup bir başkasınınkine kafamızı çevirmemiz, hayatın bu çok kıvrımlı akışında olası bile olmuyor. Bazen de kendi hayatımıza dair küçücük detaylara odaklanıp başkalarının da içinde bulunduğu, hayatın bütünündeki ahengi bozmaktan, küçücük de olsa bir kaygı duymuyoruz. Arka planı bulanıklaştırıp ayrıntıda boğuluyoruz özet ifadeyle. Ve ne yazık ki, ruhumuzu bu bayağılık giysisinden soyundurup his dünyamızı, bizi bencilliğe ve böylece de yanlışlığa sürükleyen benlik duygumuzun boyunduruğundan kurtarmadan, bu ağırlığı da üzerimizden atacağa benzemiyoruz. Hoş; bizim, kurtuluşa yönelticiliğinden şüphe duymadığımız bir yolun çağrısına bile, her şeyden ve herkesten evvel kulak kesilme gibi bir özverimiz de yok ya, neyse.. 
+
+<br/>
+
+---
 
 <br/>
 
@@ -68,11 +84,19 @@ __-Hayatın realitesi ve edebiyatın ütopyasını bir çizgi üzerinde birleşt
 
 <br/>
 
+---
+
+<br/>
+
 __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak yaşamak isterdin?__
 
 &nbsp;&nbsp;&nbsp;&nbsp;Bu sorunun -her ne kadar birbirinden bağımsız olmasa da- iki boyutu var: Birisi tarih şeridinde herhangi bir aralığa yönelik, ötekisi ise olaylar zincirinde akıllarda yer etmiş muayyen bir şahsa. Mekân, zaten bu iki boyutun imtizacında kendiliğinden belirleneceği için seçimlik bir tarafı yok. Soruda da ayrıyeten belirtilmemiş zaten. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Öncelikle şunu söylemeliyim ki, mümkün olsaydı bu hayali yolculukta, herkesçe tanındık, bilindik bir şahsın yerinde olmaktansa olan bitene gözlemci kalabileceğim sıradan bir insan olmayı yeğlerdim. Zaman ve mekân içinse elbette her Müslümanın aklına ilk olarak gelmesi icap eden yolculuk; Asr-ı Saadet’e, Ceziretü'l-Arab’a gitmek ve Peygamber Efendimizi vazife başında görüp ziyaret etmek yolculuğudur. Hürmeten ve yeni bir hayali seyahatin, bu mevzubahis yolculuğa alternatifmiş gibi görülmesi ihtimaline binaen, bu soruya burada ikinci bir yanıt vermeyeceğim. 
+
+<br/>
+
+---
 
 <br/>
 
@@ -86,7 +110,11 @@ __-Kurtuluşunu nerde görüyorsun? Kur’an’da sana en fazla ümit aşılayan
 
 &nbsp;&nbsp;&nbsp;&nbsp;Son olarak biraz da sûrenin mealinden bahsedelim. Sûrenin başında Hz. Peygamber’e, “Senin göğsünü açmadık mı?” şeklinde hitap edilerek ardından kendisine sıkıntı veren, belini büken ağır yükün üzerinden kaldırıldığı bildiriliyor. Daha sonra şanının yüceltildiği vurgulanıp her güçlükle birlikte bir kolaylığın bulunduğu ‘iki defa’ zikrediliyor. Ennihayet Resûl-i Ekrem’e boş kaldığı zamanlarda çaba sarf etmesi ve Rabb’ine rağbet etmesi, yani O’na yönelmesi emrediliyor. Meal böyle. Yalnız burada dikkate şayan bir nokta var; her zorluğun, bir kolaylığı da beraberinde getirdiğini işaret eden ayet, iki defa tekrar edilerek bildiriliyor. Bu, bana kalırsa zorlukları göğüslemeye apaçık bir teşvik manası taşır. Hakkıyla muhatap olunduğunda ise bu ayetin, kulak verenini büsbütün ümide sevk edeceğini söylemek mümkün. Bu sebeple illa bir ayet söylemem gerekiyorsa, cevabım bu ayet olacaktır.  
 
-فَاِنَّ مَعَ الْعُسْرِ يُسْرًا، اِنَّ مَعَ الْعُسْرِ يُسْرًا""
+__فَاِنَّ مَعَ الْعُسْرِ يُسْرًا، اِنَّ مَعَ الْعُسْرِ يُسْرًا__
+
+<br/>
+
+---
 
 <br/>
 
@@ -104,5 +132,5 @@ __-Bazılarının, kendi söylemlerine ve düşüncelerine baktığımızda yaş
 
 &nbsp;&nbsp;&nbsp;&nbsp;-Ne diyordu divan şairimiz Baki, o meşhur dizesinde?
 
-&nbsp;&nbsp;&nbsp;&nbsp;“Bâkî kalan bu kubbede bir hoş sadâ imiş.”  
+&nbsp;&nbsp;&nbsp;&nbsp;__“Bâkî kalan bu kubbede bir hoş sadâ imiş.”__  
 
