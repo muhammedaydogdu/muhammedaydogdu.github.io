@@ -21,11 +21,7 @@ __-Seni herhangi bir kitabı okumaya sevk eden ana unsur nedir?__
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aslında tüm bunlar benim okumak üzere alacağım bir kitabı seçerkenki kriterlerimdi. Soruda geçen ‘seni herhangi bir kitabı okumaya sevk eden’ ibaresine en uygun cevabın bu bağlamda olacağını düşündüm. Bunların dışında ekleyebileceğim birkaç şey daha var. Kitabın içeriğinde kendi yaşam hikâyeme dair bir şeyler görebilmem, bir başka söyleyişle kitabın belli kısımlarında kendimi bulabilmem veya kitabın benim his dünyama hitap ediyor olması gibi faktörler, özellikle okuma safhasında kitaba olan bağlılığımı artırıyor. Tabi bu durumları kitabı almadan evvel teşhis edebilmek güç, belki birçoğu için mümkün de değil. Bu sebeple bunu, beni herhangi bir kitabı okumaya sevk eden unsurlardan biri olarak değerlendirmedim. Fakat şunu da belirtmek gerek; insanın, bir kitabı zevkle okumasındaki, hatta o kitabı okuyup bitirdikten sonra bile belli zamanlarda kapağını tekrardan açmayı gereksinmesindeki en ehemmiyetli sebeplerden biridir bu.
 
-<br/>
-
 ---
-
-<br/>
 
 __-Geçtiğimiz günlerde Türkiye'deki hatırı sayılır yazarlardan birisi bir televizyon programında şu ifadeleri kullanmıştı: “15 Temmuz’un dini, manevi yorumları falan yapıldı mı hiç? Tamamen seküler bir öykü olarak kaldı ve kalacak. Bunu yapacak bir tane adam yok ki. Şiirini bile yazamazlar. Akif Çanakkale’yi, İstiklâl şiirini yazdı. Şairin olacak ki siyasal olayların üzerinde konuşulmaya değer öyküler çıksın. Kudüs ile ilgili çıkıyor ama işte birkaç tane şiir.”__
 
@@ -40,11 +36,8 @@ __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, 
 
 &nbsp;__*İşin kendisini değil neticesini Allah’a havale etmek__
 
-<br/>
-
 ---
 
-<br/>
 
 __-Kutularda seni bekleyen defter yaprakları sararmadan o sayfaları yaralayacak kadar yaşamadın mı hâlâ Muhammed Efendi?__
 
@@ -56,11 +49,7 @@ __(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamay
    
 &nbsp;&nbsp;&nbsp;&nbsp;Modern dünya.. Suç biraz da kendimizi moderniteye çabucak teslim edişimizde. Teknoloji hayatımızda o kadar fazla yer etti ki, kalemi kâğıdı bıraktık elimizden. Defter yapraklarından bir damla mürekkebi esirger olduk. Bizler, sayfaları incitmek veya okşamak yerine klavyeleri hırpalıyoruz artık. En azından ben, o güruhtan olduğumu söyleyebilirim. Bu cümleleri bile şu an bilgisayarda tuşluyorum. Bu şüphesiz övünülecek bir hal değil. Kâğıdın kaleme, kaleminse bana olan küskünlüğü, sanıyorum ki hep bundan. Bir suçsa bu eğer, benden başka suçlusu yok bu işin. Kendimden ben sorumluyum. Nihayetinde kalemi tutmaya, sayfaları yaralamaya sevk olunmayan ellerim ve parmaklarım, benim iradem dahilinde. Yine de ümit kesmemek gerek. Hiç değilse bundan sonrası adına, bu işin duacısı olunabilir.
 
-<br/>
-
 ---
-
-<br/>
 
 __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 
@@ -70,11 +59,7 @@ __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 
 &nbsp;&nbsp;&nbsp;&nbsp;İnsanı manevi açıdan yoran bu ağırlığın, süreklilik kazandığı durumlar da yok değil. Toplumu oluşturan bir birey olarak ben, bu hususta toplumumuza karşı bir eleştiri -ya da özeleştiri, hangisi daha yerindeyse- yöneltmek istiyorum. Çoğu zaman yükte hafif ama pahada ağır bazı manevi değerleri her nedense üstümüzde taşımaktan imtina ediyoruz. Örneğin pek çok zaman, kendi derdimizden fırsat bulup bir başkasınınkine kafamızı çevirmemiz, hayatın bu çok kıvrımlı akışında olası bile olmuyor. Bazen de kendi hayatımıza dair küçücük detaylara odaklanıp başkalarının da içinde bulunduğu, hayatın bütünündeki ahengi bozmaktan, küçücük de olsa bir kaygı duymuyoruz. Arka planı bulanıklaştırıp ayrıntıda boğuluyoruz özet ifadeyle. Ve ne yazık ki, ruhumuzu bu bayağılık giysisinden soyundurup his dünyamızı, bizi bencilliğe ve böylece de yanlışlığa sürükleyen benlik duygumuzun boyunduruğundan kurtarmadan, bu ağırlığı da üzerimizden atacağa benzemiyoruz. Hoş; bizim, kurtuluşa yönelticiliğinden şüphe duymadığımız bir yolun çağrısına bile, her şeyden ve herkesten evvel kulak kesilme gibi bir özverimiz de yok ya, neyse.. 
 
-<br/>
-
 ---
-
-<br/>
 
 __-Hayatın realitesi ve edebiyatın ütopyasını bir çizgi üzerinde birleştirebiliyor musun?__
 	
@@ -82,11 +67,7 @@ __-Hayatın realitesi ve edebiyatın ütopyasını bir çizgi üzerinde birleşt
 
 &nbsp;&nbsp;&nbsp;&nbsp;Edebiyat, hayatın realitesinden bunalan insan için, gerçeklikten tasarı alemine açılan bir kapıdır. Okur, oranın hayal dünyasından ibaret olduğunun ayırdına varsa da bunun, edebiyatın bir gereği olduğunu bilir; zaten onun da burada bulunuş maksadı budur. Bana gelecek olursak, edebiyatın kurmaca bir dünyaya açılan kapısından geçtiğim anlarda çoğunlukla kendimi, gerçeklerimden kaçarken buluyorum. Fakat bu kaçışım, hiçbir zaman amacına ulaşamıyor. En sonunda vardığım nokta, yine kendi gerçekliğim oluyor. En başa, tekrar soruya dönelim; tüm bu kurmacalıklar içinde bana ayna tutan bir şeyciklere rastlayışım, edebiyatın ütopyasını hayatın realitesiyle bir çizgide birleştirebiliyor olduğuma işaret ediyorsa -ki bence etmiyor- bu soruya ‘evet’ yanıtını verebilirim. 
 
-<br/>
-
 ---
-
-<br/>
 
 __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak yaşamak isterdin?__
 
@@ -94,11 +75,7 @@ __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak ya�
 
 &nbsp;&nbsp;&nbsp;&nbsp;Öncelikle şunu söylemeliyim ki, mümkün olsaydı bu hayali yolculukta, herkesçe tanındık, bilindik bir şahsın yerinde olmaktansa olan bitene gözlemci kalabileceğim sıradan bir insan olmayı yeğlerdim. Zaman ve mekân içinse elbette her Müslümanın aklına ilk olarak gelmesi icap eden yolculuk; Asr-ı Saadet’e, Ceziretü'l-Arab’a gitmek ve Peygamber Efendimizi vazife başında görüp ziyaret etmek yolculuğudur. Hürmeten ve yeni bir hayali seyahatin, bu mevzubahis yolculuğa alternatifmiş gibi görülmesi ihtimaline binaen, bu soruya burada ikinci bir yanıt vermeyeceğim. 
 
-<br/>
-
 ---
-
-<br/>
 
 __-Kurtuluşunu nerde görüyorsun? Kur’an’da sana en fazla ümit aşılayan ayet hangisi?__
 
@@ -112,11 +89,7 @@ __-Kurtuluşunu nerde görüyorsun? Kur’an’da sana en fazla ümit aşılayan
 
 __فَاِنَّ مَعَ الْعُسْرِ يُسْرًا، اِنَّ مَعَ الْعُسْرِ يُسْرًا__
 
-<br/>
-
 ---
-
-<br/>
 
 __-Bazılarının, kendi söylemlerine ve düşüncelerine baktığımızda yaşamaktan uzak, ona yabancı olduğunu görüyoruz ama aslında ben, onların kendi içlerinde bu uyumsuzluktan veya yabancılık gibi algıladıkları halden hoşnut olduklarını düşünüyorum. Sen ‘yaşamak’ı nasıl değerlendirir kendini onun neresine koyarsın?__
 
