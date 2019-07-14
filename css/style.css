@@ -19,20 +19,20 @@ body {
 }
 
 a {
-  color: #226b80;
+  color: #B9770E;
 }
 
 a:hover {
-  color: #226b80;
+  color: #B9770E;
 }
 
 a:focus {
-  color: #226b80;
+  color: #B9770E;
   text-decoration: none;
 }
 
 h2 {
-  color: #226b80;
+  color: #B9770E;
 }
 
 .container .navbar {
@@ -44,17 +44,17 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #226b80;
+  color: #B9770E;
   margin-top: 2px;
   font-size: 29px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #226b80;
+  color: #B9770E;
 }
 
 .navbar .navbar-brand:focus {
-  color: #226b80;
+  color: #B9770E;
 }
 
 .navbar .navbar-text {
@@ -87,7 +87,7 @@ h2 {
 }
 
 .container .jumbotron p {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 .data {
