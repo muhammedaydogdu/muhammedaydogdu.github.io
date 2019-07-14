@@ -12,10 +12,9 @@ image: kendimle-roportaj.jpg
 
 <br/>
 
----
-
-
 __-Seni herhangi bir kitabı okumaya sevk eden ana unsur nedir?__
+
+---
 
 &nbsp;&nbsp;&nbsp;&nbsp;İçlerinden birini seçip ‘ana unsur’ ilan etmenin olanak dışı olduğu birçok unsur var. Örneğin ben, bir kitabı incelerken ilk olarak kitabın yazarına bakarım. Yazarını tanımadığım bir kitabı, -peşin hüküm vermek istemiyorum ama- okumak istemem. İkinci bir unsur ise düşüncelerini önemsediğim insanların o kitapla alakalı yorumlarıdır. Bu yorumlara, kitap üzerinde oluşan genel algıyı da dahil edebiliriz. Bahsettiğim genel algı, popülist kültürün tüketimdeki rağbet yönü değildir elbette ki. İşte, bir kitaba dair tüm bu intibalar, kitabı okuyup okumayacağımı belirlememde bana yardımcı oluyor. Bunların yanı sıra, eğer kitabın aslı yabancı bir dilde yazılmışsa o zaman kitabın çevirmeninin kim ve yayıncısının da hangi yayınevi olduğu, karar verme aşamasında büyük önem arz ediyor. Son olarak, herkesçe önemsenen bir şey olmamasına rağmen kitabın tasarımı ve baskı kalitesinin de benim için mühim bir yere sahip olduğunu söylemeliyim. Kitabın estetik bir duruşunun olması, kitabı benim gözümde, diğerlerinden bir adım öne taşıyacaktır.
 
