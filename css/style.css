@@ -90,6 +90,8 @@ h2 {
   font-size: 15px;
 }
 
+.metin {text-align:justify;}  /*İki Yana Yasla*/
+
 .data {
   color: #999;
   font-family: "Poiret One", "Times New Roman", serif;
