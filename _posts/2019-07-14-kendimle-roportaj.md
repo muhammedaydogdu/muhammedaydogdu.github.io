@@ -52,7 +52,7 @@ __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, 
 
 __-Kutularda seni bekleyen defter yaprakları sararmadan o sayfaları yaralayacak kadar yaşamadın mı hâlâ Muhammed Efendi?__
 
-__(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamaya başla. Ardından bir ton boş eski defter bıraktı, ne istifçi adammış demeyelim; valla ben derim. Dilime düşme.)_
+_(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamaya başla. Ardından bir ton boş eski defter bıraktı, ne istifçi adammış demeyelim; valla ben derim. Dilime düşme.)_
 
 ---
 
