@@ -19,8 +19,6 @@ __-Seni herhangi bir kitabı okumaya sevk eden ana unsur nedir?__
 
 ---
 
-<br/>
-
 &nbsp;&nbsp;&nbsp;&nbsp;İçlerinden birini seçip ‘ana unsur’ ilan etmenin olanak dışı olduğu birçok unsur var. Örneğin ben, bir kitabı incelerken ilk olarak kitabın yazarına bakarım. Yazarını tanımadığım bir kitabı, -peşin hüküm vermek istemiyorum ama- okumak istemem. İkinci bir unsur ise düşüncelerini önemsediğim insanların o kitapla alakalı yorumlarıdır. Bu yorumlara, kitap üzerinde oluşan genel algıyı da dahil edebiliriz. Bahsettiğim genel algı, popülist kültürün tüketimdeki rağbet yönü değildir elbette ki. İşte, bir kitaba dair tüm bu intibalar, kitabı okuyup okumayacağımı belirlememde bana yardımcı oluyor. Bunların yanı sıra, eğer kitabın aslı yabancı bir dilde yazılmışsa o zaman kitabın çevirmeninin kim ve yayıncısının da hangi yayınevi olduğu, karar verme aşamasında büyük önem arz ediyor. Son olarak, herkesçe önemsenen bir şey olmamasına rağmen kitabın tasarımı ve baskı kalitesinin de benim için mühim bir yere sahip olduğunu söylemeliyim. Kitabın estetik bir duruşunun olması, kitabı benim gözümde, diğerlerinden bir adım öne taşıyacaktır.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aslında tüm bunlar benim okumak üzere alacağım bir kitabı seçerkenki kriterlerimdi. Soruda geçen ‘seni herhangi bir kitabı okumaya sevk eden’ ibaresine en uygun cevabın bu bağlamda olacağını düşündüm. Bunların dışında ekleyebileceğim birkaç şey daha var. Kitabın içeriğinde kendi yaşam hikâyeme dair bir şeyler görebilmem, bir başka söyleyişle kitabın belli kısımlarında kendimi bulabilmem veya kitabın benim his dünyama hitap ediyor olması gibi faktörler, özellikle okuma safhasında kitaba olan bağlılığımı artırıyor. Tabi bu durumları kitabı almadan evvel teşhis edebilmek güç, belki birçoğu için mümkün de değil. Bu sebeple bunu, beni herhangi bir kitabı okumaya sevk eden unsurlardan biri olarak değerlendirmedim. Fakat şunu da belirtmek gerek; insanın, bir kitabı zevkle okumasındaki, hatta o kitabı okuyup bitirdikten sonra bile belli zamanlarda kapağını tekrardan açmayı gereksinmesindeki en ehemmiyetli sebeplerden biridir bu.
@@ -34,8 +32,6 @@ __-Geçtiğimiz günlerde Türkiye'deki hatırı sayılır yazarlardan birisi bi
 __Bu konuda sen ne düşünüyorsun; siyasal olayların üzerine konuşabilmek, onları "destanlaştırabilmek" veya topluma mâl edebilmek için üzerine şiir yazılması ve şairlerin bunun üzerine konuşması mı gereklidir?__
 
 ---
-
-<br/>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;İlk olarak şunları söyleyeyim, 15 Temmuz gecesi ile İstiklal Harbi’ni bir anlamda kıyas edip görece güncel sayılabilecek bu olayın ardından da adeta İstiklal Şiiri gibi bir şiirin yahut Çanakkale Destanı düzeyinde bir destanın kaleme alınmasını beklemek çok mantıklı bir beklenti değil. Tabi bu söylediklerimin yanlış anlaşılmasını istemem. Milletimizin; şahsi menfaatlerin her şeyden üstün tutulduğu şu çağda, askeri bir darbeye karşı, beklenmedik bir reaksiyon gösterip kendi varlığını hiçe sayarak bilcümle zorbalıkların karşısında yekvücut durması ve istikbâlinin tayin edicisine, dua ve tevekkül* sırrıyla teveccüh etmesi, azımsanacak bir olay değildir. Yüzlerce insanımızın şehit olduğu bu hadise, deyim yerindeyse ikinci bir istiklal mücadelesi olarak, ülke tarihimizdeki yerini aldı hiç kuşkusuz. 
@@ -57,8 +53,6 @@ _(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamaya
 
 ---
 
-<br/>
-
 &nbsp;&nbsp;&nbsp;&nbsp;Bilmeyenler için kısa bir önanlatı: Sualde sözü edilen şeyler, kullanmaya kıyamayıp sakladığım ajandalarım, defterlerim üzerinedir. Her defasında, ‘sayfalarına ilerde daha güzel şeyler yazabilmek’ gibi aşırı iyimser (!) ve bir o kadar da anlamsız bir tutum sergilememin neticesi olarak; ekseriyeti -belki de hepsi- fazla bekletilmişlik yaftası yemekten kurtulamadı.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Soruya gelirsek, tek kelimelik bir cevap vereyim önce: Yaşadım. Her ne kadar kullanmaya kıyamadığım o defterlerde kayıt altına tutulacak nispette güzel şeyler yaşadığımı hâlâ düşünmesem de o sayfaları yaralayabilecek kadar yaşadım elbet. Buna rağmen çoğunun paketini bile açma gereği duymadım, sağlıksız bir boyuta ulaşmış şu kıymet bilmekliğim yüzünden. Bu, benim kabahatim. 
@@ -72,8 +66,6 @@ _(Sana sorum bu olsun. Düşün güzelce, yaşamadıysan eğer lütfen yaşamaya
 __-Bazı hafifliklerin taşınması insana neden ağır gelir?__
 
 ---
-
-<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ağır felsefe içeren bu soruya, birtakım tecrübelerim doğrultusunda yanıt vereceğim. Yakın zaman önce hayatımın, insanoğlunun aciz bir mahlûk olduğu bilgisini hatrıma getirmediğim ya da tamamen hatrımdan çıkardığım evrelerinde, hiçbir işimin yolunda gitmediğini fark ettim. Sanıyorum ki hepimizin zaman zaman düştüğü bir varta bu, herhangi bir meşgaleye karşı, kendini eyleminde bir başına hissetmek. Öyle farz edip hareketini, bu minvalde şekillendirmek. İşte bu hal, yeri geliyor insanın en basit bir edimini bile yerine getirilmez kılıyor. Bu çaresizlik hissinin doğurduğu ağırlığı bizler, ruhumuzda hissediyoruz. Bana kalırsa bu bir ağırlıktan çok, hayatın bütünüyle insana yüklediği kaygı birikmişliğinin, yaşamak hissimizi manipüle etmesidir. Ve bu olayın bağıntılı olduğu, başkaca noktalar da var: Sabır ve tahammül.. 
 
@@ -89,8 +81,6 @@ __-Hayatın realitesi ve edebiyatın ütopyasını bir çizgi üzerinde birleşt
 
 ---
 	
-<br/>
-	
 &nbsp;&nbsp;&nbsp;&nbsp;Afili bir soru daha. Önce genel bir cevap vermek gerekirse hayatın gerçekliğiyle edebiyatın ütopyasını bir çizgi üzerinde birleştirebildiğimi söyleyemem. Her ne kadar edebiyatla iç içe olduğumu iddia etsem de, şimdiye dek yaşamda var olan realite ile edebiyatın gerçeküstülüğünü somut bir zemin üzerinde sentezleyebilmiş değilim. Bunun birçok sebebi var; aklıma ilk geleni, şimdiye değin yaşam tarzımın buna müsaade etmemiş olmasıdır, daha uygun bir ifadeyle edebiyatın ütopik kısmının hayatımda yer edecek zemini kendine bulamamış olması.. Ben de uygun bir zemin sağlama gayretini yeterince gösteremediğimden, edebiyatla reel hayatım arasında faal bir etkileşim sahası oluşmadı. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Edebiyat, hayatın realitesinden bunalan insan için, gerçeklikten tasarı alemine açılan bir kapıdır. Okur, oranın hayal dünyasından ibaret olduğunun ayırdına varsa da bunun, edebiyatın bir gereği olduğunu bilir; zaten onun da burada bulunuş maksadı budur. Bana gelecek olursak, edebiyatın kurmaca bir dünyaya açılan kapısından geçtiğim anlarda çoğunlukla kendimi, gerçeklerimden kaçarken buluyorum. Fakat bu kaçışım, hiçbir zaman amacına ulaşmaz. En sonunda vardığım nokta, yine kendi gerçekliğim olur. En başa, tekrar soruya dönelim; tüm bu kurmacalıklar içinde bana ayna tutan bir şeyciklere rastlayışım, edebiyatın ütopyasını, hayatın realitesiyle bir çizgide birleştirebiliyor olduğuma işaret etseydi -ki bence etmiyor- bu soruya ‘evet’ yanıtını verebilirdim. Fakat bu sefer de, “tasarı aleminde yaşadığımız bu deneyimi reel hayata taşımış sayılır mıyız?” sorusu, içinden çıkılmaz ayrı bir dilemmaya kapı aralardı.
@@ -103,8 +93,6 @@ __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak ya�
 
 ---
 
-<br/>
-
 &nbsp;&nbsp;&nbsp;&nbsp;Bu sorunun -her ne kadar birbirinden bağımsız olmasa da- iki boyutu var: Birisi tarih şeridinde herhangi bir aralığa yönelik, ötekisi ise olaylar zincirinde akıllarda yer etmiş muayyen bir şahsa. Mekân, zaten bu iki boyutun imtizacında kendiliğinden belirleneceği için seçimlik bir tarafı yok. Soruda da ayrıyeten belirtilmemiş zaten. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Öncelikle şunu söylemeliyim ki, mümkün olsaydı bu hayali yolculukta, herkesçe tanındık, bilindik bir şahsın yerinde olmaktansa olan bitene gözlemci kalabileceğim sıradan bir insan olmayı yeğlerdim. Zaman ve mekân içinse elbette her Müslümanın aklına ilk olarak gelmesi icap eden yolculuk; Asr-ı Saadet’e, Ceziretü'l-Arab’a gitmek ve Peygamber Efendimizi vazife başında görüp ziyaret etmek yolculuğudur. Hürmeten ve yeni bir hayali seyahatin, bu mevzubahis yolculuğa alternatifmiş gibi görülmesi ihtimaline binaen, bu soruya burada ikinci bir yanıt vermeyeceğim. 
@@ -116,8 +104,6 @@ __-Eğer imkân dahilinde olsaydı, tarihte hangi devirde hangi kişi olarak ya�
 __-Kurtuluşunu nerde görüyorsun? Kur’an’da sana en fazla ümit aşılayan ayet hangisi?__
 
 ---
-
-<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Kurtuluşumu Cenab-ı Hakk’a hakkıyla kul olabilmekte ve dolayısıyle de mağfiret dilemekte görüyorum. Sorunun ikinci kısmına gelirsek, Kur’an-ı Kerim’in tüm ayetlerini mana itibariyle ihata edebilmiş değilim. Bu yüzden soruya yüzeysel bir bakış açısıyla cevap vereceğimi belirtmek istiyorum. Bu soruyu başta “Kur’an-ı Kerim’de sana en çok ümit aşılayan ‘sûre’ hangisi?” şeklinde anladımsa da tekrar okuduğumda bu yanlışlığın ayırdına vardım. Yine de soruyu ilk anladığım şekliyle cevaplamanın daha doğru olacağını düşünüyorum; çünkü şu an bu soru için, tek ayete indirgenebilecek bir cevabım yok.
 
@@ -136,8 +122,6 @@ __فَاِنَّ مَعَ الْعُسْرِ يُسْرًا، اِنَّ مَع�
 __-Bazılarının, kendi söylemlerine ve düşüncelerine baktığımızda yaşamaktan uzak, ona yabancı olduğunu görüyoruz ama aslında ben, onların kendi içlerinde bu uyumsuzluktan veya yabancılık gibi algıladıkları halden hoşnut olduklarını düşünüyorum. Sen ‘yaşamak’ı nasıl değerlendirir kendini onun neresine koyarsın?__
 
 ---
-
-<br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Anlamlı ama anlaşılmaz bir yapıya sahip bu soru. İfade ettiği mananın bende karşılık bulduğu kadarıyla cevaplamaya çalışacağım. 
 
