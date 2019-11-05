@@ -10,10 +10,14 @@
   
   font-family: B Arabic;
   src: url('../fonts/BArabics.ttf');
+  
+  font-family: Google Sans;
+  src: url('../fonts/GoogleSans-Regular.ttf');
+  
 }
 
 body {
-  font-family: 'Quicksand', "Times New Roman", serif;
+  font-family: 'Google Sans', "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
@@ -37,7 +41,7 @@ h2 {
 
 .container .navbar {
   margin-top: 20px;
-  font-family: "Cardo", "Times New Roman", serif;
+  font-family: "Google Sans", "Times New Roman", serif;
   padding: 15px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
