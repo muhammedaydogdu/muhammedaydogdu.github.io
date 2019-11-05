@@ -1,6 +1,4 @@
 @font-face {
-  font-family: Husrev Hatti;
-  src: url('../fonts/HusrevHattiArapca.ttf');
   
   font-family: Lateef;
   src: url('../fonts/LateefRegOT.ttf');
@@ -17,7 +15,7 @@
 }
 
 body {
-  font-family: 'Product Sans', "Times New Roman", serif;
+  font-family: "Product Sans", "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
