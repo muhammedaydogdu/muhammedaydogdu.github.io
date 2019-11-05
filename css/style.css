@@ -10,16 +10,13 @@
   src: url('../fonts/BArabics.ttf');
   
   font-family: Product Sans;
-  src: url('../fonts/ProductSans-Light.ttf');
-  
-  font-family: Sharp Sans;
-  src: url('../fonts/samsungsharpsans.otf');
+  src: url('../fonts/ProductSans-Thin.ttf');
 
 }
 
 body {
   font-family: "Product Sans", "Times New Roman", serif;
-  line-height: 1.5;
+  line-height: 1.7;
   background: url("../images/confectionary.png");
 }
 
