@@ -11,13 +11,13 @@
   font-family: B Arabic;
   src: url('../fonts/BArabics.ttf');
   
-  font-family: Google Sans;
+  font-family: Product Sans;
   src: url('../fonts/ProductSansRegular.ttf';
   
 }
 
 body {
-  font-family: 'Google Sans', "Times New Roman", serif;
+  font-family: 'Product Sans', "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
