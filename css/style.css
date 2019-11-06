@@ -45,7 +45,7 @@ h2 {
 
 .container .navbar {
   margin-top: 20px;
-  font-family: "Alleha", "Times New Roman", serif;
+  font-family: "Golden", "Times New Roman", serif;
   padding: 15px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
@@ -54,7 +54,7 @@ h2 {
 .navbar .navbar-brand {
   color: #990066;
   margin-top: 2px;
-  font-size: 29px;
+  font-size: 36px;
 }
 
 .navbar .navbar-brand:hover {
@@ -95,7 +95,7 @@ h2 {
 }
 
 .container .jumbotron p {
-  font-size: 17px;
+  font-size: 20px;
 }
 
 .data {
