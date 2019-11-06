@@ -15,10 +15,13 @@
   font-family: Golden;
   src: url('../fonts/Golden Dream.ttf');
 
+  font-family: Kappa;
+  src: url('../fonts/KappaDisplayBook.otf');
+
 }
 
 body {
-  font-family: "Golden", "Times New Roman", serif;
+  font-family: "Kappa", "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
