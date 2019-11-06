@@ -3,8 +3,8 @@
   font-family: Lateef;
   src: url('../fonts/LateefRegOT.ttf');
   
-  font-family: Hilton;
-  src: url('../fonts/SaintHilton.otf');
+  font-family: Alleha;
+  src: url('../fonts/alleha .ttf');
   
   font-family: B Arabic;
   src: url('../fonts/BArabics.ttf');
@@ -45,7 +45,7 @@ h2 {
 
 .container .navbar {
   margin-top: 20px;
-  font-family: "Golden", "Times New Roman", serif;
+  font-family: "Alleha", "Times New Roman", serif;
   padding: 15px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
@@ -144,7 +144,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'B Arabic';
+  font-family: "B Arabic";
 }
 
 .container .jumbotron .os-text p {
