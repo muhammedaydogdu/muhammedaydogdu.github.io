@@ -12,12 +12,12 @@
   font-family: Product Sans;
   src: url('../fonts/ProductSans-Medium.ttf');
 
-  font-family: Golden;
-  src: url('../fonts/Golden Dream.ttf');
-
   font-family: Kappa;
   src: url('../fonts/KappaDisplayBook.otf');
-
+  
+  font-family: Golden;
+  src: url('../fonts/Golden Dream.ttf');
+  
   font-family: Nizar;
   src: url('../fonts/NizarRuqaaRegular.ttf');
   
