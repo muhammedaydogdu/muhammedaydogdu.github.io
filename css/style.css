@@ -18,6 +18,9 @@
   font-family: Kappa;
   src: url('../fonts/KappaDisplayBook.otf');
 
+  font-family: Nizar;
+  src: url('../fonts/NizarRuqaaRegular.ttf');
+  
 }
 
 body {
@@ -144,7 +147,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'B Arabic';
+  font-family: "Nizar";
 }
 
 .container .jumbotron .os-text p {
