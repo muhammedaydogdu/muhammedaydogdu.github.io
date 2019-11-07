@@ -41,8 +41,8 @@ h2 {
 
 .navbar .navbar-brand {
   color: #1B4F72;
-  margin-top: 1px;
-  font-size: 30px;
+  margin-top: 0px;
+  font-size: 32px;
 }
 
 .navbar .navbar-brand:hover {
