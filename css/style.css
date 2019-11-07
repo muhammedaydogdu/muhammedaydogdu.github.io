@@ -10,7 +10,7 @@
   src: url('../fonts/BArabics.ttf');
   
   font-family: Product Sans;
-  src: url('../fonts/ProductSans-Regular.ttf');
+  src: url('../fonts/ProductSans-Medium.ttf');
 
   font-family: Golden;
   src: url('../fonts/Golden Dream.ttf');
@@ -45,7 +45,7 @@ h2 {
 
 .container .navbar {
   margin-top: 20px;
-  font-family: "Golden", "Times New Roman", serif;
+  font-family: "Product Sans", "Times New Roman", serif;
   padding: 15px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
