@@ -6,7 +6,7 @@
   font-family: Kappa Reg;
   src: url('../fonts/KappaDisplayRegular.otf');
   
-  font-family: Arabic;
+  font-family: B Arabic;
   src: url('../fonts/BArabics.ttf');
   
   font-family: Product Sans;
@@ -144,7 +144,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: "Arabic";
+  font-family: 'B Arabic';
 }
 
 .container .jumbotron .os-text p {
