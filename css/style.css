@@ -1,7 +1,7 @@
 @font-face {
   
   font-family: Kappa;
-  src: url('../fonts/KappaDisplayBook.otf');
+  src: url('../fonts/KappaBook.otf');
   
   font-family: Kappa Reg;
   src: url('../fonts/KappaDisplayRegular.otf');
@@ -156,7 +156,7 @@ nav li a.social {
 }
 
 #os-baslik {
-  font-size: 46px;
+  font-size: 44px;
 }  
 
 #foot-os {
