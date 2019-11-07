@@ -1,7 +1,7 @@
 @font-face {
   
-  font-family: Lateef;
-  src: url('../fonts/LateefRegOT.ttf');
+  font-family: Kappa;
+  src: url('../fonts/KappaDisplayBook.otf');
   
   font-family: Kappa Reg;
   src: url('../fonts/KappaDisplayRegular.otf');
@@ -11,9 +11,6 @@
   
   font-family: Product Sans;
   src: url('../fonts/ProductSans-Medium.ttf');
-
-  font-family: Kappa;
-  src: url('../fonts/KappaDisplayBook.otf');
   
   font-family: Golden;
   src: url('../fonts/Golden Dream.ttf');
