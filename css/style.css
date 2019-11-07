@@ -18,7 +18,7 @@
 }
 
 body {
-  font-family: "Product Sans", "Times New Roman", serif;
+  font-family:" Kappa", "Times New Roman", serif;
   line-height: 1.5;
   background: url("../images/confectionary.png");
 }
@@ -141,7 +141,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: "Nizar";
+  font-family: 'Nizar';
 }
 
 .container .jumbotron .os-text p {
