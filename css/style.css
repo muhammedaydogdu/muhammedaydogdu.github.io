@@ -6,7 +6,7 @@
   font-family: Alleha;
   src: url('../fonts/alleha .ttf');
   
-  font-family: B Arabic;
+  font-family: Arabic;
   src: url('../fonts/BArabics.ttf');
   
   font-family: Product Sans;
@@ -27,20 +27,20 @@ body {
 }
 
 a {
-  color: #27AE60;
+  color: #1ABC9C;
 }
 
 a:hover {
-  color: #27AE60;
+  color: #1ABC9C;
 }
 
 a:focus {
-  color: #27AE60;
+  color: #1ABC9C;
   text-decoration: none;
 }
 
 h2 {
-  color: #27AE60;
+  color: #1ABC9C;
 }
 
 .container .navbar {
@@ -52,17 +52,17 @@ h2 {
 }
 
 .navbar .navbar-brand {
-  color: #27AE60;
+  color: #1ABC9C;
   margin-top: 2px;
   font-size: 32px;
 }
 
 .navbar .navbar-brand:hover {
-  color: #27AE60;
+  color: #1ABC9C;
 }
 
 .navbar .navbar-brand:focus {
-  color: #27AE60;
+  color: #1ABC9C;
 }
 
 .navbar .navbar-text {
@@ -95,7 +95,7 @@ h2 {
 }
 
 .container .jumbotron p {
-  font-size: 18px;
+  font-size: 17.5px;
 }
 
 .data {
@@ -144,7 +144,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: "Lateef";
+  font-family: "Arabic";
 }
 
 .container .jumbotron .os-text p {
@@ -165,7 +165,7 @@ nav li a.social {
 
 #lang-os {
   font-size: 16px;
-  font-family: "Poiret One", "Times New Roman", serif;
+  font-family: "Kappa", "Times New Roman", serif;
 }
 
 #os-bilgi {
