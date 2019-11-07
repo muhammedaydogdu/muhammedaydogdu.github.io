@@ -3,7 +3,7 @@
   font-family: Lateef;
   src: url('../fonts/LateefRegOT.ttf');
   
-  font-family: KappaReg;
+  font-family: Kappa Reg;
   src: url('../fonts/KappaDisplayRegular.otf');
   
   font-family: Arabic;
@@ -45,7 +45,7 @@ h2 {
 
 .container .navbar {
   margin-top: 20px;
-  font-family: "KappaReg", "Times New Roman", serif;
+  font-family: "Kappa Reg", "Times New Roman", serif;
   padding: 15px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
