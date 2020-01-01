@@ -11,12 +11,12 @@ published: no
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
-_durma devam et arkamdan_ diyen  
+'durma devam et arkamdan' diyen  
 bir elebaşıydım işte suçluydum  
 zaman da bükülürdü hayatımdan geçince  
-aklım vardı ki içinde  
+aklım vardı -ki içinde  
 bazısı bir buzul çağına açılan  
-ince uzun geçitler saklıydı   
+uzun ince geçitler saklıydı   
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
@@ -40,17 +40,17 @@ bir menfez bulup sızacaktım sözde karanlığa
 tutup kökünden koparacaktım  
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
-erişmedim umduğuma  
+erişemedim umduğuma  
 zulmetli bir sabahtı  
-uyandım  
+uyandığımda  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
 bir garip heyelan mı beyaz  
 yaklaşan üstümüze  
 yoksa bir kez mi daha  
-sorgulamaya vakit yokmuş  
-uzaklaşmalıymışız  
+_sorgulamaya vakit yok_  
+_uzaklaşmalıyız_  
 kaçmayı istemedim  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
@@ -93,7 +93,7 @@ zaman: aylardan haziran
 insanlar felaha çağrılıyor  
 olay: aymazlığım  
 kural tanımaksızlığım  
-yine buldu burada da beni  
-_-sabır_  
-ve sonsöz: söylesene toprak  
+'yine buldu burada da beni'  
+ve sabır  
+sonsöz: toprak  
 insana bir düşman mıdır?  
