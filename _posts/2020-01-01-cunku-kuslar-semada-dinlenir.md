@@ -16,23 +16,25 @@ bir elebaşıydım işte suçluydum
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
 bazısı bir buzul çağına açılan  
-uzun ince geçitler saklıydı   
+uzun ince geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
-bir çocuk lisanıyla uydurma cümleleri  
+bir çocuk lisanıyla farazi cümleleri  
 sözü müsvedde  
 kendi başmüsevvit  
-ve bir kalbim vardı açılmayı bekleyen    
+ve bir kalbim vardı açılmayı bekleyen   
 her kapıya kilit  
 
-vay benim içten yanmalı, kanadı kırık kalbim  
+vay benim içten yanmalı  
+kanadı kırık kalbim  
 semada dinlenen  
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
-beri dur bu yorgunluktan  
-her neyse yere kapaklandıran seni  
-kopar kökünden bulunca onu   
+yoruldun  
+kurtar kendini  
+her ne ise seni yere kapaklandıran  
+savaş ruhunla onu bulunca    
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -41,8 +43,8 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişemedim umduğuma  
-zulmetli bir sabahtı  
-uyandığımda  
+zulmetli bir sabahtı ki ben  
+uyandım  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
@@ -51,7 +53,7 @@ yaklaşan üstümüze
 yoksa bir kez mi daha  
 _sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
-kaçmayı istemedim  
+kaçmadım 
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
@@ -63,7 +65,7 @@ benim yüreğim
 şimdi bildim  
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
-ve okudum aynalarda  
+ve okudum aynalarca  
 hiç bitmeyecek bir gerçeği yıllar boyu  
 gözlerimde biriken yalanı tırmıkladım  
 sonra göğü boyadım kendimce kırmızıya  
@@ -82,7 +84,7 @@ bir bela okuyla göğsüme
 gördün eridiğimi diğer yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
-_-keskin buzdan bile_  
+_-keskindi buzdan bile_  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
@@ -90,7 +92,7 @@ olay mahalli: gecenin çökmekte olduğu
 prefabrik bir pazar yeri  
 terk edilmiş  
 zaman: aylardan haziran  
-insanlar felaha çağrılıyor  
+insanlar felâha çağrılıyor  
 olay: aymazlığım  
 kural tanımaksızlığım  
 'yine buldu burada da beni'  
