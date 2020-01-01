@@ -4,6 +4,7 @@ title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
+published: no
 ---
 
 <br/>
