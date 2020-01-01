@@ -4,14 +4,13 @@ title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
-published: no
 ---
 
 <br/>
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
-durma devam et arkamdan diyen  
+_durma devam et arkamdan_ diyen  
 bir elebaşıydım işte suçluydum  
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı ki içinde  
@@ -32,7 +31,7 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 beri dur bu yorgunluktan  
 her neyse yere kapaklandıran seni  
-bul onu, kopar kökünden  
+kopar kökünden bulunca onu   
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -41,7 +40,8 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-zulmetli bir sabaha uyandım  
+zulmetli bir sabahtı  
+uyandım  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
@@ -67,7 +67,7 @@ hiç bitmeyecek bir gerçeği yıllar boyu
 gözlerimde biriken yalanı tırmıkladım  
 sonra göğü boyadım kendimce kırmızıya  
 rengi koyu ve hatta bordoya yakın  
-anlamlar çıkardım yerli yabancı  
+anlamlar çıkardım yerli ve yabancı  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
@@ -81,18 +81,18 @@ bir bela okuyla göğsüme
 gördün eridiğimi diğer yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
--keskin buzdan bile  
+_-keskin buzdan bile_  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
 olay mahalli: gecenin çökmekte olduğu  
-terk edilmiş bir pazar yeri  
-prefabrik  
+prefabrik bir pazar yeri  
+terk edilmiş  
 zaman: aylardan haziran  
 insanlar felaha çağrılıyor  
 olay: aymazlığım  
 kural tanımaksızlığım  
 yine buldu burada da beni  
--sabır  
-sonsöz: söylesene toprak  
+_-sabır_  
+ve sonsöz: söylesene toprak  
 insana bir düşman mıdır?  
