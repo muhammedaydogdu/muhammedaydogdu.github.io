@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: post
 title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
