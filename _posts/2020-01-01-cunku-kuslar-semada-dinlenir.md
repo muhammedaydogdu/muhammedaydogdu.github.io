@@ -16,12 +16,13 @@ bir elebaşıydım işte suçluydum
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
 bazısı bir buzul çağına açılan  
-uzun ince geçitler saklıydı  
+geçitler saklıydı uzun ince 
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
-bir çocuk lisanıyla farazi cümleleri  
-sözü müsvedde  
+bir çocuk lisanıyla alıngan cümleleri  
+kendiyle bile geçimsiz olan
+sözü müsvedde 
 kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
 her kapıya kilit  
@@ -31,10 +32,8 @@ kanadı kırık kalbim
 semada dinlenen  
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
-yoruldun  
-kurtar kendini  
-her ne ise seni yere kapaklandıran  
-savaş ruhunla onu bulunca    
+yoruldun 
+sanmam ya bir gün uslanır mısın
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -69,7 +68,7 @@ ve okudum aynalarca
 hiç bitmeyecek bir gerçeği yıllar boyu  
 gözlerimde biriken yalanı tırmıkladım  
 sonra göğü boyadım kendimce kırmızıya  
-rengi koyu ve hatta bordoya yakın  
+rengi koyu ve hatta kızıla yakın  
 anlamlar çıkardım yerli ve yabancı  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
