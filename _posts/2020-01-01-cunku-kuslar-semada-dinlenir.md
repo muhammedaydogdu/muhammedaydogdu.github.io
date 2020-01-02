@@ -36,9 +36,9 @@ bazısı yakardı içi ateşler dehlizi
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
 bir çocuk lisânıyla devşirme cümleleri  
-geçimsiz kendiyle bile -alıngan  
-sözü müsvedde  
-kendi başmüsevvit  
+geçimsiz kendiyle bile  
+_-küskün, alıngan_    
+sözü müsvedde kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
 her kapıya kilit  
 
@@ -65,15 +65,15 @@ uyandım
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
-bir garip heyelan mı beyaz  
+garip bir heyelan mı beyaz  
 yaklaşan üstümüze  
 yoksa bir kez mi daha  
 _-sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
-kaçamadım  
+kaçamaz değildim kaçmadım  
 oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
-bu benim mi yüreğimdi hoyrat  
+bu benim mi yüreğim hoyrat  
 durmaksızın yol alan içimde  
 adımları arası gittikçe ırayan  
 ve nihayet zamanın ufkunda kaybolan  
@@ -84,17 +84,18 @@ bildiğini bilmeyenin
 gözlerinden okunurmuş yalnızlığı  
 okudum aynalarca  
 hiç bitmeyecek bir gerçeği yıllar boyu  
-devran döndü de kendime aydım  
+devran döndü de aydım kendime   
 hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım  
-sonra boyadım göğü keyfimce kırmızıya  
+sonra boyadım göğü kendimce kırmızıya  
 rengi koyu ve hatta kızıla yakın  
 anlamlar çıkardım yerli ve yabancı  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
 ıslandı değdiği her yer   
-bitti yağmur  
+ıslattı değdiği her yeri  
+azaldı ve bitti yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
