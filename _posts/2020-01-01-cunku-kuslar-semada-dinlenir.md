@@ -102,8 +102,4 @@ insana bir düşman mıdır?
 
 <br/>
 
----
-
-<br/>
-
-*Bu kelime, Elâzığ yerel lisânında 'kasıtlı olarak, kasten' anlamlarıyla mütekâbildir.
+-*- Bu kelime, Elâzığ yerel lisânında -kasıtlı olarak, kasten'- manalarıyla mütekâbildir.
