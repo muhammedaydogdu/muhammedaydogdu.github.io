@@ -93,7 +93,7 @@ sen sustun ben söyledim
 susmayı dilerdim  
 
 olay mahalli: gecenin çökmekte olduğu  
-prefabrik bir pazar yeri  
+düzmece bir pazar yeri  
 terk edilmiş  
 zaman: aylardan haziran  
 insanlar felâha çağrılıyor  
