@@ -81,7 +81,7 @@ bulutlar ardını kurutup gitti
 sen de gördün  
 sınandığımı saplanan  
 bir bela okuyla göğsüme  
-gördün eridiğimi diğer yandan titrerken  
+gördün eridiğimi diğer bir yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
 _-keskindi buzdan bile_  
