@@ -11,7 +11,7 @@ x: "180"
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
-'durma devam et arkamdan' diyen  
+durma devam et peşimden diyen  
 bir elebaşıydım işte suçluydum  
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
@@ -32,7 +32,7 @@ kanadı kırık kalbim
 semada dinlenen  
 durulan uçtukça  
 daha çok ölümcül yaraları besleyen  
-_-eseleten*-_  
+_-eseleten*_  
 ve bin bir farklı dille aklıma karşı duran  
 uslansan ya artık bir gün  
 sanmam  
@@ -53,7 +53,7 @@ bir garip heyelan mı beyaz
 yaklaşan üstümüze  
 yoksa bir kez mi daha  
 _-sorgulamaya vakit yok_  
-_uzaklaşmalıyız-_  
+_uzaklaşmalıyız_  
 kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
@@ -85,7 +85,7 @@ bir bela okuyla göğsüme
 gördün eridiğimi diğer bir yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
-_-keskindi buzdan bile-_  
+_-keskindi buzdan bile_  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
