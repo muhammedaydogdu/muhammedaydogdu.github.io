@@ -16,7 +16,7 @@ bir elebaşıydım işte suçluydum
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
 bazısı bir buzul çağına açılan  
-geçitler saklıydı uzun ince  
+geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
@@ -32,10 +32,11 @@ kanadı kırık kalbim
 semada dinlenen  
 durulan uçtukça  
 daha çok ölümcül yaraları besleyen  
-_-eseleten*_  
-ve bin bir farklı dille aklıma karşı duran  
-uslansan ya artık bir gün  
-sanmam  
+_-üstelik eseleten*_  
+esasta ve usûlde aklıma karşı  
+bin bir farklı dille karşı gelen kalbim  
+uslanırsın diyorum bazen gün gelir ama  
+zannetmem
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -66,16 +67,18 @@ benim yüreğim
 şimdi bildim  
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
-ve okudum aynalarca  
+okudum aynalarca  
 hiç bitmeyecek bir gerçeği yıllar boyu  
+devran döndü ve aydım  
+hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım  
-sonra göğü boyadım kendimce kırmızıya  
+sonra boyadım göğü keyfimce kırmızıya  
 rengi koyu ve hatta kızıla yakın  
 anlamlar çıkardım yerli ve yabancı  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
-ıslattı değdiği her yeri  
+ıslandı değdiği her yer   
 ve bitti yağmur  
 bulutlar ardını kurutup gitti  
 
