@@ -32,7 +32,7 @@ kanadı kırık kalbim
 semada dinlenen  
 durulan uçtukça  
 daha çok ölümcül yaraları besleyen  
-_eseleten*_  
+_-eseleten*-_  
 ve bin bir farklı dille aklıma karşı duran  
 uslansan ya artık bir gün  
 sanmam  
@@ -52,8 +52,8 @@ bir kâbus mudur bu
 bir garip heyelan mı beyaz  
 yaklaşan üstümüze  
 yoksa bir kez mi daha  
-_sorgulamaya vakit yok_  
-_uzaklaşmalıyız_  
+_-sorgulamaya vakit yok_  
+_uzaklaşmalıyız-_  
 kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
@@ -85,7 +85,7 @@ bir bela okuyla göğsüme
 gördün eridiğimi diğer bir yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
-_keskindi buzdan bile_  
+_-keskindi buzdan bile-_  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
@@ -105,4 +105,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elâzığ yerel lisânında __kasıtlı olarak, kasten'__ manalarına tekabül etmektedir.
+__*__ Bu kelime, Elâzığ yerel lisânında __kasıtlı olarak, kasten'__ manalarına tekâbül etmektedir.
