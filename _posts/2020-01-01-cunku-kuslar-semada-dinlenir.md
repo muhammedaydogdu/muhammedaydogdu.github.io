@@ -101,7 +101,9 @@ sonsöz: toprak
 insana bir düşman mıdır?  
 
 <br/>
+
 ---
+
 <br/>
 
 *Bu kelime, Elâzığ halk dilinde 'kasıtlı olarak, kasten' anlamlarıyla mütekâbildir.
