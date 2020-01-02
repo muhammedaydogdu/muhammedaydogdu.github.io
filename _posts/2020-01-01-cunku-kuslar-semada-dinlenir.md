@@ -17,7 +17,10 @@ olay:
 
 bir de son söz olmalı..
 
+---
+
 <br/>
+
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
