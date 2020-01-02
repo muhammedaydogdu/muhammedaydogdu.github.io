@@ -19,7 +19,7 @@ geçitler saklıydı uzun ince
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
-bir çocuk lisanıyla devşirme cümleleri  
+bir çocuk lisânıyla devşirme cümleleri  
 geçimsiz kendiyle bile -alıngan
 sözü müsvedde 
 kendi başmüsevvit  
@@ -106,4 +106,4 @@ insana bir düşman mıdır?
 
 <br/>
 
-*Bu kelime, Elâzığ halk dilinde 'kasıtlı olarak, kasten' anlamlarıyla mütekâbildir.
+*Bu kelime, Elâzığ yerel lisânında 'kasıtlı olarak, kasten' anlamlarıyla mütekâbildir.
