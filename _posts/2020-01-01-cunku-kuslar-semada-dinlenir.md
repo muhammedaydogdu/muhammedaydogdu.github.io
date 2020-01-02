@@ -4,7 +4,7 @@ title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
-published:no
+published: no
 ---
 
 <br/>
@@ -102,5 +102,7 @@ sonsöz: toprak
 insana bir düşman mıdır?  
 
 <br/>
+
+---
 
 __*__ Bu kelime, Elâzığ yerel lisânında __kasıtlı olarak, kasten'__ manalarına tekabül etmektedir.
