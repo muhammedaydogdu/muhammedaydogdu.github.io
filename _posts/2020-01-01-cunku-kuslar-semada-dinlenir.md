@@ -102,4 +102,4 @@ insana bir düşman mıdır?
 
 ---
 
-*Bu kelime Elâzığ halk dilinde _'kasıtlı olarak, kasten'_ anlamlarına mütekâbildir.
+*Bu kelime Elâzığ halk dilinde _'kasıtlı olarak, kasten'_ anlamlarıyla mütekâbildir.
