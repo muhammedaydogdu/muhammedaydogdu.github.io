@@ -3,10 +3,19 @@ layout: post
 title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
-x: "170"
-published: no
+x: "150"
 image: cunku-semada-dinlenir-kuslar.jpg
 ---
+
+
+olay mahalli: 
+_-terk edilmiş bir pazar yeri_     
+zaman:
+_-aylardan haziran_    
+olay:
+_-aydınlatılamadı_
+
+bir de son söz olmalı..
 
 <br/>
 
@@ -32,7 +41,7 @@ vay benim içten yanmalı
 kanadı kırık kalbim  
 semada dinlenen  
 durulan uçtukça  
-daha çok ölümcül yaraları besleyen  
+ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 esasta ve usûlde aklıma karşı  
 bin bir farklı dille karşı gelen kalbim  
@@ -70,7 +79,7 @@ bildiğini bilmeyenin
 gözlerinden okunurmuş yalnızlığı  
 okudum aynalarca  
 hiç bitmeyecek bir gerçeği yıllar boyu  
-devran döndü ve aydım  
+devran döndü de kendime aydım  
 hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım  
 sonra boyadım göğü keyfimce kırmızıya  
@@ -80,7 +89,7 @@ yağmuru bekledim
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
 ıslandı değdiği her yer   
-ve bitti yağmur  
+bitti yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
@@ -93,16 +102,20 @@ _-buzdan bile keskin_
 sen sustun ben söyledim  
 susmayı dilerdim  
 
-olay mahalli: gecenin çökmekte olduğu  
-düzmece bir pazar yeri  
-terk edilmiş  
-zaman: aylardan haziran  
+afili bir sessizlik  
+önümde gecenin çökmekte olduğu  
+terk edilmiş bir pazar yeri  
+bir yeni mesaj -kalbimden  
+_var bu işte bir düzmecelik_  
+aylardan haziran  
 insanlar felâha çağrılıyor  
-olay: aymazlığım  
+bense kaçıyorum -peki ama kimden?  
+aymazlığım  
 kural tanımaksızlığım  
-'yine buldu burada da beni'  
-ve çokça sabır  
-sonsöz: toprak  
+yalnız bırakmıyor burada da beni  
+biraz isyan ve de bolca sabır  
+
+söylesene toprak  
 insana bir düşman mıdır?  
 
 <br/>
