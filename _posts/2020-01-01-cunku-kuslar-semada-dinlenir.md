@@ -20,8 +20,8 @@ geçitler saklıydı uzun ince
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
-bir çocuk lisanıyla alıngan cümleleri  
-kendiyle bile geçimsiz olan
+bir çocuk lisanıyla devşirme cümleleri  
+geçimsiz kendiyle bile -alıngan
 sözü müsvedde 
 kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
@@ -31,9 +31,10 @@ vay benim içten yanmalı
 kanadı kırık kalbim  
 semada dinlenen  
 durulan uçtukça  
-ve daha çok ölümcül yaraları besleyen  
-yoruldun 
-sanmam ya bir gün uslanır mısın
+daha çok ölümcül yaraları besleyen  
+ve bin bir farklı dille aklıma karşı duran
+uslanır mısın bir gün
+inanmam
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -52,11 +53,11 @@ yaklaşan üstümüze
 yoksa bir kez mi daha  
 _sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
-kaçmadım 
-ve oracıkta alıkoydu zamansızlık gövdemi  
+kaçmadım ve oracıkta alıkoydu
+zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
-durmaksızın yol alan içimde?  
+durmaksızın yol alan içimde  
 adımları arası gittikçe ırayan  
 ve nihayet zamanın ufkunda kaybolan  
 benim yüreğim  
