@@ -4,6 +4,7 @@ title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
 x: "170"
+published: no
 image: cunku-semada-dinlenir-kuslar.jpg
 ---
 
@@ -55,8 +56,8 @@ yaklaşan üstümüze
 yoksa bir kez mi daha  
 _-sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
-kaçmadım  
-ve oracıkta alıkoydu zamansızlık gövdemi  
+kaçamadım  
+oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
 durmaksızın yol alan içimde  
