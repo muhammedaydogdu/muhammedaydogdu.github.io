@@ -8,12 +8,12 @@ image: cunku-semada-dinlenir-kuslar.jpg
 ---
 
 
-olay mahalli: 
-_-terk edilmiş bir pazar yeri_     
-zaman:
-_-aylardan haziran_    
-olay:
-_-aydınlatılamadı_
+olay mahalli:  
+     _-terk edilmiş bir pazar yeri_     
+zaman:  
+     _-aylardan haziran_    
+olay:  
+     _-aydınlatılamadı_
 
 bir de son söz olmalı..
 
