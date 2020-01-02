@@ -5,6 +5,7 @@ author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
 image: cunku-semada-dinlenir-kuslar.jpg
+published: no
 ---
 
 <br/>
