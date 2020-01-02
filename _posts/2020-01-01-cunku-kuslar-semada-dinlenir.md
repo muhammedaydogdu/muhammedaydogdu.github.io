@@ -31,10 +31,10 @@ kanadı kırık kalbim
 semada dinlenen  
 durulan uçtukça  
 daha çok ölümcül yaraları besleyen  
-_eseleten*_
-ve bin bir farklı dille aklıma karşı duran
-uslansan ya artık bir gün
-sanmam
+_eseleten*_  
+ve bin bir farklı dille aklıma karşı duran  
+uslansan ya artık bir gün  
+sanmam  
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -100,6 +100,8 @@ ve sabır
 sonsöz: toprak  
 insana bir düşman mıdır?  
 
+<br/>
 ---
+<br/>
 
-*Bu kelime Elâzığ halk dilinde _'kasıtlı olarak, kasten'_ anlamlarıyla mütekâbildir.
+*Bu kelime, Elâzığ halk dilinde 'kasıtlı olarak, kasten' anlamlarıyla mütekâbildir.
