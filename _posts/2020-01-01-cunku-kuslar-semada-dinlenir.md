@@ -53,8 +53,8 @@ yaklaşan üstümüze
 yoksa bir kez mi daha  
 _sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
-kaçmadım ve oracıkta alıkoydu
-zamansızlık gövdemi  
+kaçmadım  
+ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
 durmaksızın yol alan içimde  
