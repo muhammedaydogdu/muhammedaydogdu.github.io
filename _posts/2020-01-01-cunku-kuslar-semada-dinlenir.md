@@ -7,6 +7,7 @@ x: "150"
 image: cunku-semada-dinlenir-kuslar.jpg
 ---
 
+<br/>
 
 olay mahalli:  
      _-terk edilmiş bir pazar yeri_     
