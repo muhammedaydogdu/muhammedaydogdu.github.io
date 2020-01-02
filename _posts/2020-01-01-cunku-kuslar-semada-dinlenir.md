@@ -20,8 +20,8 @@ bazısı yakardı içi ateşler dehlizi
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
 bir çocuk lisânıyla devşirme cümleleri  
-geçimsiz kendiyle bile -alıngan
-sözü müsvedde 
+geçimsiz kendiyle bile -alıngan  
+sözü müsvedde  
 kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
 her kapıya kilit  
@@ -84,7 +84,7 @@ bir bela okuyla göğsüme
 gördün eridiğimi diğer bir yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
-_-keskindi buzdan bile_  
+_keskindi buzdan bile_  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
