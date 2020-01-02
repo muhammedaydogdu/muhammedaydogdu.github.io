@@ -4,7 +4,6 @@ title: Çünkü Kuşlar Semada Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
-published: no
 ---
 
 <br/>
@@ -32,9 +31,10 @@ kanadı kırık kalbim
 semada dinlenen  
 durulan uçtukça  
 daha çok ölümcül yaraları besleyen  
+_eseleten*_
 ve bin bir farklı dille aklıma karşı duran
-uslanır mısın bir gün
-inanmam
+uslansan ya artık bir gün
+sanmam
 
 uyudum uyandım  
 çok uyudum ve çokça uyandım  
@@ -99,3 +99,7 @@ kural tanımaksızlığım
 ve sabır  
 sonsöz: toprak  
 insana bir düşman mıdır?  
+
+---
+
+*Bu kelime Elâzığ halk dilinde _'kasıtlı olarak, kasten'_ anlamlarına mütekâbildir.
