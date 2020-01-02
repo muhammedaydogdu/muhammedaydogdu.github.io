@@ -16,7 +16,7 @@ bir elebaşıydım işte suçluydum
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
 bazısı bir buzul çağına açılan  
-geçitler saklıydı uzun ince 
+geçitler saklıydı uzun ince  
 bazısı yakardı içi ateşler dehlizi  
 hercai ve gelgeçti bazısı  
 dilim vardı sesleyen  
@@ -85,7 +85,7 @@ bir bela okuyla göğsüme
 gördün eridiğimi diğer bir yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimde bir cam parçası  
-_-keskindi buzdan bile_  
+_-buzdan bile keskin_  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
@@ -97,7 +97,7 @@ insanlar felâha çağrılıyor
 olay: aymazlığım  
 kural tanımaksızlığım  
 'yine buldu burada da beni'  
-ve sabır  
+ve çokça sabır  
 sonsöz: toprak  
 insana bir düşman mıdır?  
 
