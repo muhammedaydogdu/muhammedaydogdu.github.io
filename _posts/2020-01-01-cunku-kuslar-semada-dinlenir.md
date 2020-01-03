@@ -95,7 +95,7 @@ yağdı fakat yağdıkça
 rengi de silindi gökle beraber gözlerimin  
 ıslandı değdiği her yer   
 ıslattı değdiği her yeri  
-azaldı ve bitti yağmur  
+azaldı duraksadı bitti yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
@@ -109,8 +109,10 @@ sen sustun ben söyledim
 susmayı dilerdim  
 
 afili bir sessizlik  
-önümde gecenin çökmekte olduğu  
-terk edilmiş bir pazar yeri  
+önümde terk edilmiş  
+gecenin çökmekte olduğu  
+bir pazar yeri  
+sokak fenerleri göz kırpıyor yıldızlara  
 bir yeni mesaj -kalbimden  
 _var bu işte bir düzmecelik_  
 aylardan haziran  
@@ -128,4 +130,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elâzığ yerel lisânında __'kasıtlı olarak, kasten'__ manalarına tekâbül etmektedir.
+__*__ Bu kelime, Elâzığ yerel lisânında __'bilinçli olarak, kasten'__ manalarına tekâbül etmektedir.
