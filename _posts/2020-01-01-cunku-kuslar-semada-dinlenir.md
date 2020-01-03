@@ -17,7 +17,6 @@ zaman:
 olay:  
         _-aydınlatılamadı_
 
-bir de son söz olmalı...
 
 ---
 
@@ -122,7 +121,6 @@ aymazlığım
 kural tanımaksızlığım  
 yalnız bırakmıyor burada da beni  
 biraz isyan ve de bolca sabır  
-
 söylesene toprak  
 insana bir düşman mıdır?  
 
