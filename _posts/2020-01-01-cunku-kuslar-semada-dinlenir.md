@@ -11,7 +11,7 @@ published: no
 <br/>
 
 olay mahalli:  
-        _-terk edilmiş bir pazar yeri_     
+        _-bir pazar yeri_     
 zaman:  
         _-aylardan haziran_    
 olay:  
