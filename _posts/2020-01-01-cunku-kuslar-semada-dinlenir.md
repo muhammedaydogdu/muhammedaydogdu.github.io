@@ -59,7 +59,7 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişemedim umduğuma  
-zulmetli bir sabahtı ki ben  
+zulmetli bir sabahtı ben  
 uyandım  
 
 bir kâbus mudur bu  
