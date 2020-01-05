@@ -33,9 +33,8 @@ bazısı bir buzul çağına açılan
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
 hercai, yeltek ve gelgeçti bazısı  
-dilim vardı sesleyen  
-bir çocuk lisanıyla  
-devşirme kelimeleri  
+dilim vardı -bir çocuğunkinden farksız
+sesleyen devşirme kelimeleri  
 geçimsiz kendiyle bile    
 sözü müsvedde kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
