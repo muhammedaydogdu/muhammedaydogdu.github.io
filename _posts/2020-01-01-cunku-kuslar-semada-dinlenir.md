@@ -32,11 +32,11 @@ aklım vardı -ki içinde
 bazısı bir buzul çağına açılan  
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
-hercai ve gelgeçti bazısı  
+hercai, yeltek ve gelgeçti bazısı  
 dilim vardı sesleyen  
-bir çocuk lisânıyla devşirme cümleleri  
-geçimsiz kendiyle bile  
-_-küskün, alıngan_    
+hani bir çocuktan daha çocuk  
+devşirme kelimeleri  
+geçimsiz kendiyle bile    
 sözü müsvedde kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
 her kapıya kilit  
@@ -48,7 +48,7 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 esasta ve usûlde aklıma karşı  
-bin bir farklı dille karşı gelen kalbim  
+bin bir farklı teoriyle karşı gelen kalbim  
 uslanırsın diyorum bazen gün gelir ama  
 zannetmem
 
@@ -58,7 +58,7 @@ bir menfez bulup sızacaktım sözde karanlığa
 tutup kökünden koparacaktım  
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
-erişemedim umduğuma  
+erişmedim umduğuma  
 zulmetli bir sabahtı ben  
 uyandım  
 
@@ -69,10 +69,14 @@ yaklaşan üstümüze
 yoksa bir kez mi daha  
 _-sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
+gölgeler kol geziyordu bünyemde  
+gündüz gözü  
+neydi benim ışığımı kapatan
+gözümde büyüten her şeyi
 kaçamaz değildim kaçmadım  
-oracıkta alıkoydu zamansızlık gövdemi  
+ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
-bu benim mi yüreğim hoyrat  
+bu benim mi yüreğimdi hoyrat  
 durmaksızın yol alan içimde  
 adımları arası gittikçe ırayan  
 ve nihayet zamanın ufkunda kaybolan  
@@ -82,19 +86,18 @@ benim yüreğim
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
 okudum aynalarca  
-hiç bitmeyecek bir gerçeği yıllar boyu  
-devran döndü de aydım kendime   
+hiç bitmeyecek bir gerçeği   
+aydım felek döndürünce devranı kendime   
 hakikat aşırdım bilgelerden  
-gözlerimde biriken yalanı tırmıkladım  
-sonra boyadım göğü kendimce kırmızıya  
-rengi koyu ve hatta kızıla yakın  
+gözlerimde biriken yalanı tırmıkladım    
 anlamlar çıkardım yerli ve yabancı  
+rengi koyu ve hatta kızıla yakın  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
 ıslandı değdiği her yer   
 ıslattı değdiği her yeri  
-azaldı duraksadı bitti yağmur  
+azaldı, duraksadı ve bitti yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
@@ -110,16 +113,17 @@ susmayı dilerdim
 afili bir sessizlik  
 önümde terk edilmiş  
 gecenin çökmekte olduğu  
-bir pazar yeri  
-sokak fenerleri göz kırpıyor yıldızlara  
+bir pazar yeri    
 bir yeni mesaj -kalbimden  
 _var bu işte bir düzmecelik_  
 aylardan haziran  
+sokak fenerleri göz kırpıyor yıldızlara  
 insanlar felâha çağrılıyor  
-bense kaçıyorum -peki ama kimden?  
+bense kaçıyorum -ama kimden?  
 aymazlığım  
 kural tanımaksızlığım  
 yalnız bırakmıyor burada da beni  
+yüküm nedamet
 biraz isyan ve de bolca sabır  
 söylesene toprak  
 insana bir düşman mıdır?  
