@@ -34,7 +34,7 @@ geçitler saklıydı
 bazısı yakardı içi ateşler dehlizi  
 hercai, yeltek ve gelgeçti bazısı  
 dilim vardı sesleyen  
-hani bir çocuktan daha çocuk  
+bir çocuk lisanıyla  
 devşirme kelimeleri  
 geçimsiz kendiyle bile    
 sözü müsvedde kendi başmüsevvit  
