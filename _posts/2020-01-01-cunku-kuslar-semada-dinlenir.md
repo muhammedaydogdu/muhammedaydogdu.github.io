@@ -10,18 +10,6 @@ published: no
 
 <br/>
 
-olay mahalli:  
-        _-bir pazar yeri_     
-zaman:  
-        _-aylardan haziran_    
-olay:  
-        _-aydınlatılamadı_
-
-
----
-
-<br/>
-
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
@@ -58,8 +46,7 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-zulmetli bir sabahtı ben  
-uyandım  
+zulmetli bir sabaha uyandım  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
@@ -68,9 +55,9 @@ yaklaşan üstümüze
 yoksa bir kez mi daha  
 _-sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
-gölgeler kol geziyordu bünyemde  
-gündüz gözü  
-neydi benim ışığımı kapatan
+gündüz gözü gölgeler  
+kol geziyordu bünyemde   
+neydi benim ışığımı kapayan da  
 gözümde büyüten her şeyi
 kaçamaz değildim kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
@@ -78,13 +65,13 @@ sordum özüme bir kere daha
 bu benim mi yüreğimdi hoyrat  
 durmaksızın yol alan içimde  
 adımları arası gittikçe ırayan  
-ve nihayet zamanın ufkunda kaybolan  
+ve kaybolan zamanın ufkunda  
 benim yüreğim  
 
 şimdi bildim  
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
-okudum aynalarca  
+okumuşum aynalarca  
 hiç bitmeyecek bir gerçeği   
 aydım felek döndürünce devranı kendime   
 hakikat aşırdım bilgelerden  
@@ -96,7 +83,7 @@ yağdı fakat yağdıkça
 rengi de silindi gökle beraber gözlerimin  
 ıslandı değdiği her yer   
 ıslattı değdiği her yeri  
-azaldı, duraksadı ve bitti yağmur  
+azaldı, duraksadı, bitti yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
@@ -104,7 +91,7 @@ sınandığımı saplanan
 bir bela okuyla göğsüme  
 gördün eridiğimi diğer bir yandan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
-dilimde bir cam parçası  
+dilimin ucunda bir cam parçası  
 _-buzdan bile keskin_  
 sen sustun ben söyledim  
 susmayı dilerdim  
@@ -117,7 +104,7 @@ bir yeni mesaj -kalbimden
 _var bu işte bir düzmecelik_  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
-insanlar felâha çağrılıyor  
+felâha çağrılıyor insanlar  
 bense kaçıyorum -ama kimden?  
 aymazlığım  
 kural tanımaksızlığım  
