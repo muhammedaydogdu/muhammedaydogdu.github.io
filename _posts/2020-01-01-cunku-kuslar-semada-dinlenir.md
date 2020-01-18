@@ -21,7 +21,7 @@ bazısı bir buzul çağına açılan
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
 hercai, yeltek ve gelgeçti bazısı  
-dilim vardı -bir çocuğunkinden farksız
+dilim vardı eş kıymet bir çocuğunkiyle
 sesleyen devşirme kelimeleri  
 geçimsiz kendiyle bile    
 sözü müsvedde kendi başmüsevvit  
@@ -34,7 +34,7 @@ semada dinlenen
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
-esasta ve usûlde aklıma karşı  
+usûlde ve esasta aklıma karşı  
 bin bir farklı teoriyle karşı gelen kalbim  
 uslanırsın diyorum bazen gün gelir ama  
 zannetmem
@@ -50,20 +50,20 @@ zulmetli bir sabaha uyandım
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
-garip bir heyelan mı beyaz  
+garip bir heyelan mıdır beyaz  
 yaklaşan üstümüze  
 yoksa bir kez mi daha  
 _-sorgulamaya vakit yok_  
 _uzaklaşmalıyız_  
 gündüz gözü gölgeler  
 kol geziyordu bünyemde   
-neydi benim ışığımı kapayan da  
+ne olabilirdi ışığımı kapayan da  
 gözümde büyüten her şeyi
 kaçamaz değildim kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
-durmaksızın yol alan içimde  
+durmaksızın yol alan içimde?  
 adımları arası gittikçe ırayan  
 ve kaybolan zamanın ufkunda  
 benim yüreğim  
@@ -81,9 +81,9 @@ rengi koyu ve hatta kızıla yakın
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
-ıslandı değdiği her yer   
 ıslattı değdiği her yeri  
-azaldı, duraksadı, bitti yağmur  
+ıslandı değdiği her yer   
+azaldı, duraksadı ve bitti yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
