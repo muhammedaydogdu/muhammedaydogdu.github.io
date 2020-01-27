@@ -21,8 +21,8 @@ bazısı bir buzul çağına açılan
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
 hercai, yeltek ve gelgeçti bazısı  
-dilim vardı eş kıymet bir çocuğunkiyle
-sesleyen devşirme kelimeleri  
+dilim vardı eş kıymetçe bir çocuğunkine
+sesleyen devşirme cümleleri  
 geçimsiz kendiyle bile    
 sözü müsvedde kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen   
@@ -36,7 +36,7 @@ ve daha çok ölümcül yaraları besleyen
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
 bin bir farklı teoriyle karşı gelen kalbim  
-uslanırsın diyorum bazen gün gelir ama  
+uslanırsın diyorum bazen gün gelir ya  
 zannetmem
 
 uyudum uyandım  
@@ -46,7 +46,7 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-zulmetli bir sabaha uyandım  
+gene zulmetli bir sabaha uyandım  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
@@ -76,7 +76,7 @@ hiç bitmeyecek bir gerçeği
 aydım felek döndürünce devranı kendime   
 hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım    
-anlamlar çıkardım yerli ve yabancı  
+anlamlar çıkardım yerli yabancı  
 rengi koyu ve hatta kızıla yakın  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
@@ -89,7 +89,7 @@ bulutlar ardını kurutup gitti
 sen de gördün  
 sınandığımı saplanan  
 bir bela okuyla göğsüme  
-gördün eridiğimi diğer bir yandan titrerken  
+gördün eridiğimi bir taraftan da titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 dilimin ucunda bir cam parçası  
 _-buzdan bile keskin_  
@@ -97,9 +97,11 @@ sen sustun ben söyledim
 susmayı dilerdim  
 
 afili bir sessizlik  
-önümde terk edilmiş  
-gecenin çökmekte olduğu  
-bir pazar yeri    
+akşam çöküyor dağılıyor herkes  
+pazar her zamanki gibi işte 
+her yeri çöp  
+ıssızlaşıyor
+her yerde o bilindik her yerdelik
 bir yeni mesaj -kalbimden  
 _var bu işte bir düzmecelik_  
 aylardan haziran  
@@ -118,4 +120,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elâzığ yerel lisânında __'bilinçli olarak, kasten'__ manalarına tekâbül etmektedir.
+__*__ Bu kelime, Elâzığ yerel lisânında __'bilinçli olarak, bile isteye, kasten'__ manalarına tekâbül etmektedir.
