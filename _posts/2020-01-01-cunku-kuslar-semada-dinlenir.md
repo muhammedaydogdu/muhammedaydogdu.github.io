@@ -21,11 +21,12 @@ bazısı bir buzul çağına açılan
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
 hercai, yeltek ve gelgeçti bazısı  
-dilim vardı eş kıymetçe bir çocuğunkine
-sesleyen devşirme cümleleri  
-geçimsiz kendiyle bile    
+dilim vardı eş  
+kıymetçe bir çocuğunkine  
+devşirme kelimeleriyle sesleyen cümleleri  
+geçimsiz kendiyle bile  
 sözü müsvedde kendi başmüsevvit  
-ve bir kalbim vardı açılmayı bekleyen   
+ve bir kalbim vardı açılmayı bekleyen  
 her kapıya kilit  
 
 vay benim içten yanmalı  
@@ -35,8 +36,9 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
-bin bir farklı teoriyle karşı gelen kalbim  
-uslanırsın diyorum bazen gün gelir ya  
+bin bir farklı teoriyle itiraz eden kalbim  
+uslanırsın diyorum ya bazen  
+gün olur an gelir ama  
 zannetmem
 
 uyudum uyandım  
@@ -46,19 +48,19 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-gene zulmetli bir sabaha uyandım  
+zulmetli bir sabaha uyandım  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
 garip bir heyelan mıdır beyaz  
 yaklaşan üstümüze  
 yoksa bir kez mi daha  
-_-sorgulamaya vakit yok_  
-_uzaklaşmalıyız_  
-gündüz gözü gölgeler  
-kol geziyordu bünyemde   
-ne olabilirdi ışığımı kapayan da  
-gözümde büyüten her şeyi
+sorgulamaya vakit yoktu  
+uzaklaşmalıydık  
+kol geziyordu gölgeler  
+gündüz gözü bünyemde  
+ne olabilirdi ki ışığımı kapayan  
+gözümde büyüten her şeyi  
 kaçamaz değildim kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
@@ -71,19 +73,19 @@ benim yüreğim
 şimdi bildim  
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
-okumuşum aynalarca  
-hiç bitmeyecek bir gerçeği   
-aydım felek döndürünce devranı kendime   
+okumuştum aynalarca  
+hiç bitmeyecek bir gerçeği  
+aydım felek döndürünce devranı kendime  
 hakikat aşırdım bilgelerden  
-gözlerimde biriken yalanı tırmıkladım    
+gözlerimde biriken yalanı tırmıkladım  
 anlamlar çıkardım yerli yabancı  
 rengi koyu ve hatta kızıla yakın  
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
 ıslattı değdiği her yeri  
-ıslandı değdiği her yer   
-azaldı, duraksadı ve bitti yağmur  
+ıslandı değdiği her yer  
+azaldı, duraksadı ve dindi yağmur  
 bulutlar ardını kurutup gitti  
 
 sen de gördün  
@@ -98,10 +100,12 @@ susmayı dilerdim
 
 afili bir sessizlik  
 akşam çöküyor dağılıyor herkes  
-pazar her zamanki gibi işte 
-her yeri çöp  
-ıssızlaşıyor
-her yerde o bilindik her yerdelik
+pazar her zamanki gibi işte  
+çöpten geçilmiyor yerler  
+her yerde o bilindik her yerdelik  
+zihnimin dallanıp budak vermesi gibi aynı  
+zamansız serpilmişlik  
+kullanıp atılmışlık  
 bir yeni mesaj -kalbimden  
 _var bu işte bir düzmecelik_  
 aylardan haziran  
@@ -111,7 +115,7 @@ bense kaçıyorum -ama kimden?
 aymazlığım  
 kural tanımaksızlığım  
 yalnız bırakmıyor burada da beni  
-yüküm nedamet
+yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
 insana bir düşman mıdır?  
@@ -120,4 +124,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elâzığ yerel lisânında __'bilinçli olarak, bile isteye, kasten'__ manalarına tekâbül etmektedir.
+__*__ Bu kelime, Elâzığ yerel lisânında __'bilinçli olarak, bile isteye, kasten'__ manalarına isabet etmektedir.
