@@ -138,28 +138,22 @@ nav li a.social {
 .os-text {
   font-family: "Aref Ruqaa";
 }
-
 .container .jumbotron .os-text p {
-  font-size: 22px;
+  font-size: 23px;
 }
-
 .container .jumbotron h2.os-text {
-  font-size: 42px;
+  font-size: 39px;
 }
-
 #os-baslik {
-  font-size: 38px;
+  font-size: 44px;
 }  
-
 #foot-os {
-  font-size: 18px;
+  font-size: 20px;
 }
-
 #lang-os {
   font-size: 16px;
   font-family: "Kappa", "Times New Roman", serif;
 }
-
 #os-bilgi {
   font-size: 20px;
 }
