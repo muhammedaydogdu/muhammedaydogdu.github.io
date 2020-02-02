@@ -107,10 +107,10 @@ yerler geçilmiyor çöpten
 her yerde o bilindik her yerdelik  
 zihnimin dallanıp  
        budak veriş sendromu gibi aynı  
-bir zamansız serpilmişlik   
-kullanıp atılmışlık 
-ve hatta tükenmişlik
-bir yeni mesaj -kalbimden  
+bir zamansız serpilmişlik  
+kullanıp atılmışlık  
+ve hatta tükenmişlik  
+bir yeni mesaj -kalbimden   
 _var bu işte bir düzmecelik_  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
