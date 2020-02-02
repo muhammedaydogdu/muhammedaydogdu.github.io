@@ -20,9 +20,9 @@ aklım vardı -ki içinde
 bazısı bir buzul çağına açılan  
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
-hercâi, yeltek ve gelgeçti bazısı  
-dilim vardı eş  
-kıymetçe bir çocuğunkine  
+hercai, yeltek ve gelgeçti bazısı  
+dilim vardı kıymetçe denk  
+belki bir çocuğunkine  
 devşirme kelimelerle sesleyen cümleleri  
 geçimsiz kendiyle bile  
 sözü müsvedde kendi başmüsevvit  
@@ -36,7 +36,7 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
-bin bir farklı kuramla ayak direyen kalbim  
+kuramlar türetip cephelenen kalbim  
 uslanırsın diyorum ya bazen  
 gün gelir ama  
 zannetmem
@@ -48,7 +48,7 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-üstelik azaldım 
+günden güne azaldım 
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
@@ -99,18 +99,21 @@ havada dağılıyorken nefeslerimiz gördün
 akşam çökmezden evvel  
 dağılıyor herkes evlerine  
 sokaklara şeddeli bir sessizlik yayılıyor  
-hiçbir şey göründüğü kadar normal değil   
+hiçbir şey göründüğü gibi değil  
+her yerde o bilindik her yerdelik  
 aklım karışıyor gönlüm bulanıyor  
-her yerde o bilindik her yerdelik   
-bir yeni mesaj -kalbimden   
+bir şeylere takılıyor geçerken ayağım  
+gök kubbe daralıyor  
+sonra tiz bir ses çınlıyor kulağımda
+*bir yeni mesaj -kalbimden*   
 _var bu işte bir düzmecelik_  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
-bense kaçıyorum -ama kimden?  
-aymazlığım  
+aymazlığım    
 kural tanımaksızlığım  
 yalnız bırakmıyor burada da beni  
+bense kaçıyorum -ama kimden?  
 yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
