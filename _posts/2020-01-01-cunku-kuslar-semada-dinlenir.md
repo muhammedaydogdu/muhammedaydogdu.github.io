@@ -59,7 +59,7 @@ _-yoksa bir kez mi daha?_
 _sorgulamaya vakit yok_  
 uzaklaşmalıydık  
 arındırmalıydık haydut idelerden kendimizi  
-güç bulup hüzmelerden ışımalıydık  
+güç bulup hûzmelerden ışımalıydık  
 oysa bünyemde  
 kol geziyordu benim  
 binbir ayak gündüz gözü gölgeler  
