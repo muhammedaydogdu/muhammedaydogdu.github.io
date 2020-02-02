@@ -43,7 +43,7 @@ h2 {
 .navbar .navbar-brand {
   color: #1B4F72;
   margin-top: 0px;
-  font-size: 38px;
+  font-size: 42px;
 }
 
 .navbar .navbar-brand:hover {
@@ -55,7 +55,7 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 20px;
+  font-size: 24px;
   margin-top: 16px;
   margin-bottom: 16px;
   font-family: "Dancing Script", "Times New Roman", serif;
