@@ -24,7 +24,7 @@ hercai, yeltek ve gelgeçti bazısı
 dilim vardı kıymetçe denk  
 belki bir çocuğunkine  
 devşirme kelimelerle sesleyen cümleleri  
-geçimsiz kendiyle bile  
+kendiyle bile geçimsiz  
 sözü müsvedde kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen  
 her kapıya kilit  
