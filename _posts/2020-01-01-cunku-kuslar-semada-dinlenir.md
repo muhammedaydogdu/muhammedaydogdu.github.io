@@ -114,7 +114,7 @@ felâha çağrılıyor insanlar
 bense kaçıyorum -ama kimden?  
 aymazlığım  
 kural tanımaksızlığım  
-şükür (!) yalnız bırakmıyor burada da beni  
+yalnız bırakmıyor burada da beni  
 yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
