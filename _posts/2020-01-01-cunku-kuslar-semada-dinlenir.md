@@ -100,16 +100,11 @@ cam kesiğiyken kelimeler
 sen sustun ben söyledim  
 susmayı dilerdim  
 
-şeddeli bir sessizlik -afilli
-akşam çöküyor dağılıyor herkes  
-pazar her zamanki gibi işte  
+şeddeli bir sessizlik -afilli  
+akşam çökmeden dağılıyor herkes  
+her zamankinden bir pazar sonrası
 yerler geçilmiyor çöpten  
 her yerde o bilindik her yerdelik  
-zihnimin dallanıp  
-       budak veriş sendromu gibi aynı  
-bir zamansız serpilmişlik  
-kullanıp atılmışlık  
-ve hatta tükenmişlik  
 bir yeni mesaj -kalbimden   
 _var bu işte bir düzmecelik_  
 aylardan haziran  
