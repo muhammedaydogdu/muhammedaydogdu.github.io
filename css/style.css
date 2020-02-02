@@ -34,7 +34,7 @@ h2 {
 .container .navbar {
   margin-top: 20px;
   font-family: "Dancing Script", "Times New Roman", serif;
-  font-size: 18px;
+  font-size: 17px;
   padding: 15px 0 5px 0;
   box-shadow: 1px 1px 2px grey;
   border-radius: 6px;
@@ -43,7 +43,7 @@ h2 {
 .navbar .navbar-brand {
   color: #1B4F72;
   margin-top: 0px;
-  font-size: 39px;
+  font-size: 38px;
 }
 
 .navbar .navbar-brand:hover {
@@ -55,7 +55,7 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 20px;
+  font-size: 21px;
   margin-top: 16px;
   margin-bottom: 16px;
   font-family: "Dancing Script", "Times New Roman", serif;
