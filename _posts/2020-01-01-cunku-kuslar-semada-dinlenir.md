@@ -20,7 +20,7 @@ aklım vardı -ki içinde
 bazısı bir buzul çağına açılan  
 geçitler saklıydı  
 bazısı yakardı içi ateşler dehlizi  
-hercai, yeltek ve gelgeçti bazısı  
+hercâi, yeltek ve gelgeçti bazısı  
 dilim vardı eş  
 kıymetçe bir çocuğunkine  
 devşirme kelimeleriyle sesleyen cümleleri  
@@ -36,9 +36,9 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
-bin bir farklı teoriyle itiraz eden kalbim  
+bin bir farklı kuramla ayak direyen kalbim  
 uslanırsın diyorum ya bazen  
-gün olur an gelir ama  
+gün olur an gelir -ama  
 zannetmem
 
 uyudum uyandım  
@@ -48,19 +48,21 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-zulmetli bir sabaha uyandım  
+üstelik azaldım 
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
 garip bir heyelan mıdır beyaz  
 yaklaşan üstümüze  
-yoksa bir kez mi daha  
-sorgulamaya vakit yoktu  
+_-yoksa bir kez mi daha?_
+
+_sorgulamaya vakit yok_  
 uzaklaşmalıydık  
-kol geziyordu gölgeler  
-gündüz gözü bünyemde  
-ne olabilirdi ki ışığımı kapayan  
-gözümde büyüten her şeyi  
+arındırmalıydık haydut idelerden kendimizi  
+güç bulup hüzmelerden ışımalıydık  
+oysa bünyemde  
+kol geziyordu benim  
+binbir ayak gündüz gözü gölgeler  
 kaçamaz değildim kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
@@ -74,7 +76,7 @@ benim yüreğim
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
 okumuştum aynalarca  
-hiç bitmeyecek bir gerçeği  
+hiç bitmeyecek bir gerçeği çeyrek ömür   
 aydım felek döndürünce devranı kendime  
 hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım  
@@ -93,19 +95,21 @@ sınandığımı saplanan
 bir bela okuyla göğsüme  
 gördün eridiğimi bir taraftan da titrerken  
 havada dağılıyorken nefeslerimiz gördün  
-dilimin ucunda bir cam parçası  
-_-buzdan bile keskin_  
+dilimin ucunda birer  
+cam kesiğiyken kelimeler  
 sen sustun ben söyledim  
 susmayı dilerdim  
 
-afili bir sessizlik  
+şeddeli bir sessizlik -afilli
 akşam çöküyor dağılıyor herkes  
 pazar her zamanki gibi işte  
-çöpten geçilmiyor yerler  
+yerler geçilmiyor çöpten  
 her yerde o bilindik her yerdelik  
-zihnimin dallanıp budak vermesi gibi aynı  
-zamansız serpilmişlik  
-kullanıp atılmışlık  
+zihnimin dallanıp  
+       budak veriş sendromu gibi aynı  
+bir zamansız serpilmişlik   
+kullanıp atılmışlık 
+ve hatta tükenmişlik
 bir yeni mesaj -kalbimden  
 _var bu işte bir düzmecelik_  
 aylardan haziran  
@@ -114,7 +118,7 @@ felâha çağrılıyor insanlar
 bense kaçıyorum -ama kimden?  
 aymazlığım  
 kural tanımaksızlığım  
-yalnız bırakmıyor burada da beni  
+şükür (!) yalnız bırakmıyor burada da beni  
 yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
