@@ -42,7 +42,7 @@ h2 {
 .navbar .navbar-brand {
   color: #1B4F72;
   margin-top: 0px;
-  font-size: 35px;
+  font-size: 36px;
 }
 
 .navbar .navbar-brand:hover {
@@ -83,13 +83,13 @@ h2 {
 }
 
 .container .jumbotron p {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 .data {
   color: #999;
   font-family: "Kappa", "Times New Roman", serif;
-  font-size: 12px;
+  font-size: 14px;
   margin-bottom: 0;
 }
 
@@ -136,15 +136,15 @@ nav li a.social {
 }
 
 .container .jumbotron .os-text p {
-  font-size: 23px;
+  font-size: 20px;
 }
 
 .container .jumbotron h2.os-text {
-  font-size: 39px;
+  font-size: 40px;
 }
 
 #os-baslik {
-  font-size: 44px;
+  font-size: 42px;
 }  
 
 #foot-os {
