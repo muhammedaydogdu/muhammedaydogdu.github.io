@@ -42,7 +42,7 @@ h2 {
 .navbar .navbar-brand {
   color: #1B4F72;
   margin-top: 0px;
-  font-size: 36px;
+  font-size: 38px;
 }
 
 .navbar .navbar-brand:hover {
@@ -54,7 +54,7 @@ h2 {
 }
 
 .navbar .navbar-text {
-  font-size: 18px;
+  font-size: 20px;
   margin-top: 16px;
   margin-bottom: 16px;
   font-family: "Dancing Script", "Times New Roman", serif;
@@ -83,7 +83,7 @@ h2 {
 }
 
 .container .jumbotron p {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .data {
