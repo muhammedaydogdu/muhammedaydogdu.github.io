@@ -6,6 +6,9 @@
   font-family: Kappa;
   src: url('../fonts/KappaBook.otf');
   
+  font-family: Ketab;
+  src: url('../fonts/Ketab.ttf');
+
 }
 
 body {
@@ -133,7 +136,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: "Aref Ruqaa";
+  font-family: "Ketab";
 }
 
 .container .jumbotron .os-text p {
