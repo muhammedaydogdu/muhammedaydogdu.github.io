@@ -5,6 +5,7 @@ author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
 image: cunku-semada-dinlenir-kuslar.jpg
+published: no
 ---
 
 <br/>
@@ -37,7 +38,7 @@ _-üstelik eseleten*_
 usûlde ve esasta aklıma karşı  
 bin bir farklı kuramla ayak direyen kalbim  
 uslanırsın diyorum ya bazen  
-gün olur an gelir -ama  
+gün gelir ama  
 zannetmem
 
 uyudum uyandım  
@@ -61,7 +62,7 @@ arındırmalıydık haydut idelerden kendimizi
 güç bulup hûzmelerden ışımalıydık  
 oysa bünyemde  
 kol geziyordu benim  
-binbir ayak gündüz gözü gölgeler  
+gündüz gözü binbir ayak gölgeler  
 kaçamaz değildim kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
@@ -75,7 +76,7 @@ benim yüreğim
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
 okumuştum aynalarca  
-hiç bitmeyecek bir gerçeği çeyrek ömür   
+hiç bitmeyecek bir gerçeği yıllar boyu   
 aydım felek döndürünce devranı kendime  
 hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım  
@@ -94,16 +95,18 @@ sınandığımı saplanan
 bir bela okuyla göğsüme  
 gördün eridiğimi bir taraftan da titrerken  
 havada dağılıyorken nefeslerimiz gördün  
-dilimin ucunda birer  
-cam kesiğiyken kelimeler  
-sen sustun ben söyledim  
+birer cam kesiğiyken  
+dilimin ucunda kelimeler  
+gördün de sustun sen  
+bense söyledim  
 susmayı dilerdim  
 
-şeddeli bir sessizlik -afilli  
-akşam çökmeden dağılıyor herkes  
-her zamankinden bir pazar sonrası
-yerler geçilmiyor çöpten  
-her yerde o bilindik her yerdelik  
+akşam çökmezden evvel  
+dağılıyor herkes evlerine  
+sokaklara şeddeli bir sessizlik yayılıyor  
+hiçbir şey göründüğü kadar normal değil   
+aklım karışıyor gönlüm bulanıyor  
+her yerde o bilindik her yerdelik   
 bir yeni mesaj -kalbimden   
 _var bu işte bir düzmecelik_  
 aylardan haziran  
