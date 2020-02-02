@@ -23,7 +23,7 @@ bazısı yakardı içi ateşler dehlizi
 hercâi, yeltek ve gelgeçti bazısı  
 dilim vardı eş  
 kıymetçe bir çocuğunkine  
-devşirme kelimeleriyle sesleyen cümleleri  
+devşirme kelimelerle sesleyen cümleleri  
 geçimsiz kendiyle bile  
 sözü müsvedde kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen  
@@ -95,11 +95,6 @@ sınandığımı saplanan
 bir bela okuyla göğsüme  
 gördün eridiğimi bir taraftan da titrerken  
 havada dağılıyorken nefeslerimiz gördün  
-birer cam kesiğiyken  
-dilimin ucunda kelimeler  
-gördün de sustun sen  
-bense söyledim  
-susmayı dilerdim  
 
 akşam çökmezden evvel  
 dağılıyor herkes evlerine  
