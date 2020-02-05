@@ -25,8 +25,8 @@ hercai, yeltek ve gelgeçti bazısı
 dilim vardı kıymetçe denk  
 belki bir çocuğunkine  
 devşirme kelimelerle sesleyen cümleleri  
-kendiyle bile geçimsiz  
-sözü müsvedde kendi başmüsevvit  
+sözü müsvedde  
+kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen  
 her kapıya kilit  
 
@@ -37,7 +37,7 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
-koşulsuz şartsız cephelenen kalbim  
+bir yolunu bulup cephelenen kalbim  
 uslanırsın diyorum ya bazen  
 gün gelir ama  
 zannetmem
@@ -59,7 +59,7 @@ _-yoksa bir kez mi daha?_
 
 _sorgulamaya vakit yok!_  
 uzaklaşmalıydık  
-arındırmalıydık üzerimize yapışan  
+arındırmalıydık üstümüze yapışan  
 haydut idelerden kendimizi  
 güç bulup hûzmelerden ışımalıydık  
 oysa bünyemde  
