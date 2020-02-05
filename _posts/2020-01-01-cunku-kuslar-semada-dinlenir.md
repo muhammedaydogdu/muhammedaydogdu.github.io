@@ -13,7 +13,8 @@ published: no
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
-durma devam et peşimden diyen  
+durma  
+devam et peşimden diyen  
 bir elebaşıydım işte suçluydum  
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
@@ -36,7 +37,7 @@ durulan uçtukça
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
-kuramlar türetip cephelenen kalbim  
+koşulsuz şartsız cephelenen kalbim  
 uslanırsın diyorum ya bazen  
 gün gelir ama  
 zannetmem
@@ -56,9 +57,10 @@ garip bir heyelan mıdır beyaz
 yaklaşan üstümüze  
 _-yoksa bir kez mi daha?_
 
-_sorgulamaya vakit yok_  
+_sorgulamaya vakit yok!_  
 uzaklaşmalıydık  
-arındırmalıydık haydut idelerden kendimizi  
+arındırmalıydık üzerimize yapışan  
+haydut idelerden kendimizi  
 güç bulup hûzmelerden ışımalıydık  
 oysa bünyemde  
 kol geziyordu benim  
@@ -93,7 +95,7 @@ bulutlar ardını kurutup gitti
 sen de gördün  
 sınandığımı saplanan  
 bir bela okuyla göğsüme  
-gördün eridiğimi bir taraftan da titrerken  
+gördün eridiğimi bir taraftan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
 
 akşam çökmezden evvel  
