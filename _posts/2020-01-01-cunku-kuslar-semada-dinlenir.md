@@ -97,12 +97,10 @@ sınandığımı saplanan
 bir bela okuyla göğsüme  
 gördün eridiğimi bir taraftan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
-
-akşam çökmezden evvel  
-dağılıyor herkes evlerine  
+  
 sokaklara şeddeli bir sessizlik yayılıyor  
 hiçbir şey göründüğü gibi değil  
-her yerde o bilindik her yerdelik  
+ve her yerde o bilindik her yerdelik  
 aklım karışıyor gönlüm bulanıyor  
 bir şeylere takılıyor geçerken ayağım  
 gök kubbe daralıyor  
