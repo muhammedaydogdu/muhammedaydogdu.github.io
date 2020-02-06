@@ -1,7 +1,7 @@
 @font-face {
   
-  font-family: Nizar;
-  src: url('../fonts/NizarRuqaaRegular.ttf');
+  font-family: AF;
+  src: url('../fonts/AF_Tholoth.ttf');
   
   font-family: Kappa;
   src: url('../fonts/KappaBook.otf');
@@ -133,7 +133,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: "Aref Ruqaa";
+  font-family: "AF";
 }
 .container .jumbotron .os-text p {
   font-size: 23px;
