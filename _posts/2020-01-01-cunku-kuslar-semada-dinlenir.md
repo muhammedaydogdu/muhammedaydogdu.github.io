@@ -23,7 +23,7 @@ geçitler saklıydı
 bazısı yakardı içi ateşler dehlizi  
 hercai, yeltek ve gelgeçti bazısı  
 dilim vardı kıymetçe denk  
-belki bir çocuğunkine  
+tutuk bir çocuğunkine  
 devşirme kelimelerle sesleyen cümleleri  
 sözü müsvedde  
 kendi başmüsevvit  
@@ -56,8 +56,7 @@ bir kâbus mudur bu
 garip bir heyelan mıdır beyaz  
 yaklaşan üstümüze  
 _-yoksa bir kez mi daha?_
-
-_sorgulamaya vakit yok!_  
+_-sorgulamaya vakit yok!_  
 uzaklaşmalıydık  
 arındırmalıydık üstümüze yapışan  
 haydut idelerden kendimizi  
@@ -100,13 +99,13 @@ havada dağılıyorken nefeslerimiz gördün
   
 sokaklara şeddeli bir sessizlik yayılıyor  
 hiçbir şey göründüğü gibi değil  
-ve her yerde o bilindik her yerdelik  
+her yerde o bilindik her yerdelik  
 aklım karışıyor gönlüm bulanıyor  
-bir şeylere takılıyor geçerken ayağım  
-gök kubbe daralıyor  
 sonra tiz bir ses çınlıyor kulağımda
 *bir yeni mesaj -kalbimden*   
 _var bu işte bir düzmecelik_  
+bir şeylere takılıyor geçerken ayağım  
+gök kubbe daralıyor  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
