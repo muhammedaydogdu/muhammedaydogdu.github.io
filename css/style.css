@@ -2,6 +2,9 @@
   
   font-family: AF;
   src: url('../fonts/AF_Tholoth.ttf');
+
+  font-family: Trado;
+  src: url('../fonts/trado.ttf');
   
   font-family: Kappa;
   src: url('../fonts/KappaBook.otf');
@@ -133,7 +136,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: "AF";
+  font-family: "Trado";
 }
 .container .jumbotron .os-text p {
   font-size: 23px;
