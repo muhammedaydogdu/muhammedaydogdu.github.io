@@ -97,9 +97,9 @@ bir bela okuyla göğsüme
 gördün eridiğimi bir taraftan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
   
-sokaklara şeddeli bir sessizlik yayılıyor  
-hiçbir şey göründüğü gibi değil  
 her yerde o bilindik her yerdelik  
+hiçbir şey göründüğü gibi değil  
+sokaklara şeddeli bir sessizlik yayılıyor  
 aklım karışıyor gönlüm bulanıyor  
 sonra tiz bir ses çınlıyor kulağımda
 *bir yeni mesaj -kalbimden*   
