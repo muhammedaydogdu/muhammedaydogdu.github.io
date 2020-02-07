@@ -1,7 +1,7 @@
 @font-face {
   
-  font-family: Arabic;
-  src: url('../fonts/p1.ttf');
+  font-family: 'Koodak';
+  src: url('../fonts/koodak.ttf');
 
   font-family: Trado;
   src: url('../fonts/trado.ttf');
@@ -136,7 +136,7 @@ nav li a.social {
 }
 
 .os-text {
-  font-family: 'Amiri', serif;
+  font-family: 'Koodak';
 }
 .container .jumbotron .os-text p {
   font-size: 23px;
