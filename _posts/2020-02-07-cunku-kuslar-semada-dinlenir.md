@@ -7,7 +7,7 @@ x: "180"
 image: cunku-semada-dinlenir-kuslar.jpg
 ---
 
-
+<br/>
 
 _"Söyleyenler bilmez, bilenler söylemez.."_
 
