@@ -12,8 +12,7 @@ image: cunku-semada-dinlenir-kuslar.jpg
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
-durma  
-devam et peşimden diyen  
+durma devam et peşimden diyen  
 bir elebaşıydım işte suçluydum  
 zaman da bükülürdü hayatımdan geçince  
 aklım vardı -ki içinde  
