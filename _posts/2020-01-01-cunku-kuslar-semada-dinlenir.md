@@ -117,4 +117,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elâzığ yerel lisânında ___'bilinçli olarak, bile isteye, kasten'___ manalarına isabet etmektedir.
+__*__ Bu kelime, Elâzığ yerel lisânında ___'bilinçli olarak, bile isteye, kasten'___ manalarına tekabül etmektedir.
