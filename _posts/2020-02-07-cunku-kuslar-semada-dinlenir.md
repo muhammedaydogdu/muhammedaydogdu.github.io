@@ -6,13 +6,11 @@ type: Şiir
 x: "180"
 image: cunku-semada-dinlenir-kuslar.jpg
 ---
-
 <br/>
 
 _"Söyleyenler bilmez, bilenler söylemez.."_
 
 <br/>
-
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
@@ -119,7 +117,6 @@ söylesene toprak
 insana bir düşman mıdır?  
 
 <br/>
-
 ---
 
 __*__ Bu kelime, Elâzığ yerel lisânında ___'bilinçli olarak, bile isteye, kasten'___ manalarına tekabül etmektedir.
