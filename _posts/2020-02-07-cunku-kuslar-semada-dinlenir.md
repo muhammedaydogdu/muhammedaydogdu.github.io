@@ -9,6 +9,7 @@ image: cunku-semada-dinlenir-kuslar.jpg
 <br/>
 
 _"Söyleyenler bilmez, bilenler söylemez.."_
+---
 
 <br/>
 
@@ -115,8 +116,8 @@ yüküm nedâmet
 biraz isyan ve de bolca sabır  
 söylesene toprak  
 insana bir düşman mıdır?  
-
 <br/>
+
 ---
 
 __*__ Bu kelime, Elâzığ yerel lisânında ___'bilinçli olarak, bile isteye, kasten'___ manalarına tekabül etmektedir.
