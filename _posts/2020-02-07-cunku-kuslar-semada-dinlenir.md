@@ -9,6 +9,9 @@ image: cunku-semada-dinlenir-kuslar.jpg
 
 <br/>
 
+_"Söyleyenler bilmez, bilenler söylemez..""
+<br/>
+
 
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
