@@ -5,7 +5,6 @@ author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
 image: cunku-semada-dinlenir-kuslar.jpg
-published: no
 ---
 
 <br/>
@@ -55,7 +54,7 @@ bir kâbus mudur bu
 çığ mıdır yoksa  
 garip bir heyelan mıdır beyaz  
 yaklaşan üstümüze  
-_-yoksa bir kez mi daha?_
+_-yoksa bir kez mi daha?_  
 _-sorgulamaya vakit yok!_  
 uzaklaşmalıydık  
 arındırmalıydık üstümüze yapışan  
@@ -97,22 +96,20 @@ bir bela okuyla göğsüme
 gördün eridiğimi bir taraftan titrerken  
 havada dağılıyorken nefeslerimiz gördün  
   
-her yerde o bilindik her yerdelik  
-hiçbir şey göründüğü gibi değil  
 sokaklara şeddeli bir sessizlik yayılıyor  
-aklım karışıyor gönlüm bulanıyor  
-sonra tiz bir ses çınlıyor kulağımda
+her şey yerli yerinde  
+her yerde o bilindik her yerdelik  
 *bir yeni mesaj -kalbimden*   
 _var bu işte bir düzmecelik_  
-bir şeylere takılıyor geçerken ayağım  
-gök kubbe daralıyor  
+bir şeye takılıyor geçerken ayağım  
+ve gök kubbe daralıyor  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
 aymazlığım    
 kural tanımaksızlığım  
-yalnız bırakmıyor burada da beni  
-bense kaçıyorum -ama kimden?  
+yalnız bırakmamış burada da beni  
+bense kaçıyorum sözde -ama kimden?    
 yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
