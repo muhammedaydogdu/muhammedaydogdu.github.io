@@ -34,9 +34,9 @@ semâda dinlenen
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
-usûlde ve esasta aklıma karşı  
-bir yolunu bulup cephelenen kalbim  
-uslanırsın diyorum gün gelir ama  
+bana benim kalbim
+aklımı döver dedirten kalbim
+uslanırsın diyordum gün gelir ama  
 zannetmem
 
 uyudum uyandım  
