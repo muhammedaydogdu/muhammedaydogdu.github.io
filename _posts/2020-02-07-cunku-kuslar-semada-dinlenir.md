@@ -9,7 +9,7 @@ image: cunku-semada-dinlenir-kuslar.jpg
 
 <br/>
 
-_"Söyleyenler bilmez, bilenler söylemez..""
+_"Söyleyenler bilmez, bilenler söylemez.."_
 <br/>
 
 
