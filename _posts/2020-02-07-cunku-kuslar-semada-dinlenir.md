@@ -6,8 +6,8 @@ type: Şiir
 x: "180"
 image: cunku-semada-dinlenir-kuslar.jpg
 ---
-<br/>
 
+<br/>
 vakit yoksa kaçmak için  
 değiştirmeye yetmelidir gücümüz  
 durma devam et peşimden diyen  
