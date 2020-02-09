@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Çünkü Kuşlar Semada Dinlenir
+title: Çünkü Kuşlar Semâda Dinlenir
 author: Muhammed Aydoğdu
 type: Şiir
 x: "180"
@@ -31,7 +31,7 @@ her kapıya kilit
 
 vay benim içten yanmalı  
 kanadı kırık kalbim  
-semada dinlenen  
+semâda dinlenen  
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
 _-üstelik eseleten*_  
