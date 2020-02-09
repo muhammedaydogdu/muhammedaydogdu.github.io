@@ -100,7 +100,7 @@ her şey yerli yerinde
 her yerde o bilindik her yerdelik  
 bir yeni mesaj -kalbimden    
 _var bu işte bir düzmecelik_  
-bir şeye takılıyor geçerken ayağım  
+bir şeylere takılıyor geçerken ayağım  
 ve gök kubbe daralıyor  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
@@ -108,7 +108,7 @@ felâha çağrılıyor insanlar
 aymazlığım    
 kural tanımaksızlığım  
 yalnız bırakmamış burada da beni  
-bense kaçıyorum sözde -ama kimden?    
+bense kaçıyorum -ama kimden?    
 yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
@@ -118,4 +118,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elâzığ yerel lisânında __'bilinçli olarak, bile isteye, kasten'__ manalarına isabet etmektedir.
+__*__ Bu kelime, Elâzığ yerel lisânında __*'bilinçli olarak, bile isteye, kasten'*__ manalarına isabet etmektedir.
