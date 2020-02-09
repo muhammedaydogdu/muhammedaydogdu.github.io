@@ -101,7 +101,7 @@ her yerde o bilindik her yerdelik
 bir yeni mesaj -kalbimden    
 _var bu işte bir düzmecelik_  
 bir şeylere takılıyor geçerken ayağım  
-ve gök kubbe daralıyor  
+gök kubbe daralıyor  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
