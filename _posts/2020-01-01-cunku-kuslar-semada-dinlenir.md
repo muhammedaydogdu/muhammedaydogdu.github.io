@@ -37,8 +37,7 @@ ve daha çok ölümcül yaraları besleyen
 _-üstelik eseleten*_  
 usûlde ve esasta aklıma karşı  
 bir yolunu bulup cephelenen kalbim  
-uslanırsın diyorum ya bazen  
-gün gelir ama  
+uslanırsın diyorum gün gelir ama  
 zannetmem
 
 uyudum uyandım  
@@ -99,7 +98,7 @@ havada dağılıyorken nefeslerimiz gördün
 sokaklara şeddeli bir sessizlik yayılıyor  
 her şey yerli yerinde  
 her yerde o bilindik her yerdelik  
-*bir yeni mesaj -kalbimden*   
+bir yeni mesaj -kalbimden    
 _var bu işte bir düzmecelik_  
 bir şeye takılıyor geçerken ayağım  
 ve gök kubbe daralıyor  
