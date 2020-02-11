@@ -21,7 +21,7 @@ hercai, yeltek ve gelgeçti bazısı
 dilim vardı kıymetçe denk  
 tutuk bir çocuğunkine  
 devşirme kelimelerle sesleyen cümleleri  
-sözü müsvedde  
+sözü müsvedde derler  
 kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen  
 her kapıya kilit  
@@ -45,7 +45,9 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-günden güne azaldım 
+kesilmeye yüz tuttu soluğum   
+uyanınca bir bilet buldum vakti geçik 
+baş ucumda  
 
 bir kâbus mudur bu  
 çığ mıdır yoksa  
@@ -94,7 +96,7 @@ gördün eridiğimi bir taraftan titrerken
 havada dağılıyorken nefeslerimiz gördün  
   
 sokaklara şeddeli bir sessizlik yayılıyor  
-her şey yerli yerinde  
+her şey yerli yerinde güya  
 her yerde o bilindik her yerdelik  
 bir yeni mesaj -kalbimden    
 _var bu işte bir düzmecelik_  
@@ -107,7 +109,7 @@ aymazlığım
 kural tanımaksızlığım  
 yalnız bırakmamış burada da beni  
 bense kaçıyorum -ama kimden?    
-yüküm nedâmet  
+yüküm nedamet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
 insana bir düşman mıdır?  
