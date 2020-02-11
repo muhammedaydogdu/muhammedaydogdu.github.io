@@ -45,8 +45,8 @@ tutup kökünden koparacaktım
 göğeren o müthiş çaresizliği  
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
-kesilmeye yüz tuttu soluğum   
-uyanınca bir bilet buldum vakti geçik 
+kesilmeye yüz tutunca soluğum   
+bir bilet buldum vakti geçik
 baş ucumda  
 
 bir kâbus mudur bu  
