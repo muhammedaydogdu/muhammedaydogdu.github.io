@@ -21,7 +21,7 @@ hercai, yeltek ve gelgeçti bazısı
 dilim vardı kıymetçe denk  
 tutuk bir çocuğunkine  
 devşirme kelimelerle sesleyen cümleleri  
-sözü müsvedde hani  
+sözü müsvedde derler hani  
 kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen  
 her kapıya kilit  
@@ -46,7 +46,7 @@ göğeren o müthiş çaresizliği
 üç gün üç gece koştum peşinden  
 erişmedim umduğuma  
 kesilmeye yüz tutunca soluğum   
-bir bilet buldum vakti geçik
+bir bilet buldum vakti geçik  
 baş ucumda  
 
 bir kâbus mudur bu  
@@ -59,8 +59,7 @@ uzaklaşmalıydık
 arındırmalıydık üstümüze yapışan  
 haydut idelerden kendimizi  
 güç bulup hûzmelerden ışımalıydık  
-oysa bünyemde  
-kol geziyordu benim  
+oysa bünyemde kol geziyordu benim  
 gündüz gözü binbir ayak gölgeler  
 kaçamaz değildim kaçmadım  
 ve oracıkta alıkoydu zamansızlık gövdemi  
@@ -100,8 +99,9 @@ her şey yerli yerinde güya
 her yerde o bilindik her yerdelik  
 bir yeni mesaj -kalbimden  
 "var bu işte bir düzmecelik"  
+tam da o an  
 bir şeylere takılıyor geçerken ayağım  
-gök kubbe daralıyor  
+ve gök kubbe daralıyor  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
