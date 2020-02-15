@@ -31,7 +31,7 @@ kanadı kırık kalbim
 semâda dinlenen  
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
--üstelik eseleten*   
+üstelik eseleten*   
 bana "benim kalbim  
 aklımı döver" dedirten kalbim  
 uslanırsın diyorum ya bazen  
@@ -114,4 +114,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, Elazığ yerel ağzında ___'bilinçli olarak, bile isteye, kasten'___ manalarına tekabül etmektedir.
+__*__ Bu kelime, Elazığ yerel ağzında __'bilinçli olarak, bile isteye, kasten'__ manalarına tekabül etmektedir.
