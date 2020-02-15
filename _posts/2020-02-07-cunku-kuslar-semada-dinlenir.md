@@ -20,8 +20,8 @@ bazısı yakardı içi ateşler dehlizi
 hercai, yeltek ve gelgeçti bazısı  
 dilim vardı kıymetçe denk  
 tutuk bir çocuğunkine  
-devşirme kelimelerle sesleyen cümleleri  
-sözü müsvedde derler hani  
+devşirme kelimeleriyle sesleyen cümleleri  
+sözü müsvedde derlerdi hani  
 kendi başmüsevvit  
 ve bir kalbim vardı açılmayı bekleyen  
 her kapıya kilit  
