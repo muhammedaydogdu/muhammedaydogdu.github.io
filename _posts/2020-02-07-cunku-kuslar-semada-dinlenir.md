@@ -62,7 +62,7 @@ güç bulup hûzmelerden ışımalıydık
 oysa bünyemde kol geziyordu benim  
 gündüz gözü binbir ayak gölgeler  
 kaçamaz değildim kaçmadım  
-oracıkta alıkoydu zamansızlık gövdemi  
+ve oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
 durmaksızın yol alan içimde?  
