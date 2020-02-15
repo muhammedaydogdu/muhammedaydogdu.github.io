@@ -74,7 +74,7 @@ benim yüreğim
 bildiğini bilmeyenin  
 gözlerinden okunurmuş yalnızlığı  
 okumuştum aynalarca  
-hiç bitmeyecek bir gerçeği yıllar boyu   
+hiç bitmeyecek gerçeği yıllar boyu   
 aydım felek döndürünce devranı kendime  
 hakikat aşırdım bilgelerden  
 gözlerimde biriken yalanı tırmıkladım  
