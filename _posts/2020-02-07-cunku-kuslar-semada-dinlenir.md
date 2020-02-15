@@ -31,9 +31,9 @@ kanadı kırık kalbim
 semâda dinlenen  
 durulan uçtukça  
 ve daha çok ölümcül yaraları besleyen  
-_-üstelik eseleten*_  
-bana benim kalbim  
-aklımı döver dedirten kalbim  
+-üstelik eseleten*   
+bana "benim kalbim  
+aklımı döver" dedirten kalbim  
 uslanırsın diyorum ya bazen  
 gün gelir ama  
 zannetmem
@@ -99,9 +99,9 @@ her şey yerli yerinde güya
 her yerde o bilindik her yerdelik  
 bir yeni mesaj -kalbimden  
 "var bu işte bir düzmecelik"  
-tam da o an  
+ 
 bir şeylere takılıyor geçerken ayağım  
-ve gök kubbe daralıyor  
+gök kubbe daralıyor  
 aylardan haziran  
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
