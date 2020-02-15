@@ -56,18 +56,18 @@ yaklaşan üstümüze
 _-yoksa bir kez mi daha?_  
 _-sorgulamaya vakit yok!_  
 uzaklaşmalıydık  
-arındırmalıydık üstümüze yapış(tırıl)an  
+arındırmalıydık üstümüze yapışan  
 haydut idelerden kendimizi  
 güç bulup hûzmelerden ışımalıydık  
 oysa bünyemde kol geziyordu benim  
 gündüz gözü binbir ayak gölgeler  
 kaçamaz değildim kaçmadım  
-ve oracıkta alıkoydu zamansızlık gövdemi  
+oracıkta alıkoydu zamansızlık gövdemi  
 sordum özüme bir kere daha  
 bu benim mi yüreğimdi hoyrat  
 durmaksızın yol alan içimde?  
 adımları arası gittikçe ırayan  
-ve kaybolan zamanın ufkunda  
+kaybolan zamanın ufkunda  
 benim yüreğim  
 
 şimdi bildim  
