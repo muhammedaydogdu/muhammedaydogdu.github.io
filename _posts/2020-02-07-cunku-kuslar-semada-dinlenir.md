@@ -106,7 +106,7 @@ aylardan haziran
 sokak fenerleri göz kırpıyor yıldızlara  
 felâha çağrılıyor insanlar  
 bense kaçıyorum -ama kimden?  
-yüküm nedamet  
+yüküm nedâmet  
 biraz isyan ve de bolca sabır  
 söylesene toprak  
 insana bir düşman mıdır?  
