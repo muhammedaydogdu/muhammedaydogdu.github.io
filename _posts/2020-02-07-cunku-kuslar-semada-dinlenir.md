@@ -56,7 +56,7 @@ yaklaşan üstümüze
 _-yoksa bir kez mi daha?_  
 _-sorgulamaya vakit yok!_  
 uzaklaşmalıydık  
-arındırmalıydık üstümüze yapışan  
+arındırmalıydık üstümüze yapış(tırıl)an  
 haydut idelerden kendimizi  
 güç bulup hûzmelerden ışımalıydık  
 oysa bünyemde kol geziyordu benim  
