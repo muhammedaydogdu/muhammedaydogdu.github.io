@@ -114,4 +114,4 @@ insana bir düşman mıdır?
 
 ---
 
-__*__ Bu kelime, yerel Elazığ ağzında __'bilinçli olarak, bile isteye, kasten'__ manalarına tekabül etmektedir.
+__*__ Bu kelime, Elazığ ağzında __'bilinçli olarak, bile isteye, kasten'__ manalarına tekabül etmektedir.
