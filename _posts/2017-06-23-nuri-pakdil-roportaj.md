@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Röportaj
+author: Nuri Pakdil
+type: Röportaj
 title: Nuri Pakdil ile Röportaj
 x: "200"
 image: nuripakdil.jpeg
