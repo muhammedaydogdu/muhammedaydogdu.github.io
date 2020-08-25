@@ -83,7 +83,7 @@ rengi koyu ve hatta kızıla yakın
 yağmuru bekledim  
 yağdı fakat yağdıkça  
 rengi de silindi gökle beraber gözlerimin  
-ıslattı değdiği her yeri  
+ıslattı değdiği yeri  
 ıslandı değdiği her yer  
 azaldı, duraksadı ve dindi yağmur  
 bulutlar ardını kurutup gitti  
